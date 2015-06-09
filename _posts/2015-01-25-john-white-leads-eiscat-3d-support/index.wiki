@@ -7,6 +7,10 @@ image: "/media/john-white-mountains.jpeg"
 
 '''NeIC has hired Geneva-based physicist John White to support EISCAT_3D in meeting its e-Infrastructure and e-Science needs.'''
 
+<a href="/media/john-white-mountains.jpeg">
+<img class="smallpic" href="/media/john-white-mountains.jpeg">
+</a>
+
 EISCAT_3D is a new radar system dedicated to observations of the Earth’s polar atmosphere. This Research Infrastructure for environmental science on the European Commissions [http://ec.europa.eu/research/infrastructures/pdf/esfri-strategy_report_and_roadmap.pdf#view=fit&pagemode=none ESFRI Roadmap] will be operated by the [https://www.eiscat.se/ EISCAT Scientific Association]. EISCAT is currently funded by research councils in China, Japan, Finland, Norway, Sweden and the United Kingdom and has its headquarters in Kiruna, Sweden. EISCAT_3D stage 1 will operate at three sites in the far North.
 
 “The goal of the project is to support EISCAT_3D to meet its e-Infrastructure and e-Science needs,” John White says.
