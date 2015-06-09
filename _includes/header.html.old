@@ -1,0 +1,24 @@
+<a href="/#" class="opener">Menu</a>
+<nav class="slide js-slide-hidden">
+  <ul id="nav">
+    <li id="portaltab-index_html" {% if page.url == '/index.html' %} class="selected" {% else %} class="plain" {% endif %}><a href="/" title="">Home</a></li>
+	{% assign tmp = page.url|split:"/" %}
+	{% assign current_section = tmp[1] %}
+	{% for p in site.pages %}
+	  {% assign parts=p.url|split:"/" %}
+	  {% assign length=parts|size %}
+	  {% if parts.last == 'index.html' and length == 3 %}
+        {% unless p.hidden %}
+          <li id="portaltab-{{ parts[1] }}" {% if parts[1] == current_section %} class="selected" {% else %} class="plain" {% endif %}><a href="{{ p.url|remove:'/index.html' }}" title="{{ p.description }}">{{ p.title }}</a></li>
+	    {% endunless %}
+      {% endif %}
+    {% endfor %}
+</ul>
+</nav>
+<div class="panel">
+  <div class="holder">
+    <strong class="logo-neic"><a href="/" title="NeIC">neic Nordic e-Infrastructure Collaboration</a></strong>
+    <strong class="logo"><a href="/" title="NeIC">norden NordForsk</a></strong>
+  </div>
+</div>
+ 

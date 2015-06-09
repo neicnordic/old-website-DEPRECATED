@@ -1,0 +1,33 @@
+---
+layout: menu
+title: Mission and Goals
+Description: Mission, goals and strategy.
+menu: 70
+---
+
+= Mission and Goals =
+'''The vision of NeIC is to facilitate the development and operation of high 
+quality e-infrastructure solutions in areas of joint Nordic interest.'''
+
+=== NeIC supports the Nordic research community by ===
+* Supporting collaboration on e-Infrastructure in the Nordic region.
+* Providing added value to researchers and national funders.
+* Contributing to more cost-efficient development and deployment of e-Infrastructure services.
+* Supporting the national e-Infrastructure providers in terms of competence building, task sharing and joint operation of services.
+
+Collaboration on the development of new services will make broader use 
+of existing technical know-how across the Nordic countries and 
+facilitate the development of common services for a larger user community. 
+This will lead to added value for the user communities in the shape of a 
+wider range of available services tailored to their needs, increased 
+opportunities for Nordic collaboration and enhanced international competitiveness.
+
+=== Important goals are to ===
+
+* Develop a sustainable funding model and increase transparency in relation to costs and financing of activities.
+* Consolidate all major strategic decisions within the national e-infrastructure organizations.
+* Develop new services for Nordic research communities within the Bio- and Medical Sciences.
+* Ensure that The Nordic Tier-1 service is run cost-efficiently and as an example of excellence to other service providers within WLCG.
+
+See also [[/media/13-32-05-NeIC-Strategy-131008.pdf|NeIC's 2013 strategy document]].
+

@@ -1,0 +1,30 @@
+---
+layout: menu
+title: Board
+description: The NeIC board.
+---
+
+= The NeIC board =
+
+The NeIC Board consists of 5 representatives, one from each national
+e-Infrastructure organisation. 
+The budget for 2013 is NOK 16.5 million, with contributions from the 
+five countries plus NordForsk.
+
+== Current board members ==
+
+Jacko Koster, Director, SNIC, Sweden. [mailto:Jacko.Koster@it.uu.se Jacko.Koster@it.uu.se]. Board Member since 01.01.2012
+
+Gunnar Bøe, Managing Director, Sigma2 AS, Norway, [mailto:gunnar.boe@uninett.no gunnar.boe@uninett.no]. Board Member since 01.01.2015
+
+Pekka Lehtovuori, ‎Director for Services for Research, CSC, Finland, [mailto:pekka.lehtovuori@csc.fi pekka.lehtovuori@csc.fi]. Board Member since 01.09.2014
+
+Ebba Þóra Hvannberg, Professor, University of Iceland, Iceland, [mailto:ebba@hi.is ebba@hi.is]. Board Member since 01.01.2012
+
+Steen Pedersen, Director, DeIC, Denmark, [mailto:sp@adm.dtu.dk sp@adm.dtu.dk]. Board Member since 01.01.2012
+
+Terms of Reference for the NeIC Board
+
+[[/media/130506-NeIC-MoU-signed-by-all.pdf|MoU between the NeIC funding partners]].
+
+

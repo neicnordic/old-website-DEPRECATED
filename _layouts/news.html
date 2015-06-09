@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0030)http://neic.nordforsk.no/about -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--<base href="http://neic.nordforsk.no/about/test/">--><base href=".">
+<meta content="The Nordic e-Infrastructure Collaboration (NeIC) is an organisation that facilitates the development and operation of high-quality e-Infrastructure solutions in areas of joint Nordic interest.
+
+The NeIC is a distributed organisation consisting of technical experts from academic high-performance computing centres across the Nordic countries. " name="description"><meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666"><meta name="generator" content="Plone - http://plone.org"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>{{ page.title }} - NeIC</title><link media="all" rel="stylesheet" type="text/css" href="/assets/css/base.css"><link media="all" rel="stylesheet" type="text/css" href="/assets/css/public.css"><link rel="stylesheet" href="/assets/css/all.css" media="all"><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/assets/js/jquery-1.8.3.min.js"></script><script src="/assets/js/jquery.main.js"></script><!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/++theme++Neic-theme/css/ie.css" /><![endif]--><!--[if IE]><script type="text/javascript" src="/++theme++Neic-theme/js/ie.js"></script><![endif]--><script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+    ga('create', 'UA-1074863-4', 'nordforsk.org');
+    ga('send', 'pageview');
+ 
+  </script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-43902740-1', 'nordforsk.org');
+  ga('send', 'pageview');
+ 
+</script>
+        <link rel="stylesheet" type="text/css" href="/assets/css/++resource++plone.app.toolbar_init.css">
+        <script type="text/javascript" src="/assets/js/++resource++plone.app.toolbar_init.js"></script>
+    <style type="text/css">.js-slide-hidden{position:absolute !important;left:-9999px !important;top:-9999px !important;display:block !important}</style><style type="text/css"></style></head><body dir="ltr" class="template-newsitem_view portaltype-case-study site-Plone section-about subsection-test icons-on userrole-anonymous"><div id="wrapper">
+	<header id="header" class="open-close">
+      {% include header.html %}
+	</header>
+	<div id="main"><section id="content"><div class="content-holder">
+		  <nav class="breadcrumbs">
+			  <span id="breadcrumbs-home" dir="ltr">
+			    <a href="/">Home</a>
+			  </span>
+			  <span id="breadcrumbs-home" dir="ltr">
+			    <a href="/news">News</a>
+			  </span>
+			<span id="breadcrumbs-1" dir="ltr">
+              <span id="breadcrumbs-current">{{ page.title }}</span>
+			</span>
+		  </nav>
+<article>
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+    <span class="newsdate">{{page.date|date: "%-d %b %Y" }}</span>
+{{ content }}
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </article></div>
+		</section>
+<aside id="sidebar">
+  <nav class="sub-nav">
+	<dd class="portletItem lastItem">
+	  <ul class="navTree navTreeLevel0">
+		<!--
+		<li class="navTreeItem visualNoMarker navTreeFolderish section-mission">
+          <a href="http://neic.nordforsk.no/about/mission" class="state-published navTreeFolderish contenttype-folder" title="">
+            <span>Mission and Goals</span>
+          </a>
+		</li>-->
+		{% for post in site.posts limit:10 %}
+		  <li><span class="newsdate">{{post.date|date: "%-d %b %Y" }}</span><br/><a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}</a></li>
+		{% endfor %}
+	  </ul>
+<span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd></nav></aside></div>
+	<footer id="footer"><div class="footer-holder">
+		{% include footer.html %}
+	</footer></div></body></html>

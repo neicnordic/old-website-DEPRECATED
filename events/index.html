@@ -1,0 +1,32 @@
+---
+title: "Events"
+description: "Current events"
+---
+
+<script src="/assets/js/gcal-events.js"></script>
+
+<h1> Current events </h1>
+
+<p> This page contains upcoming events from the NeIC <a href="https://wiki.neic.no/wiki/Event_calendar">event calendar</a>, which includes both NeIC events and stakeholder events where NeIC either has a presence or simply wants to advertize. You may also want to look for <a href="past/">past events</a>.
+
+<h3> Highlights </h3>
+
+<span class="event-list">
+<script>
+var calendar_url = "https://www.google.com/calendar/feeds/sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com/public/basic?hl=en&orderby=starttime&sortorder=ascending&futureevents=true&alt=json";
+var widget = document.scripts[document.scripts.length - 1].parentNode;
+renderEvents(widget, calendar_url, "highlight", "");
+</script>
+</span>
+
+<h2> All current events </h2>
+
+<span class="event-list">
+<script>
+var calendar_url = "https://www.google.com/calendar/feeds/sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com/public/basic?hl=en&orderby=starttime&sortorder=ascending&futureevents=true&alt=json";
+var widget = document.scripts[document.scripts.length - 1].parentNode;
+renderEvents(widget, calendar_url, "", "");
+</script>
+</span>
+
+These lists are generated with javascript in your browser, so if you cannot see any events please check your settings.

@@ -1,0 +1,32 @@
+<!-- Pagination links -->
+{{ paginator.total_posts }} news articles in {{ paginator.total_pages }} pages, {{ paginator.per_page }} articles per page. 
+<div class="pagination">
+  Page {{ paginator.page }} of {{ paginator.total_pages }}
+  &nbsp;
+  <a href="/news/">First</a>
+  &nbsp;
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">&lt;</a>
+  {% else %}
+    <span class="previous">&lt;</span>
+  {% endif %}
+  &nbsp;
+  <select onchange="location = this.options[this.selectedIndex].value;">
+    <option value="/news/" {% if paginator.page == 1 %}selected{% endif %}>1</option>
+    {% for i in (2..paginator.total_pages) %}
+      <option value="/news/page{{ i }}" {% if i == paginator.page %}selected{% endif %}>{{ i }}</option>
+    {% endfor %}
+  </select>​
+  &nbsp;
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">&gt;</a>
+  {% else %}
+    <span class="next ">&gt;</span>
+  {% endif %}
+  &nbsp;
+  {% if paginator.total_pages > 1 %}
+    <a href="/news/page{{ paginator.total_pages }}" class="next">Last</a>
+  {% else %}
+    <a href="/news/" class="next">Last</a>
+  {% endif %}
+</div>

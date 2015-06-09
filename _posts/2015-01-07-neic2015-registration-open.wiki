@@ -1,0 +1,31 @@
+---
+title: "Registration now open: NeIC2015 conference"
+summary: "NeIC will 5-8 May 2015 host the second conference on e-infrastructure: Nordic Collaboration for Global Excellence."
+image: "/assets/img/guitar.jpeg"
+---
+
+= Registration now open: NeIC2015 conference =
+
+'''NeIC will 5-8 May 2015 host the second conference on e-infrastructure: Nordic Collaboration for Global Excellence.'''
+
+<a href="/assets/img/guitar.jpeg">
+<img class="smallpic" src="/assets/img/guitar.jpeg">
+</a>
+
+In 2015, NeIC and CSC are hosting, in collaboration with UNINETT Sigma, NORDUnet, DeIC, RHnet, and SNIC the four days of networking, training, and sharing of ideas in order for the wider e-infrastructure community to get wiser together.
+
+Key speakers are among others
+
+* Paul C. Messina, Director of Science, Argonne National Laboratory
+* Nancy Wilkins-Diehr, SDSC
+* Alison Kennedy, EPCC, PRACE board of directors.
+
+The [https://events.nordu.net/display/NeIC2015/Programme programme] consists of two days of workshops and two days of sessions, see [https://neic2015.nordforsk.org neic2015.nordforsk.org] for more.
+
+The [http://neic.nordforsk.org/news/discussions-on-e-infrastructure-in-trondheim first e-infrastructure conference] was held in Trondheim in May 2013
+
+=== [https://ilmo.contio.fi/ffconference/main.aspx?id=151 Registration] === 
+
+Join us in discussions, talks, and networking on e-infrastructure in Helsinki
+
+

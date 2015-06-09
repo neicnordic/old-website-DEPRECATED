@@ -1,0 +1,20 @@
+---
+title: Skandinavisk
+description: Briefly about NeIC in Scandinavic.
+menu: 200
+---
+
+= Om NeIC =
+
+Nordic e-Infrastructure Collaboration (NeIC) har som formål å legge til rette for utvikling av e-Infrastrukturløsninger av høy kvalitet innenfor områder av felles nordisk interesse.
+
+<iframe frameborder="0" height="400" src="http://www.youtube.com/embed/bJdWJt-ikks" style="" width="540"></iframe>
+
+Samarbeidet startet i 2003, som svar på forskningsrådenes beslutning om å bidra til den verdensomspennende dugnaden for analyse og lagring av datastrømmen fra eksperimenter utført ved Large Hadron Collider i CERN.
+
+NeIC søker å bringe sammen ekspertise fra alle aktuelle miljøer i Norden i møte med brukerkrav fra ledende nordiske forskergrupper for å utvikle nye avanserte IT-tjenester.  Slike tjenester utvikles og implementeres innenfor prioriterte områder der vi kan tilføre nordisk merverdi.
+
+Vi er en distribuert organisasjon, som administreres av [http://nordforsk.org/ NordForsk] i Oslo. NeIC består av tekniske eksperter som arbeider ved universitetenes tungregnesentre og nasjonale sentre i Norden. Vi legger til rette for utvikling av avanserte IT-verktøy som kan hjelpe forskerne i deres arbeid.
+
+Ved å utnytte tilgjengelig ekspertise i de nordiske land kan vi sammen utvikle en mer effektiv og fleksibel e-Infrastruktur. Dermed unngår vi kostnadskrevende paralleloppbygging i hvert enkelt land. Ved å tilby en felles e-Infrastruktur legger vi grunnlag for økt nordisk forskningssamarbeid.
+

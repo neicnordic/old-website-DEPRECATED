@@ -1,0 +1,270 @@
+---
+title: Team and Contact
+description: The people of NeIC and how to reach them.
+menu: 50
+---
+
+= NeIC Team and Contact =
+'''We are a distributed organisation consisting of administration and technical experts working at NordForsk, university IT-centres, and national e-infrastructure centers in the Nordics.'''
+
+The NeIC is located at NordForsk in central Oslo, Stensberggata 25, 0170 Oslo, Norway, together with the Nordic organisations Nordic Innovation Centre and Nordic Energy Research.
+
+[http://maps.google.no/maps?f=q&source=s_q&hl=no&geocode=+&q=stensberggata+25,+oslo&aq=+&sll=61.143235,9.09668&sspn=18.368471,53.569336&ie=UTF8&hq=+&hnear=Stensberggata+25,+Sankt+Hanshaugen,+0170+Oslo&z=16 Click here for map]
+
+
+== Gudmund Høst, Director ==
+
+<img class="smallpic-left" src="gudmund.jpg">
+
+[mailto:Gudmund.Host@nordforsk.org Gudmund.Host@nordforsk.org], M: +47 95 81 68 46
+
+Gudmund Høst is the Director of the NeIC, and is employed at [http://nordforsk.org NordForsk] in Oslo.
+
+Prior to this he has held positions at the Research Council of Norway and the Department of Oceanography and Wave Statistics at DNV, and was also Chief Research Scientist at the Norwegian Computing Center, where he worked on statistical modelling of environmental data.
+
+He has served as Chair of the Steering Board of Nordic Data Grid Facility, and has played a key role in the planning of the Nordic eScience Initiative. He has participated in expert committees on e-Infrastructures under the auspices of the US National Science Foundation and the European Commission, and in The Netherlands, Sweden and South Africa. He served as Chair of the e-Infrastructures Reflection Group (e-IRG) from 2011 to 2012.Høst holds a Master’s degree in Fluid Mechanics and a Ph.D. in Science and Mathematical Statistics, both from the University of Oslo.
+
+== Thomas Röblitz, Environment and Climate Area Coordinator ==
+
+<img class="smallpic-left" src="thomas.jpg">
+
+[mailto:thomas.roblitz@usit.uio.no thomas.roblitz@usit.uio.no], M: +47 4141 0799
+
+Thomas Röblitz is located at the University of Oslo, University Center for Information Technology (USIT), and holds a 80% position at NeIC. He was educated at Humboldt University in Berlin, and holds a PhD in Computer Science focusing on Grid Resource management.
+
+Thomas has extensive experience in researching, designing, developing and operating distributed e-Infrastructures for scientists in Norway, the Nordics and Europe. He is currently coordinating USIT's HPC compute area which serves local, national and international scientists from various desciplines.
+
+== Mattias Wadenstein, Tier-1 Area Coordinator ==
+
+<img class="smallpic-left" src="maswan.jpg">
+
+[mailto:maswan@hpc2n.umu.se maswan@hpc2n.umu.se], M: +46 70 79 69 46 2
+
+Mattias Wadenstein has a background in systems administration from the High Performance Computing Center North [http://www.hpc2n.umu.se/ HPC2N], Umeå University, and has been working for the NDGF Tier-1 as systems integrator for most of the project’s lifetime. He is now Area Coordinator and is responsible for delivering the WLCG Tier-1 services to the LHC experiments.
+
+
+== Michaela Barth, Generic Area Coordinator (parental leave) ==
+
+<img class="smallpic-left" src="caela.jpg">
+
+[mailto:caela@kth.se caela@kth.se], P: +46 87 90 78 91
+
+Michaela Barth is employed at the [http://www.pdc.kth.se/ PDC Center for High Performance Computing], KTH Royal Institute of Technology, Stockholm and holds a 80% position at the the NeIC. She was educated at the University of Innsbruck and has a Ph.D. in Natural Sciences, focusing on astrophysics and grid computing.
+
+Barth has extensive experience in project management and systems administration for distributed computing infrastructures at both the national and the European levels, including her current role as national coordinator for the Partnership for Advanced Computing in Europe (PRACE) node in Sweden.
+
+== Dejan Vitlacil, Generic Area Coordinator (ad interim) ==
+
+<img class="smallpic-left" src="dejan.jpeg">
+
+[mailto:vitlacil@kth.se vitlacil@kth.se], M: +46 76 064 18 45
+
+Dejan Vitlacil is employed at the [http://www.pdc.kth.se/ PDC Center for High Performance Computing], KTH Royal Institute of Technology, Stockholm and holds a 50% position at the NeIC as Generic Area Coordinator.
+
+== Joel Hedlund, Coordinator for Bio- and Medical Sciences ==
+
+<img class="smallpic-left" src="joel.jpg">
+
+[mailto:joel@nsc.liu.se joel@nsc.liu.se], M: +46 73 46 07 12 6
+
+Joel Hedlund is located at the [http://www.nsc.liu.se National Supercomputer Centre (NSC)], Linköping University, and holds a 80% position at the NeIC. He was educated at Linköping University and has a Ph.D. in Bioinformatics, focusing on automated protein family definition and distributed computing. He has experience in coordination of distributed projects, community building and managing development projects for secure science gateways and persistent and accessible storage.
+
+Hedlund is currently engaged as an Application Expert in Bioinformatics at the Swedish e-Science Research Centre.
+
+== Pål Pettersen, Administrative Coordinator ==
+
+<img class="smallpic-left" src="pal.jpg">
+
+[mailto:paal.pettersen@nordforsk.org paal.pettersen@nordforsk.org], M: +47 415 10 974
+
+Pål Pettersen is employed at NordForsk, Oslo. He works as the NeIC Administrative Coordinator.
+
+== Behrmann, Systems Software Specialist ==
+
+<img class="smallpic-left" src="gerd.jpg">
+
+[mailto:behrmann@ndgf.org behrmann@ndgf.org], M: +45 31 62 14 05
+
+Gerd Behrmann is the NeIC Systems Software Specialist, located in Copenhagen, Denmark. He has been involved with the NDGF Tier-1 since 2007, both as a storage architect and administrator of central services, and as lead developer of storage software for the Tier-1.
+
+Behrmann holds a Ph.D. in Computer Science. His previous employments include associate professor at Aalborg University and software developer at NORDUnet.
+
+== Antti Pursula, Project Manager ==
+
+<img class="smallpic-left" src="antti.jpg">
+
+[mailto:antti.pursula@csc.fi antti.pursula@csc.fi], M: +358 50 3819537
+
+Antti Pursula is located at CSC - IT Center for Science Ltd in Finland and holds a 60% position at NeIC. He is the project manager of the NeIC's Tryggve project on sensitive data for the bio- and medical sciences.  He is also a project director of research infrastructures at CSC coordinating CSC’s participation in various research infrastructure projects. He has broad experience from different roles ranging from software development and customer interaction to project management and leading a service area.
+
+== Magnus Jonsson, Developer ==
+
+<img class="smallpic-left" src="magnus.jpg">
+
+[mailto:magnus@hpc2n.umu.se magnus@hpc2n.umu.se], M: +46 767 660 735
+
+Magnus is employed at High Performance Computing Center North HPC2N, Umeå University. Magnus Jonsson is managing the SGAS Maintenance Project. He has a background as a system engineer, developer, systems integrator, project manager, and more from multinational companies, local county council and Umeå university. 
+
+== Dmytro Karpenko, Tier-1 Operations ==
+
+<img class="smallpic-left" src="dmytro.jpeg">
+
+[mailto:dmytro.karpenko@usit.uio.no dmytro.karpenko@usit.uio.no], M: +47 9577 6417
+
+Dmytro Karpenko has a master degree in Computer System and Networks. Since 2007 Dmytro has been working in data processing for the LHC-experiments: ALICE and ATLAS. Currently Karpenko occupies a senior engineer position at the University centre for information technology in Oslo, where he is involved in the operation of the Oslo part of the Nordic WLCG Tier-1 center. Karpenko is also hired by NeIC to perform supervision of the grid production in the whole Nordic cloud.
+
+== Petter Urkedal, Tier-1 Operations ==
+
+<img class="smallpic-left" src="petter.jpg">
+
+[mailto:urkedal@nbi.dk urkedal@nbi.dk], M: +45 35 32 53 61
+
+Petter Urkedal is located at the [http://www.nbi.ku.dk/ Niels Bohr Institute], University of Copenhagen. He has been involved with the NDGF Tier-1 for many years, first maintaining the monitoring infrastructure and now also as a system administrator. He holds a Ph.D. in Theoretical Physics, and has been working with systems administration and software development since 2002.
+
+== Jens Larsson, Tier-1 Operations ==
+
+<img class="smallpic-left" src="jens.jpg">
+
+[mailto:jens@ndgf.org jens@ndgf.org], P: +46 13 28 14 32
+
+Jens Larsson is currently employed at the [http://www.nsc.liu.se National Supercomputing Centre] in Linköping, Sweden.
+
+His main responsibility is for operations for SweStore – the Swedish Storage Initiative. His Tier-1 work involves operations for various support services.
+ 
+== Ulf Tigerstedt, Tier-1 Operations ==
+
+<img class="smallpic-left" src="ulf.jpg">
+
+[mailto:ulf.tigerstedt@csc.fi ulf.tigerstedt@csc.fi], M: +35 85 03 81 85 58
+
+Ulf Tigerstedt is employed as a grid administrator at [http://www.csc.fi CSC] in Finland. He is responsible for the Nordic NGI (NGI_NDGF) and also performs general technical work for the NDGF Tier-1.
+
+== Jon Kerr Nilsen, ARC Release Manager ==
+
+<img class="smallpic-left" src="jon.jpg">
+
+[mailto:j.k.nilsen@usit.uio.no j.k.nilsen@usit.uio.no], M: +47 40203659
+
+Jon Kerr Nilsen is located at the University of Oslo, [http://www.usit.uio.no/english/ University Center for Information Technology]. He has been involved in development of the NorduGrid ARC middleware for several years and is currently acting as ARC release manager in addition to doing development tasks for the NDGF Tier-1.
+
+Nilsen holds a PhD in High Energy Physics and was acting as deputy leader of the development work group during the EMI EU-project.
+
+== John White, project Manager Supporting EISCAT_3D-Project ==
+
+<img class="smallpic-left" src="john.jpeg">
+
+[mailto:john.white@cern.ch john.white@cern.ch]
+
+John White, 48, is located near Geneva, Switzerland and holds a 50% position as project manager with NeIC in the Supporting EISCAT_3D project. He was educated at the University of Victoria in Canada and holds a PhD in Physics focusing on LEP Standard Model measurements. He has worked since 1999 based at CERN and has experience in distributed computing since 2000 through the series of European Grid projects.
+
+== Erik Edelmann, Tier-1 Operations ==
+
+<img class="smallpic-left" src="erik.jpg">
+
+[mailto:erik.edelmann@csc.fi erik.edelmann@csc.fi], M: +35 85 03 81 90 55
+
+Erik Edelmann is employed at CSC in Finland. He has previously been involved with the Finnish Tier-2 site, assisting with the development of the CMS project. Currently his main responsibility is the ALICE experiment within the NDGF Tier-1. He is also responsible for Tier-1 accounting.
+
+== Oxana Smirnova, CERN Liaison ==
+
+<img class="smallpic-left" src="oxana.jpg">
+
+[mailto:oxana.smirnova@hep.lu.se oxana.smirnova@hep.lu.se], M: +46 70 92 24 65 7
+
+Oxana Smirnova is employed at the [http://www.hep.lu.se/ Particle Physics division in Lund University], Sweden. A graduate of Moscow State University, she obtained a Ph.D. in Physics from Lund University, working with the DELPHI experiment at CERN. She is a member of the ATLAS collaboration at CERN, and is one of the developers of the distributed grid computing model.
+
+Smirnova is also one of the initiators and early users of the NorduGrid ARC middleware. She serves as the CERN Liaison at the NeIC, representing the NDGF Tier-1 vis-à-vis the Worldwide LHC Computing Grid.
+
+== Xiaxi Li, Tryggve staff ==
+
+<img class="smallpic-left" src="xiaxi.png">
+
+[mailto:xiaxi.li@ii.uib.no xiaxi.li@ii.uib.no], P: +47 55584097
+
+Xiaxi Li is located at the Computational Biology Unit (CBU), University of Bergen, Norway. He is working in the NeIC's Tryggve project on sensitive data for the bio- and medical sciences. He has a background as a software engineer, and got the master degree in Software Engineering of Distributed Systems at KTH Royal Institute of Technology, Stockholm.
+
+== Pontus Freyhult, Tryggve staff ==
+
+[mailto:pontus.freyhult@it.uu.se pontus.freyhult@it.uu.se]
+
+Pontus has worked in various roles within the fields of software development and operations and offers expertise in many different computer-centric fields, including performance.
+
+His current focus is working with solutions for large scale storage to provide short term as well as long term storage for biological data.
+
+== Jonas Hagberg, Tryggve staff ==
+
+[mailto:jonas.hagberg@bils.se jonas.hagberg@bils.se], M: +46 706683869
+
+After Jonas received his MSc in bioinformatics at Uppsala University, he worked as a research assistent at the Department of Evolutionary Biology and Molecular Evolution at the University. Between 2007 and 2011 Jonas held a position as a system expert at [http://www.uppmax.uu.se/ UPPMAX] super computing centre, with focus on large scale storage, bioinformatics and NGS. He was the project manager at the start up of UPPNEX. Jonas developed the first iRODS system at UPPNEX and is also the developer of the [https://portal.scilifelab.se/genomics/ portal for the National Genomics Infrastructure] and for the development of Swedish sensitive data platform Mosler.
+
+== Johan Viklund, Tryggve staff ==
+
+[mailto:johan.viklund@bils.se johan.viklund@bils.se]
+
+Johan Viklund earned his PhD in Evolutionary Biology at Uppsala University. His thesis focused on phylogenomics of oceanic bacteria and mitochondria.
+
+Now he is working on the BILS Tools Platform, an initiative to create simple and secure web-based access to computational resources.
+
+== Andreas Kähäri, Tryggve staff ==
+
+[mailto:andreas.kahari@bils.se andreas.kahari@bils.se]
+
+Andreas works at BILS in Uppsala as a system developer.
+
+After studying numerical analysis and high performance computing at Uppsala university in the 1990s, he moved into the field of software development for life sciences by working as a research fellow and bioinformatics support technician for AgResearch in New Zealand. He has also worked at [http://www.ebi.ac.uk/ EMBL-EBI] outside Cambridge in the UK to help implement and deploy distributed annotation servers (DAS) within the national e-Protein network and the European BioSapiens network of excellence. He was also part of the Ensembl software team and developed and maintained the Ensembl infrastructure, i.e. the API and SQL schema, as well as BioMart. Before coming back to Uppsala in 2014, he worked in the Ensembl gene annotation team at the Wellcome Trust Sanger Institute for two years, mainly focusing on various aspect of the Ensembl automatic gene annotation pipeline.
+
+== Samuel Lampa, Tryggve staff ==
+
+[mailto:samuel.lampa@bils.se samuel.lampa@bils.se], M: +46 70 207 3732 
+
+Samuel is working at BILS as a systems developer, developing infrastructure, and tools for things like  automated storage (iRODS) graphical user interfaces, and workflow and data management.
+
+== Ali Syed, Tryggve staff ==
+
+<img class="smallpic-left" src="ali.png">
+
+[mailto:alisyed@cbs.dtu.dk alisyed@cbs.dtu.dk], M: +45 60 90 46 46
+
+M.Sc. Computer science, with over 15 years of experience in IT from Oracle in the US to building large supercomputers across Europe at SGI (Silicon graphics) including Life sciences and metrological verticals. Ali has built many XL computing installations at many of large financial, healthcare and production institutions in Europe. Currently working at the Danish national life sciences super computer and Tryggve, working to build next generation workflows and cloudification of life sciences research.
+
+== Jaakko Leinonen, Tryggve staff ==
+
+[mailto:jaakko.leinonen@csc.fi jaakko.leinonen@csc.fi]
+
+Jaakko has some 15 years of experience in desinging, running and managing systems with high levels of privacy, security and confidentiality. He is currently looking after a still-in-development cloud environment to meet the Finnish regulations on sensitive data processing. Jaakko is also operating the PRACE (European HPC infrastructure) resources at CSC in Finland.
+
+== Karan Singh, Tryggve staff ==
+
+<img class="smallpic-left" src="Karan.jpeg">
+
+[mailto:karan.singh@csc.fi karan.singh@csc.fi], W: +358 503812758
+
+Karan Singh is located at CSC-IT Centre for Science Ltd. Espoo , Finland. He is working in the NeIC’s Tryggve project on sensitive data for the bio and medical sciences. He has a background as a system administrator for unix and storage and got the master degree in system engineering at BITS Pilani, INDIA. His current focus is to implement large scale, long term storage solution for CSC cloud computing environment.
+
+== Abdulrahman Azab, Tryggve staff ==
+
+[mailto:azab@ifi.uio.no azab@ifi.uio.no]
+
+Abdulrahman Azab, a head Engineer at the Department of Informatics, University of Oslo, and a senior lecturer at the Department of Computer Engineering and Control Systems, Mansoura University, Egypt. Main fields of expertise are High Performance Computing, High Throughput Computing, Cloud Computing, Artificial Intelligence, Database Management Systems, Microcontrollers and PLCs.
+
+== Gard Thomassen, Tryggve staff ==
+
+[mailto:g.o.s.thomassen@usit.uio.no g.o.s.thomassen@usit.uio.no]
+
+Gard Thomassen, PhD, Group leader for the Research Services group at the University Centre for IT at the University of Oslo. Our main focus is to help researchers with complex IT needs that far outgrow the regular desktop and the local-IT helpdesk. We have a foxus on portal services to enable HPC computing with a low user threshold and have also been the Project leader for the TSD (Services for Sensitive Data) project at USIT, UIO since January 2012. My group also does general user support on HPC and storage for Sigma2.
+
+== Erland Hochheim, Tryggve staff ==
+
+<img class="smallpic-left" src="erland.jpeg">
+
+[mailto:erhh@cbs.dtu.dk erhh@cbs.dtu.dk], M: +45 40952482
+
+25 years experience in R&D High Performance Computing, computing operations, system administration and consulting at global enterprises such as Ericsson, Cap Gemini, Nokia and Renesas Mobile Corporation.
+ 
+Currently at Technical University of Denmark, Department of Systems Biology, Center for Biological Sequence Analysis, as Systems Administrator on the National Life Sciences Supercomputer (aka. Computerome).
+
+== Piotr Chmura, Tryggve staff ==
+
+[mailto:pjchmura@cbs.dtu.dk pjchmura@cbs.dtu.dk]
+
+Piotr works mainly for software provisioning tasks in Tryggve project. He is located at Center for Biological Sequency Analysis at DTU.

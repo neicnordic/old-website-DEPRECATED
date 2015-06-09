@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Bootstrap -->
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="/assets/css/custom.css" rel="stylesheet" media="screen">
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.png" />
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../../assets/js/html5shiv.js"></script>
+      <script src="../../assets/js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+
+    <div class="container">
+
+    <div class="row">
+      <div class="col-md-12">
+        <div class="page-header">
+        <a href="/"><img src="/assets/img/neiclogo.png" /></a>
+        <h2 class="pull-right">Nordic e-Infrastructure Collaboration</h2>
+        </div>
+      </div>
+    </div>
+
+      <div class="row">
+        <ol class="breadcrumb">
+        {% for p in page.ancestors %}
+          <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+        {% endfor %}
+        <li class="active">{{ page.title }}</li>
+        </ol>
+      </div>
+
+      <div class="row">
+        <div class="col-md-8">
+        {{ content }}
+        </div class>
+      </div>
+
+      <div class="row">
+      {% generate_navigation %}
+      </div>
+
+
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="/assets/js/jquery-1.9.0.min.js" type="text/javascript"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/assets/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="/assets/js/grids.js"></script>
+
+<script type="text/javascript">
+        // Keep all of our elements the same height, all the time.
+        jQuery(function($) {
+                $('.col-md-4').responsiveEqualHeightGrid();
+                $('.col-md-6').responsiveEqualHeightGrid();        
+        });
+</script>
+
+  </body>
+</html>

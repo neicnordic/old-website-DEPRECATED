@@ -1,0 +1,36 @@
+---
+title: "Past events"
+description: "Past events"
+---
+
+<script src="/assets/js/gcal-events.js"></script>
+
+<h1> Past events </h1>
+
+<p> This page contains past events from the NeIC <a href="https://wiki.neic.no/wiki/Event_calendar">event calendar</a>, which includes both NeIC events and stakeholder events where NeIC either has a presence or simply wants to advertize. You may also want to look for <a href="/events">current events</a>.
+
+<h3> Highlights </h3>
+
+<span class="event-list">
+<script>
+var today = new Date().toJSON().substring(0,10);
+var calendar_url = "https://www.google.com/calendar/feeds/sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com/public/basic?hl=en&orderby=starttime&sortorder=descending&max-results=500&alt=json&start-max=" + today;
+var widget = document.scripts[document.scripts.length - 1].parentNode;
+renderEvents(widget, calendar_url, "highlight", "");
+</script>
+</span>
+
+<h2> All past events </h2>
+
+<span class="event-list">
+<script>
+var today = new Date().toJSON().substring(0,10);
+var calendar_url = "https://www.google.com/calendar/feeds/sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com/public/basic?hl=en&orderby=starttime&sortorder=descending&max-results=500&alt=json&start-max=" + today;
+var widget = document.scripts[document.scripts.length - 1].parentNode;
+renderEvents(widget, calendar_url, "", "");
+</script>
+</span>
+
+<p> These lists are generated with javascript in your browser, so if you cannot see any events please check your settings.
+
+<p> This list will only show a limited number of past events (a few hundred). To see older events than this please use another means of accessing the calendar, as described on the <a href="https://wiki.neic.no/wiki/Event_calendar">event calendar wiki page</a>.

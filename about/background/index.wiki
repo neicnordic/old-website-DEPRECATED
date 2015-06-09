@@ -1,0 +1,18 @@
+---
+title: Background
+description: How NeIC came to be.
+menu: 800
+---
+
+= Background =
+
+In 2002 the Joint Committee of the Nordic Natural Science Research Councils (NOS-N) supported a pilot project with the aim of establishing an inter-Nordic data grid test facility (NDGF). The purpose of the NDGF was to distribute computing infrastructure. After a two-year pilot period, the NDGF was given the mandate to propose a Nordic grid infrastructure and an organisation to manage and develop the grid for scientific computing in the Nordic countries. The NDGF was hosted by NORDUnet A/S.
+
+The NDGF pilot has since matured into the successful deployment of the first and only distributed Tier-1 service within the WLCG collaboration, and has served as a role model for regional collaboration.
+
+A proposal for a new Nordic collaboration on distributed computing infrastructure was presented in 2009 (“Proposal for a Sustainable Nordic Collaboration on Distributed Computing Infrastructure”, Jacko Koster et.al, 5.5.2010.), on commission from the eNORIA group (see [http://www.nordforsk.org/en/publikasjoner/nordic-escience-action-plan/view the Nordic eScience Action Plan], Action 8). The proposed aim of the collaboration was to provide services and support for scientific communities in the Nordic countries for which access to a distributed computing infrastructure and research infrastructures with a strong international dimension is essential. A major objective of the proposal was to provide a shared pool of competence for developing and deploying pan-Nordic and pan-European services, in particular to support Nordic participation in existing, emerging and planned strategic European research infrastructures.
+
+The Nordic Data Grid Facility (NDGF) and its continuation, as proposed in eNORIA Action 8, were evaluated in 2010 (“Final Evaluation of the Nordic Data Grid Facility (NDGF) – Evaluation Report”, Kai Nordlund, Dieter Kranzlmüller, Rob Pennington, 10.3.2010). The panel found that the NDGF project had been very successful in deploying and operating a joint Nordic grid infrastructure, primarily, but not solely, as a contribution to the CERN Worldwide LHC Computing Grid (WLCG). In addition, the panel found that the NDGF had been very successful in developing and demonstrating the use of corresponding grid middleware (e.g. the ARC middleware stack) for a limited set of applications as well as for the Nordic High Performance Computing (HPC) centres. The panel also found that the grid use for bioinformatics in particular had started out well and has good potential for future growth. Continued activity under this endeavour was therefore recommended as part of the commitment of the Nordic countries to the CERN experiment.
+
+The Nordic e-Infrastructure Collaboration (NeIC) was established on 1 January 2012, as the result of dialogue between the stakeholders, including the national funding agencies. The NeIC is administered by NordForsk, which employs the director and provides secretarial and legal hosting service.
+

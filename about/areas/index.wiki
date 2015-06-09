@@ -1,0 +1,9 @@
+---
+title: Strategic areas
+description: NeIC strategic areas.
+menu: 60
+---
+
+= Strategic areas =
+
+NeIC is organized into strategic areas that are set by the board, based on periodic calls for letters of interest by Nordic research communities. NeIC can also run activities outside of these areas, based on board decision. 

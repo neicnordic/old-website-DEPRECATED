@@ -1,0 +1,51 @@
+---
+title: NT1
+description: Nordic WLCG Tier-1 facility
+---
+
+= NT1 - The Nordic distributed WLCG Tier-1 facility =
+Coordinator: [mailto:maswan@hpc2n.umu.se Mattias Wadenstein], HPC2N, Sweden
+
+== Scientific Research ==
+
+=== WLCG ===
+NDGF Tier1 is one of 11 regional computing centres of the
+[http://wlcg.web.cern.ch/ Worldwide LHC Computing Grid]– the huge
+international e-infrastructure built to provide 
+computing and storage for the [http://home.web.cern.ch/ CERN]. This Nordic solution is unique in 
+being distributed across four countries: Denmark, Finland, Norway and 
+Sweden. ([http://wlcg-rebus.cern.ch/apps/pledges/resources/ Click here] to list all WLCG resources)
+
+=== ALICE ===
+[http://aliceinfo.cern.ch/Public/Welcome.html ALICE] is one of the experiments at the LHC, largely dedicated to studies 
+of quark-gluon plasma in heavy ion collisions. It uses NDGF Tier1 together 
+with six other Tier1 centres across the planet. All four NDGF countries 
+host ALICE computing and storage resources.
+
+=== ATLAS ===
+[http://atlas.web.cern.ch/Atlas/Collaboration/ ATLAS] is the largest LHC experiment, dedicated to searches of new particles 
+and phenomena in proton-proton collisions. NDGF Tier1 is one of 10 Tier1 
+centres used by ATLAS. Three  NDGF countries, Denmark, Norway and Sweden, 
+host ATLAS computing and storage.
+
+== Services ==
+
+=== dCache ===
+Storage of NDGF Tier1 is distributed across many computing centres. The 
+dCache system , developed with contribution from NeIC, takes care of 
+orchestrating data stored on disks and tapes all over Scandinavia. It also 
+accepts data from CERN and other Tier1 centres. 
+
+=== Operations ===
+A number of additional services are necessary for a Grid center operations. 
+These include VOMS, FTS, BDII, SAM tests, and of course smooth network 
+services. NDGF Tier1 uses these products as provided by their respective 
+developers and [http://www.egi.eu/ EGI].  
+
+ 
+
+[https://wiki.neic.no/wiki/Category:NT1 NT1 internal wiki]
+
+Contact us: <br/>
+[mailto:maswan@hpc2n.umu.se Mattias Wadenstein] NT1 Coordinator <br/>
+[mailto:oxana.smirnova@hep.lu.se Oxana Smirnova] CERN Liaison

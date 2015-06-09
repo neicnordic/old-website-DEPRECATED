@@ -1,0 +1,49 @@
+---
+title: GEN
+description: Generic e-infrastructure services
+---
+
+= GEN - Generic Area =
+
+Coordinator: [mailto:caela@pdc.kth.se Michaela Barth], PDC, Sweden (parental leave) <br/>
+Acting coordinator: [mailto:dejan@pdc.kth.se Dejan Vitlacil], PDC, Sweden
+
+
+The Generic Area deals with development of tools and services applicable 
+to a broad range of users. The national e-infrastructure providers 
+constitute the main stakeholders and participants in the activities 
+within this area.
+
+The Generic Area plays an important role in the cross-fertilization of 
+ideas between NeIC areas. Some examples of opportunities within the 
+Generic Area include Nordic HPC collaboration, federated cloud services, 
+accounting, and data services. The Generic Area Coordinator interacts 
+closely with the national and Nordic level e-infrastructure providers 
+in the development of this activity area.
+
+As one of the NeIC strategic ares, the Generic Area takes care of 
+e-infrastructure activities; this includes initiating and executing 
+technical projects for development and deployment of e-infrastructure 
+solutions. Projects are developed in partnership with national 
+e-infrastructure providers or user communities with national status. 
+Co-funding partners participate on a cost-sharing basis. 
+
+Outgoing from the documented needs in the Cognitus project mapping the 
+scientific case in the Nordic countries, NeIC will continue to create 
+innovation in the Nordic e-infrastructure landscape and expand on known 
+and broadly used high-quality solutions within generic technologies as 
+is the focus for the Generic Area. 
+
+The Generic Area is continuisly reacting to project proposals with the 
+main criteria in the decision of supporting them being the expected 
+benefit and the added value for scientific research and its supporting 
+e-infrastructure. 
+
+Another focus of the Generic area encourage Nordic e-infrastructure 
+providers to share knowledge and sync on their strategies and planned 
+new procurements allowing for more community specific resources and a 
+common Nordic roadmap in meeeting the requirements of scientific 
+research on e-infrastructure and more generally to facilitate 
+communication between different potential partners while maintaining 
+open and transparent processes at all levels.
+

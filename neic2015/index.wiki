@@ -1,0 +1,13 @@
+---
+title: "NeIC 2015"
+description: "NeIC conference 2015"
+hidden: "yes"
+---
+
+= NeIC conference 2015 =
+
+NeIC Conference 2015 was held 5 - 8 May in Espoo, Finland.
+
+* [http://neic2015.nordforsk.org Conference website]
+* [http://wiki.neic.no/wiki/neic2015 NeIC 2015 on NeIC wiki]
+
