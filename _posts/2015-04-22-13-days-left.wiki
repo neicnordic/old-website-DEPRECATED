@@ -1,0 +1,24 @@
+---
+title: "13 days to go – registration open until Sunday 26 April"
+summary: "NeIC2015 conference – Nordic Collaboration for Global Excellence is coming up soon! Nearly 200 participants have registered, and registration is open until Sunday 26 April."
+image: "/media/nancy-image_mini.jpeg"
+---
+
+=  13 days to go – registration open until Sunday 26 April =
+
+'''NeIC2015 conference – Nordic Collaboration for Global Excellence is coming up soon! Nearly 200 participants have registered, and registration is open until Sunday 26 April.'''
+
+<a href="/media/nancy-image.jpeg">
+<img class="smallpic" src="/media/nancy-image_mini.jpeg">
+</a>
+
+
+
+The programme consists of two days of workshops (5-6 May) and two days of sessions (7-8 May). One of the keynote speakers we are very pleased to announce and looking forward to hearing is Associate Director of San Diego Supercomputer Center Nancy Wilkins-Diehr, who will give a presentation entitled “The Science Gateways Program from its inception to the present day.” Ms. Wilkins-Diehr has led the National Science Foundation’s (NSF) Science Gateways programme since 2005.
+
+“Science gateways are having a tremendous influence on access to high performance computing. Basically, gateways are community-designed web interfaces, so we’ve greatly expanded accessibility of the HPC machines. Today about 40% of the users of NSF HPC machines come in through gateways. In addition, the NSF is beginning exciting new investments in this area through a science gateway institute via its software institutes program,” states Ms. Wilkins-Diehr.
+
+Nancy Wilkins-Diehr will be speaking Thursday 7 May
+
+
+ 
