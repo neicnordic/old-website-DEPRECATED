@@ -24,12 +24,13 @@ Alison Kennedy, Executive Director of the High Performance Computing and Data ce
 The first conference day ended with Daniel Reed‘s talk on the fusion of big data and High Performance Computing. Coming from a background of high-level positions in the corporate world as well as government and academia, Mr Reed argued that the scientific computing world and commercial big data have a lot to learn from each other.
 
 The conference concluded with a discussion of the future of the Nordic e-infrastructure system, in a session chaired by the Head of the Swedish Research Council, Sven Stafström. Dr Robert Pennington’s presentation of the findings in his report, [http://www.nordforsk.org/en/publications/publications_container/cognitus-a-science-case-for-high-performance-computing-in-the-nordic-region Cognitus: A Science Case for High Performance Computing in the Nordic Region], served as an introduction to the lively panel debate.
-Conference Recordings
+
+=== Conference Recordings ===
 
 '''If you missed the conference, or would like to recap, [http://neic2015.nordforsk.org/pages/viewpage.action?pageId=17498121 recordings of the talks are available on the conference site.]'''
 
-'''Photo gallery'''
+=== Photo gallery ===
 '''[https://flic.kr/s/aHskamELd5 Photos from the event are available in this Flickr gallery.]'''
 
-'''Report'''
+=== Report ===
 '''[http://www.nordforsk.org/en/publications/publications_container/cognitus-a-science-case-for-high-performance-computing-in-the-nordic-region/ Order or download the report Cognitus: A Science Case for High Performance Computing in the Nordic Region]'''
