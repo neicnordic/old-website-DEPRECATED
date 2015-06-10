@@ -1,14 +1,14 @@
 ---
 title: "13 days to go – registration open until Sunday 26 April"
 summary: "NeIC2015 conference – Nordic Collaboration for Global Excellence is coming up soon! Nearly 200 participants have registered, and registration is open until Sunday 26 April."
-image: "/media/nancy-image_mini.jpeg"
+image: "/media/nancy-image_mini.jpg"
 ---
 
 =  13 days to go – registration open until Sunday 26 April =
 
 '''NeIC2015 conference – Nordic Collaboration for Global Excellence is coming up soon! Nearly 200 participants have registered, and registration is open until Sunday 26 April.'''
 
-<a href="/media/nancy-image.jpeg">
+<a href="/media/nancy-image.jpg">
 <img class="smallpic" src="/media/nancy-image_mini.jpg">
 </a>
 
