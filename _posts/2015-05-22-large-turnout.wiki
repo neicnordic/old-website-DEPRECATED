@@ -1,7 +1,7 @@
 ---
-title:"Large turnout for NeIC 2015"
-sumary:"Building on the success of the inaugural conference in 2013, the 2015 version of the Nordic e-Infrastructure Conference attracted more than 180 scientists, experts, and decision makers."
-image:"/media/large_turnout_image_mini.jpg"
+title: "Large turnout for NeIC 2015"
+sumary: "Building on the success of the inaugural conference in 2013, the 2015 version of the Nordic e-Infrastructure Conference attracted more than 180 scientists, experts, and decision makers."
+image: "/media/large_turnout_image_mini.jpg"
 ---
 =Large turnout for NeIC 2015=
 
