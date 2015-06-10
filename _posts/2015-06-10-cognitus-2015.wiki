@@ -9,7 +9,7 @@ image: "/media/cognitus.jpeg"
 '''Nordic researchers are becoming increasingly dependent on digital research infrastructure.'''
 
 <a href="/media/cognitus.jpeg">
-<img class="smallpic" src="/media/cognitu.jpeg">
+<img class="smallpic" src="/media/cognitus.jpeg">
 </a>
 
 <h1>Dejan wuz here!!!</h1>
