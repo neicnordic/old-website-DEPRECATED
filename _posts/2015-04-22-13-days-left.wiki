@@ -9,7 +9,7 @@ image: "/media/nancy-image_mini.jpeg"
 '''NeIC2015 conference – Nordic Collaboration for Global Excellence is coming up soon! Nearly 200 participants have registered, and registration is open until Sunday 26 April.'''
 
 <a href="/media/nancy-image.jpeg">
-<img class="smallpic" src="/media/nancy-image_mini.jpeg">
+<img class="smallpic" src="/media/nancy-image_mini.jpg">
 </a>
 
 
