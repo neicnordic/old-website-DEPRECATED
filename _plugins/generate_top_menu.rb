@@ -119,7 +119,7 @@ module Jekyll
 
             sorted_pages = filtered_pages.sort
             sorted_pages.each do |p,section,is_current|
-                html += self.add_item(p, p.url, section, is_current)
+                html += self.add_item(p, p.url.chomp('/index.html'), section, is_current)
             end
 
             html
