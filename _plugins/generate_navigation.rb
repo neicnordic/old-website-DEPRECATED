@@ -76,6 +76,9 @@ module Jekyll
                 if data['description']
                     description = data['description']
                 end
+                if !!data['hidden']
+                    return ''
+                end
             else
                 puts "File not found: #{source_file}"
             end

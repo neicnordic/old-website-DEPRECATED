@@ -1,0 +1,11 @@
+---
+title: "Open positions"
+description: "Currently open positions within NeIC"
+menu: 300
+---
+
+= Open positions =
+
+; [[/media/150331-Open-position-announcement-NT1-future-operations.pdf|NeIC is looking for WLCG specialist]]
+: Apply before 3 May 2015.
+

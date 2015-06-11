@@ -1,19 +1,19 @@
 ---
 title: "New report on high performance computing in the Nordics"
 summary: "Nordic researchers are becoming increasingly dependent on digital research infrastructure."
-image: "/media/cognitus.jpeg"
+image: "/media/cognitus.jpg"
 ---
 
 = New report on high performance computing in the Nordics =
 
 '''Nordic researchers are becoming increasingly dependent on digital research infrastructure.'''
 
-<a href="/media/cognitus.jpeg">
+<a href="/media/cognitus.jpg">
 <img class="smallpic" src="/media/cognitus.jpg">
 </a>
-
-<h1>Dejan wuz here!!!</h1>
 
 The report was commissioned by NeIC and prepared by an external expert, Dr. Rob Pennington, Deputy Director of the National Center for Supercomputing Applications at the University of Illinois Urbana-Champaign.
 
 Among Penningtons recommendations are an expanded role for NeIC and an international HPC-programme incorporated into national strategies.
+
+[http://www.nordforsk.org/en/publications/publications_container/cognitus-a-science-case-for-high-performance-computing-in-the-nordic-region/view The report can be downloaded or ordered here]
