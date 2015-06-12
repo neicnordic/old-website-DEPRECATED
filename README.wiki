@@ -1,9 +1,335 @@
 ---
 title: README
 ---
-= neicweb =
+== This manual is not for the current webpages ==
+NeIC's website was originally launched using experimental beta versions of most of the server software stack from cms to backups, none of which ever worked very well and some of which never made it into official releases, which has led to several cases of failure, downtime, substantial data loss and a generally very poor user experience.
 
-Adapted by Joel Hedlund (NeIC, NSC) based a framework built by Peter Larsson (NSC).
+NeIC is now setting up a copy of the solution developed by Peter Larson at [http://www.nsc.liu.se NSC] to evaluate if that can work better. The people mainly involved in this task are Joel Hedlund, Petter Urkedal and Thomas Bellman. This manual describes that solution.
 
-Please see [http://wiki.neic.no/int/Website_manual the website manual on the NeIC internal wiki]
-for more information.
+Please note that this new solution has not yet been put into production, but this manual is being produced in preparation for the changeover.
+
+== Changes from NSC ==
+* Mediawiki syntax instead of markdown.
+
+== A technical summary ==
+
+* NeIC's web pages are static HTML built from text files written in the Mediawiki markup language for easier formatting.
+* The .wiki files contain the text/content of the web pages, while the graphical design and navigational menus are wrapped around the content automatically by template files and some Ruby scripts.
+* The build system is Jekyll (a popular site/blog-generator written in Ruby).
+* The "source code" for the web site is kept in a repository at GitHub [https://github.com/neicnordic/nscweb https://github.com/neicnordic/nscweb] for version control. You need to be added as collaborator to have write access to it.
+* When changes are committed to the GitHub repository, GitHub talks to our web server, which checks out the source and rebuilds the site. Updates are typically visible on [http://neic.nordforsk.org/ http://neic.nordforsk.org/] within a few minutes.
+* The easiest way to update an existing web page or create a new one, is to log into the GitHub:s web page and do it there using their integrated text editor. This has a preview feature so you can easily verify that you got the formatting right before saving your changes.
+* Images and other media cannot be added through the web browser, but you need to clone the repository locally, add the files to the neicweb/media/ directory, commit your changes, and push your commits back to github. You can use command line git for this, or you can install a GitHub graphical user interface program on your computer to do this, for example [https://windows.github.com/ GitHub for Windows] or [https://mac.github.com/ GitHub for Mac]. Note however that the GUI programs use the word Sync for all transactions with github.com, so when this manual tells you to update, pull, or push, just press the Sync button on the top right.
+* The hard-core way of editing the web site is to clone the git repository to your own machine, update the relevant Markdown files and then commit the changes. Optionally, you can also install Jekyll yourself, compile the full site, and preview it locally.
+
+== Background ==
+
+[http://neic.nordforsk.org NeIC's web site] was remade in 2015. Before, it was based on a plone cms that was launched using experimental beta versions of most of the server stack from cms to backups, none of which ever worked very well and some of which never made it into official releases, which led to several cases of failure, downtime, substantial data loss and a generally very poor user experience.
+
+The current version is a modified copy of a solution developed by Peter Larson at [http://www.nsc.liu.se NSC], and is based on the [http://jekyllrb.com/ Jekyll static site compiler] and the [http://pandoc.org/ Pandoc universal document converter]. The site, as served, is still just static HTML, in the sense that there is no on-the-fly generation of webpages from content stored in databases. Everything on the site gets generated once by Jekyll and then saved as HTML files on the web server. The prime advantage of this approach for the typical content editor is that it is possible to write pages in simple Mediawiki syntax, which NeIC does anyway for all its wikis and meeting minutes. For the web designer, Jekyll offers a more flexible templating solution. For the system administrator this setup has fewer and simpler components, so there are less things that can fail, misbehave or need maintenance. For the data manager, this solution has virtually no risk of ever losing content, since no changes go live without passing through state of the art version control and backup on another continent. And finally, from a security point of view, the attack surface is significantly smaller.
+
+== How it works ==
+
+The processing pipeline looks like this:
+
+# The content you write as a .wiki file, is converted to HTML content by [http://pandoc.org/ Pandoc].
+# The HTML content is inserted into the web page templates.
+# Some "dynamic" content, such as breadcrumbs and the menus, is computed by [http://jekyllrb.com/ Jekyll] and inserted into the templates.
+# The final, complete, HTML files are stored on disk in a special output directory.
+# The output directory is copied to the web server.
+
+== Conceptual structure ==
+
+The structure of the web site is modelled on the award-winning [https://www.gov.uk gov.uk] site with a hierarchical, progressive menu system of categories under which everything is placed. This "tree" of pages is built directly from the file system directory tree and mirrors it one-to-one. For example, to add a new item in the menu on the first page, one would create a new folder in the root directory of the web site source tree.
+
+The first level of categories are displayed in the top menu, and these are:
+
+* '''About''': Staff, addresses, organization, history, and partners
+* '''Activities''': Information about our ongoing projects and operations.
+* '''Events''': A neic-events calendar webview, with curent and past events, like we have on the wiki.
+* '''Publications''': Public documents produced by NeIC.
+* '''Skandinavisk''': Page(s?) in Skandinavisk.
+
+On the front page, most of the space is taken up by the news section. This section displays news articles (which are actually links to blog posts in the Jekyll system).
+
+== Structure on disk ==
+
+The web site source comes in the form of folder called "neicweb", which is a git repository, to allow version control. The actual folder structure in the web site source mirrors the visual structure:
+
+* '''index.html''' (This is the front page)
+* '''about/index.wiki''' (Corresponds to the "About" item in the top menu)
+* '''about/team/index.wiki''' (The menu item "Team and Contact" under the "About" category).
+* '''about/areas/bms/index.wiki'''
+* ...
+
+And so forth for web site content folders. The news items/blog posts are stored in a separate directory (see below). In addition, there are some extra folders for supporting files, such as scripts, stylesheets and templates. As a typical content contributor, you do not need to worry about these, except when making news items. 
+
+=== Hidden stuff ===
+
+Some directories do not automatically turn up as web pages, because they do not have any index.* files in them, and this is just the way we want it. For example:
+
+* '''assets/''': Building blocks for the website; icons, scripts, style sheets, etc.
+* '''media/''': Media content; news post images, public documents, etc.
+
+Pages can also be actively hidden (hidden: yes), which means they are available online but not advertised, unless you specifically provide links to them yourself. For example:
+
+* '''neic2015/''': Information on the NeIC conference in May 2015.
+* '''news/''': News posts are readily accesible from the many links on the front page and do not need another link in the top menu.
+
+Some directories are special to Jekyll, and these begin with underscores:
+
+* '''_layouts/''': web page templates. The overall graphical design like page headers, placement of content, and the column structure is defined here.
+* '''_plugins/''': contains Ruby scripts to customize the behavior of Jekyll to get certain NSC-specific features, like the navigational menus (generate_navigation.rb) and the breadcrumb links (breadcrumbs.rb).
+* '''_posts/''': news articles go here. They are automatically picked up by Jekyll and put in the right in the web site.
+
+== Editing and creating pages on Github ==
+* If you do not have an account at [http://www.github.com GitHub], you first need to sign up to get an account. The sign-up process is straightforward, directly from the front page.
+* Once you have the account, talk to your project leader or area coordinator to get added to the "neicnordic" team, so that you can edit the pages.
+* Navigate to the repository url https://github.com/neicnordic/neicweb. You will be presented with a list of files and folders, which you can navigate through, just like on a computer. Remember, the names of folders correspond to the list of topics in the navigational menu on the web page.
+* All pages are called index.wiki (or index.html in some cases). For example, the file /about/index.wiki contains the text displayed on the About page (http://neic.nordforsk.org/about/).
+* To edit a file, click on the index.wiki file, this will show the contents of the file. Next step is to click on the pencil icon to open up the text editor.
+* Make the changes you want.
+* In the bottom of the editor page, there is a button called "Commit change". That is how you save changes. But before doing that, please write a commit message briefly describing '''what you did''', and '''why you did it'''. Since all files are called "index.wiki", it is recommended to write which menu item you changed in the short commit message (the first field of text), e.g. "Updated team page", and if you are feeling ambitious, some further description in the extended commit message (the second field of text).
+
+The best way to create a new page or news article is to:
+
+# First upload the images you need (see below).
+# Find a page that looks similar to what you want.
+# Copy the source code for it, and paste it into a new page.
+# Edit it until you are happy with it.
+# Save it.
+
+=== How to create new pages ===
+
+If you need to create a completely new page, you are faced by a conundrum: you need to create folder, because the actual file is supposed to go into e.g. /about/operations/index.wiki but there is no button for making folders on Github. There is only a + sign button, which creates new file. The solution is to write the new folder as part of the file name. So in the about directory, you hit the + button, and write e.g. operations/index.wiki as the new file name. That will create a new folder called operations with an index.wiki file for the content, which you now can edit.
+
+=== Metadata and overall structure of page ===
+
+Let us look at an example page, [[/about/index.html|/about/index.wiki]]:
+
+<div style="font-size: 9pt;"><pre>---
+title: "About"
+description: "Contact, organization, history, etc."
+menu: "150"
+---
+
+= About NeIC =
+
+'''The Nordic e-Infrastructure Collaboration (NeIC) is an organisation that 
+facilitates the development and operation of high-quality e-Infrastructure 
+solutions in areas of joint Nordic interest. The NeIC is a distributed 
+organisation consisting of technical experts from academic high-performance 
+computing centres across the Nordic countries.'''
+
+The collaboration was launched in 2003 in response to a decision by the 
+research funding agencies in the Nordic countries to contribute to a 
+distributed computing infrastructure for analysing and storing the data 
+generated by experiments at the 
+[http://home.web.cern.ch/about/accelerators/large-hadron-collider Large 
+Hadron Collider (LHC)] at [http://home.web.cern.ch/ CERN] (the European 
+Organization for Nuclear Research, physicists and engineers).
+
+New, innovative services can be developed and deployed by bringing together
+the competencies of all the Nordic e-Infrastructure providers, and 
+challengingthis pool of highly skilled IT experts with the needs of the 
+Nordic user communities. This is precisely what the NeIC aims to do in key 
+areas of common Nordic interest. By combining the expertise already found in
+the Nordic region, we can provide leverage for more efficient and responsive 
+e-Infrastructure, thereby avoiding costly duplication of work in each 
+individual country. An important focus of the NeIC in the coming years will
+be on innovation in new e-Infrastructure solutions, in addition to selected 
+services such as the Nordic Tier-1 service for the WLCG community.
+
+The NeIC was established as an organisational unit under NordForsk in Oslo 
+on 1 January 2012.
+</pre></div>
+
+There are two sections in a page, a metadata section, and a content section. The metadata section is delimited by three minus signs in a row (---) before it begins, and the same where it ends. The metadata part contains instructions to Jekyll about how to build the page. Note that there are quotes around the metadata values, and a space between the colon and quote character. There are two crucial metadata fields:
+
+* '''title''': contains the title/heading of the page. This is somewhat confusing, because it is the title as it appears in the navigational menu which links to this page, not the actual title that shows up on the page.
+* '''description''': contains the text for the brief description that shows up in mouse-over tooltips in the navigational menu.
+
+There are also other metadata fields you could use (but there is rarely any need to do so):
+
+* '''menu''': controls the order of this page in the menu. The lower the number the earlier it comes in the menu. Default is 100. Pages with the same number are ordered alphabetically. See more below of how to control the sorting order of the menus.
+* '''hidden''': controls whether this page should show up in automatically generated menus. Set to yes (without quotes) to make the page available online but not advertised (unless you specifically provide links to them yourself). See above for examples.
+* '''layout''' controls the which page template is being used to render the page. This is set up to automatically give normal pages the "menu" layout while news articles get the "news" layout. You probably shouldn't change this.
+
+Everything after the metadata section is regular content, which can be written in Mediawiki syntax, or HTML. As Mediawiki syntax can embed HTML, it is possible to mix Markdown and HTML, for example, to make complicated tables, or add extra styling from using CSS classes (for example to add consistently styled images like <code><img class="smallpic" src="/media/warface.png"></code>). However, Pandoc is not perfect, and thus sometimes gets this html stuff wrong. Should you encounter this, you can work around this by naming the file index.html instead, and writing the page in pure HTML.
+
+=== How the menu system works ===
+
+The navigational menus are built by inspecting all the folders at that particular level in the file system tree. Under each folder, there will be an index.wiki file which contains a metadata section. That section is read and the title/description/sorting order for each page is collected and used to build the menu.
+
+
+=== News articles ===
+
+The news items are actually blog posts in the Jekyll system. They are stored in the _posts/ directory. The list of news items displayed on the front page is generated automatically from the list of file in the _posts/ directory. '''Thus, you are not supposed to edit the front page to add news items.''' There is a specific system for file names of the news items. If you look inside the folder you will see files named like this:
+
+<pre>2014-04-11-mathlabseminar.wiki
+2014-05-23-prace.wiki
+...</pre>
+
+The file names are supposed to highlight the date of publication, followed by a dash (minus sign), and then something descriptive, using dashes instead of spaces.
+
+<pre>[YYYY-MM-DD]-[very-brief-description].md</pre>
+
+The description is mostly for internal purposes. It does get reflected in the URL of the web page of the news post, but it is not used anywhere else. The actual title of post is read from the metadata section in the post.
+
+The metadata of news item is similar to a normal page, with a few differences. Let's use an example ([http://neic.nordforsk.org/news/2014/10/16/nordic-accounting-workshop.html see it live]):
+
+<div style="font-size: 9pt;"><pre>---
+title: "Engaged discussions at the Nordic accounting workshop 2014 in Uppsala"
+summary: "Lively discussions [...] at the Nordic accounting workshop."
+image: "/media/2014-10-16-nordic-accounting-workshop.jpeg"
+---
+
+= Engaged discussions at the Nordic accounting workshop 2014 in Uppsala =
+
+'''Lively discussions on hot topics as energy-, GPU/Accelerator- and Cloud 
+accounting have been held at this year's Nordic accounting workshop.'''
+
+<a href="/media/2014-10-16-nordic-accounting-workshop.jpeg">
+<img class="smallpic" src="/media/2014-10-16-nordic-accounting-workshop.jpeg">
+</a>
+
+The participants unanimously agreed that such small dedicated meetings are 
+very useful in getting the right people to talk to each other.
+
+Also the remote participants from Norway, Iceland and the UK could contribute
+to the meeting in a meaningful way.
+
+All slides and links are online on the 
+[https://wiki.neic.no/wiki/Nordic_accounting_workshop_2014 wiki page]. The 
+complete minutes will be made available during next week.
+
+The next come-together will be during the dedicated workshop session on 
+accounting at the NeIC2015 conference near Helsinki in May 2015.
+
+Special thanks go to the local staff at Uppsala University for their great 
+support.
+</pre>
+</div>
+
+Like normal pages, news articles also have two parts; the metadata part and the content part.
+
+There are two crucial and one useful metadata fields:
+
+* '''title''': contains the title/heading of the news article. This is somewhat confusing, because it is the title as it appears in news article listings which links to this page, not the actual title that shows up on the page.
+* '''summary''' contains the brief summary description that shows up in news article listings, like on the front page (this example has been trimmed down for brevity). Most often, this will be repeated in boldface as the first paragraph of the article.
+* '''image''' optional. If given, this points out a path to a ''small'' (in kilobytes) image to show next to the article in news article lists. '''Note:''' be sure to use a small image (in kilobytes), as a news article list of many large images will be painful to load on a smartphone with bad reception. Take a moment to make absolutely sure of this, as the images will be resized (size on screen) automatically for aesthetic resons and for reasons of convenience, so it may not be immediately obviious to you if you get this wrong.
+
+There is also one other metadata field you could use (but there is rarely any need to do so):
+
+* '''layout''' controls the which page template is being used to render the page. This is set up to automatically give normal pages the "menu" layout while news articles get the "news" layout. You probably shouldn't change this.
+
+=== Uploading images and other media ===
+Images and other media cannot be added through the web browser, but you need to clone the repository locally, add the files to the neicweb/media/ directory, commit your changes, and push your commits back to github. You can use command line git for this, or you can install a GitHub graphical user interface program on your computer to do this, for example [https://windows.github.com/ GitHub for Windows] or [https://mac.github.com/ GitHub for Mac]. Note however that the GUI programs use the word Sync for all transactions with github.com, so when this manual tells you to update, pull, or push, just press the Sync button on the top right.
+
+=== Adding images to your page ===
+To add your image to the page you can use an HTML img tag like so, to add the image to the page at exactly that spot on the page, in exactly the size it actually is:
+
+<pre>
+<img src="/media/nancy-mini.jpeg">
+</pre>
+
+To place a small image to the side with text flowing next to it like in most news articles, add class="smallpic" or class="smallpic-left" like so:
+
+<pre>
+<img class="smallpic" src="/media/nancy-mini.jpeg">
+<img class="smallpic-left" src="/media/nancy-mini.jpeg">
+</pre>
+
+To let the reader click the image to enlarge it, upload two images and wrap the "img" tag in an "a" tag like so:
+
+<pre>
+<a href="/media/nancy-large.jpeg">
+<img class="smallpic" src="/media/nancy-mini.jpeg">
+</a>
+</pre>
+
+See the preceding section for a real example.
+
+=== Link to documents and other pages ===
+Use normal Mediawiki links, like so:
+
+<pre>
+[[/media/cognitus.pdf|download the Cognitus report]]
+[http://www.nordforsk.org/files/strategy.pdf download the NordForsk strategy]
+</pre>
+
+== Setting up Jekyll on your own computer ==
+
+If you want to do development of the web site system itself, or simply preview pages, without them being pushed to the live web server, you need to set up a local Jekyll installation on your computer and then clone the web site source from Github.
+
+=== Getting the source code from Github ===
+
+By command line:
+
+<pre>git clone https://github.com/neicnordic/neicweb.git</pre>
+
+From the windows/mac GUI:
+
+Cick the plus to add a repository, then click clone, then find and click neicnorduic/neicweb.
+
+From the web interface:
+
+Go to [http://www.github.com/neicnordic/neicweb the repository at github]. In the column on the right-hand side, there are two buttons for downloading the code: "Clone in Desktop" and "Download to ZIP".
+
+=== Installing Jekyll ===
+
+The use Jekyll, you need to have the Ruby programming language installed on your computer, and associated libraries. The libraries are usually called "gems" in Ruby parlance. While it is possible to install a system-global Ruby installation and install libraries into that one, I recommend against it, due to complicated dependencies between Ruby versions and different gems. The canonical solution used in the Ruby community is instead to use separate Ruby installations for each site you are developing, much like virtualenv in Python.
+
+So, start by installing rbenv, a tool to manage multiple Ruby installations:
+
+<pre>git clone https://github.com/sstephenson/rbenv.git ~/.rbenv</pre>
+
+Add to the .bash_profile:
+
+<pre>export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"</pre>
+
+Install the ruby-build plugin in order to build Ruby versions from source:
+
+<pre>git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build</pre>
+
+Run eval "$(rbenv init -)" again to set everything up.
+
+Check that it works by running:
+
+<pre>rbenv install --list</pre>
+
+That should show you a (long) list of available Ruby versions that can be compiled and installed. Install a Ruby (this was the latest 2.0.0 at the time). Package dependency note: on some systems, you need have the OpenSSL development package installed in order to compile Ruby. In Ubuntu distributions, this package is called "libssl-dev".
+
+<pre>rbenv install 2.0.0-p353</pre>
+
+Change into using the Ruby version:
+
+<pre>rbenv global 2.0.0-p353</pre>
+
+Install the Jekyll gem, same version as on the web server:
+
+<pre>gem update
+gem install jekyll -v 2.5.3</pre>
+
+We also need the external [http://johnmacfarlane.net/pandoc/ Pandoc] document converter and its Ruby bindings pandoc-ruby to build the site. On a Linux machine, you will typically find Pandoc in the standard package repository. On a Mac or Windows computer, download the installer packages from the Pandoc home page instead.
+
+<pre>yum install pandoc
+gem install pandoc-ruby</pre>
+
+Finally, we need another gem, RedCloth, it adds Textile markup language support to Jekyll (although we currently do not use this feature on the web pages).
+
+<pre>gem install RedCloth</pre>
+
+We are now ready to work with Jekyll and the site. The commands to build the site are:
+
+<pre> jekyll build
+ jekyll serve (to launch the web server locally on port 4000)
+ </pre>
+
+There is a neat automatic rebuild feature of Jekyll, so that you don't need to rebuild and restart the server each time you edit a page.
+
+<pre>jekyll serve --watch</pre>
+
+Once you are satisfied with the changes, do not forget to commit them to git repository and push it to Github.
+
