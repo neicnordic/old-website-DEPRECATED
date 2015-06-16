@@ -8,6 +8,7 @@ NeIC is now setting up a copy of the solution developed by Peter Larson at [http
 
 Please note that this new solution has not yet been put into production, but this manual is being produced in preparation for the changeover.
 
+
 == Changes from NSC ==
 * Mediawiki syntax instead of markdown.
 
