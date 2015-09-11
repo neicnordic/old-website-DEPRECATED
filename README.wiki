@@ -334,3 +334,4 @@ There is a neat automatic rebuild feature of Jekyll, so that you don't need to r
 
 Once you are satisfied with the changes, do not forget to commit them to git repository and push it to Github.
 
+
