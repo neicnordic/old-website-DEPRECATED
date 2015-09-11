@@ -2,7 +2,7 @@
 title: README
 ---
 == This manual is not for the current webpages ==
-NeIC's website was originally launched using experimental beta versions of most of the server software stack from cms to backups, which has led to several cases of failure, downtime and substantial data loss.
+NeIC's website was originally launched using misconfigurations in most of the server software stack from cms to backups, which has led to several cases of failure, downtime and substantial data loss.
 
 NeIC is now setting up a copy of the solution developed by Peter Larson at [http://www.nsc.liu.se NSC] to evaluate if that can work better. The people mainly involved in this task are Joel Hedlund, Petter Urkedal and Thomas Bellman. This manual describes that solution.
 
