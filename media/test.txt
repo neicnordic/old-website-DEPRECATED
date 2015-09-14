@@ -1,1 +1,1 @@
-sample content
+Hello, World
