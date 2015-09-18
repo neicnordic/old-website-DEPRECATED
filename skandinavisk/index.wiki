@@ -8,7 +8,7 @@ menu: 200
 
 Nordic e-Infrastructure Collaboration (NeIC) har som formål å legge til rette for utvikling av e-Infrastrukturløsninger av høy kvalitet innenfor områder av felles nordisk interesse.
 
-<iframe frameborder="0" height="400" src="http://www.youtube.com/embed/bJdWJt-ikks" style="" width="540"></iframe>
+<iframe frameborder="0" height="400" src="https://www.youtube.com/embed/bJdWJt-ikks" style="" width="540"></iframe>
 
 Samarbeidet startet i 2003, som svar på forskningsrådenes beslutning om å bidra til den verdensomspennende dugnaden for analyse og lagring av datastrømmen fra eksperimenter utført ved Large Hadron Collider i CERN.
 
