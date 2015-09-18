@@ -1,0 +1,16 @@
+/* Make devel site more orange */
+
+#header {
+	background: #191919 url(/assets/img/bg-header-orange.png) repeat-x 0 100%;
+}
+@media only screen and (max-width:767px) {
+	#header{
+		background:#191919 url(/assets/img/bg-header-mobile-orange.png) repeat-x 0 100%;
+	}
+}
+
+.intro .text {
+	background: rgba(241, 140, 1, 0.75);
+}
+
+
