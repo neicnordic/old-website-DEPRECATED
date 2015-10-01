@@ -2,15 +2,48 @@
 title: README
 ---
 == This manual is not for the current webpages ==
-NeIC's website was originally launched using misconfigurations in most of the server software stack from cms to backups, which has led to several cases of failure, downtime and substantial data loss.
+NeIC is now setting up a new system for its website, inspired by the solution developed by Peter Larson at [http://www.nsc.liu.se NSC]. Please note that this new solution has not yet been put into production, but this manual is being produced in preparation for the changeover.
 
-NeIC is now setting up a copy of the solution developed by Peter Larson at [http://www.nsc.liu.se NSC] to evaluate if that can work better. The people mainly involved in this task are Joel Hedlund, Petter Urkedal and Thomas Bellman. This manual describes that solution.
+== Crash course: How to make a news article in the new NeIC web ==
 
-Please note that this new solution has not yet been put into production, but this manual is being produced in preparation for the changeover.
+Keep in mind:
+* The production website is mostly purple and is called neicweb on GitHub. 
+* The development system
+** is more orange (orange headings, orange stripe in the header)
+** has "TESTING" in the window name
+** and is called neicweb-devel on GitHub. 
 
+Keep an eye out for the signs, and post to the right place!
 
-== Changes from NSC ==
-* Mediawiki syntax instead of markdown.
+Howto:
+# Upload picures and other media files.
+#* [https://neic.nbi.dk/int/github/upload/ Upload to production webserver]
+#* [https://neic.nbi.dk:59443/int/github/upload/ Upload to development system]
+# Follow instructions onscreen. Click "Go live with this" button when done.
+# Write the article text on [https://github.com/neicnordic GitHub]
+#* [https://github.com/neicnordic/neicweb/ Source files for the production website]
+#* [https://github.com/neicnordic/neicweb-devel Source files for the development system]
+# Go to the news article files. These live in the _posts/ folder:
+#* [https://github.com/neicnordic/neicweb/tree/master/_posts News article directory for the production website]
+#* [https://github.com/neicnordic/neicweb-devel/tree/master/_posts News article directory for the development system]
+# Click a news article that looks similar to what you want.
+#* Please feel free to click around and compare what you see with the end result on the actual web server.
+# Click the little pencil top right to "Edit this page".
+# Copy all the article text (click inside text box, Ctlr-A for select all, and Ctrl-C for copy).
+# Go back to the _posts/ directory.
+# Click the little plus next to the _posts/ folder title
+# Paste the article contents that you previously copied into the large text area.
+# Click the filename box, and add a title on the form:
+#* YYYY-MM-DD-some-title.wiki 
+#* (notice it starts with eg. today's date, all letters are lowercase, and it has  .wiki at the end)
+# Edit the article so it looks like you want it, using [https://www.mediawiki.org/wiki/Help:Formatting mediawiki syntax].
+#* If the long lines disappear off the edge of the screen, select "Soft wrap" in the drop down menu in the top right corner of the text area.
+#* You can click the "Preview changes" button in the top left corner of the text area to check that your text is fine.
+# When you are happy, go live with your new article on the web server using the green "Commit changes" button below the text area.
+
+If you want to move something you did on the development system onto the production website:
+# Go through the steps above again, but for the production system. Paste the news article that you just wrote.
+# Done.
 
 == A technical summary ==
 
