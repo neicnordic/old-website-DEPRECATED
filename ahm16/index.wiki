@@ -6,7 +6,7 @@ title: AHM16
 Well this is embarrasing. 
 
 The NeIC webserver is supposed to replace this with the conference website 
-for the NeIC all-hand 2016 meeting.
+for the NeIC all-hands meeting 2016.
 
 If you see this on the NeIC webserver (outside of GitHub) then something has gone wrong, 
 and please would you be so kind as to [[mailto:joel@nsc.liu.se|let us know]] so we can fix it?
