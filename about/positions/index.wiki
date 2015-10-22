@@ -6,6 +6,6 @@ menu: 300
 
 = Open positions =
 
-; [[/media/150331-Open-position-announcement-NT1-future-operations.pdf|NeIC is looking for WLCG specialist]]
-: Apply before 3 May 2015.
+; [[/media/150904-Open-position-announcement-NeIC_PM_Collaborative_Infrastructure_for_Scientific_Software.pdf|NeIC is looking for a project manager]]
+: Apply before 31 October 2015.
 
