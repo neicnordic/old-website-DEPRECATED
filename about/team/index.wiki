@@ -79,6 +79,8 @@ Hedlund is currently engaged as an Application Expert in Bioinformatics at the S
 
 Pål Pettersen is employed at NordForsk, Oslo. He works as the NeIC Administrative Coordinator.
 
+<br/>
+
 == Behrmann, Systems Software Specialist ==
 
 <img class="smallpic-left" src="gerd.jpg">
@@ -139,6 +141,8 @@ His main responsibility is for operations for SweStore – the Swedish Storage I
 
 Ulf Tigerstedt is employed as a grid administrator at [http://www.csc.fi CSC] in Finland. He is responsible for the Nordic NGI (NGI_NDGF) and also performs general technical work for the NDGF Tier-1.
 
+<br/>
+
 == Jon Kerr Nilsen, ARC Release Manager ==
 
 <img class="smallpic-left" src="jon.jpg">
@@ -149,13 +153,13 @@ Jon Kerr Nilsen is located at the University of Oslo, [http://www.usit.uio.no/en
 
 Nilsen holds a PhD in High Energy Physics and was acting as deputy leader of the development work group during the EMI EU-project.
 
-== John White, project Manager Supporting EISCAT_3D-Project ==
+== John White, EISCAT_3D Support, Project Manager ==
 
 <img class="smallpic-left" src="john.jpeg">
 
 [mailto:john.white@cern.ch john.white@cern.ch]
 
-John White, 48, is located near Geneva, Switzerland and holds a 50% position as project manager with NeIC in the Supporting EISCAT_3D project. He was educated at the University of Victoria in Canada and holds a PhD in Physics focusing on LEP Standard Model measurements. He has worked since 1999 based at CERN and has experience in distributed computing since 2000 through the series of European Grid projects.
+John White, 48, is located near Geneva, Switzerland and holds a 50% position as project manager with NeIC EISCAT_3D Support project. He was educated at the University of Victoria in Canada and holds a PhD in Physics focusing on LEP Standard Model measurements. He has worked since 1999 based at CERN and has experience in distributed computing since 2000 through the series of European Grid projects.
 
 == Erik Edelmann, Tier-1 Operations ==
 
@@ -235,7 +239,7 @@ Jaakko has some 15 years of experience in desinging, running and managing system
 
 == Karan Singh, Tryggve staff ==
 
-<img class="smallpic-left" src="Karan.jpeg">
+<img class="smallpic-left" src="karan.jpeg">
 
 [mailto:karan.singh@csc.fi karan.singh@csc.fi], W: +358 503812758
 
