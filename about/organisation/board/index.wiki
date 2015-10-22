@@ -8,7 +8,7 @@ description: The NeIC board.
 
 The NeIC Board consists of 5 representatives, one from each national
 e-Infrastructure organisation. 
-The budget for 2013 is NOK 16.5 million, with contributions from the 
+The budget for 2015 is NOK 23 million, with contributions from the 
 five countries plus NordForsk.
 
 == Current board members ==
