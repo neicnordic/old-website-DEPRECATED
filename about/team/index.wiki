@@ -243,7 +243,7 @@ Jaakko has some 15 years of experience in desinging, running and managing system
 
 [mailto:karan.singh@csc.fi karan.singh@csc.fi], W: +358 503812758
 
-Karan Singh is located at CSC-IT Centre for Science Ltd. Espoo , Finland. He is working in the NeIC’s Tryggve project on sensitive data for the bio and medical sciences. He has a background as a system administrator for unix and storage and got the master degree in system engineering at BITS Pilani, INDIA. His current focus is to implement large scale, long term storage solution for CSC cloud computing environment.
+Karan Singh is located at CSC-IT Centre for Science Ltd. Espoo, Finland. He is working in the NeIC’s Tryggve project on sensitive data for the bio and medical sciences. He has a background as a system administrator for unix and storage and got the master degree in system engineering at BITS Pilani, INDIA. His current focus is to implement large scale, long term storage solution for CSC cloud computing environment.
 
 == Abdulrahman Azab, Tryggve staff ==
 
