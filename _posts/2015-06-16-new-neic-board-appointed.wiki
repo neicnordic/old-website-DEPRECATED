@@ -11,7 +11,7 @@ image: "/media/pekka_lehtovuori.jpeg"
 
 The new NeIC board met 9 June and elected Pekka Lehtovuori as chair for two years with Steen Pedersen as chair-in-elect for the following two-year period.
 
-[https://neic.nbi.dk/about/organisation/the-neic-organisation Board members]
+<a href="/about/organisation/the-neic-organisation">Board members</a>
 
 Pekka Lehtovuori (Chair)
 
