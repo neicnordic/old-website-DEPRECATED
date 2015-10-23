@@ -13,4 +13,4 @@ Josep will lead a project to investigate the boundary conditions for the NT1 ope
 
 Josep Flix is the Spanish Tier-1 project manager (from 11/2012) and is Head of the Particle Physics Office at PIC. He has a physics  PhD and has experience as a scientist  at  the  Large  Hadron Collider (LHC), in  the European Laboratory for Particle Physics (CERN).
 
-More information on the project: [https://wiki.neic.no/wiki/Investigating_options_for_future_NT1_operations_project_directive]
+[https://wiki.neic.no/wiki/Investigating_options_for_future_NT1_operations_project_directive More information on the project]
