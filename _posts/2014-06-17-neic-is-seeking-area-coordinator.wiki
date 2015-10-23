@@ -1,6 +1,6 @@
 ---
 title: "NeIC is seeking Area Coordinator"
-description: "Do you want to be a part of our team? NeIC is seeking a new area coordinator who can further develop the Generic Area as well as coordinate existing projects."
+summary: "Do you want to be a part of our team? NeIC is seeking a new area coordinator who can further develop the Generic Area as well as coordinate existing projects."
 ---
 
 = NeIC is seeking Area Coordinator =
