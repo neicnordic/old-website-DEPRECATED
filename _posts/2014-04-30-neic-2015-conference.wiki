@@ -1,6 +1,7 @@
 ---
 title: NeIC 2015 conference
 summary: "The NeIC 2015 Conference is scheduled for 5-8. May 2015 in Espoo, Finland."
+image: /media/hanasaari-mini.jpeg
 ---
 = NeIC 2015 conference =
 
