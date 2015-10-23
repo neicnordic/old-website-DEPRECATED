@@ -1,0 +1,23 @@
+---
+title: NeIC seeking input for new funding plan
+summary: "The Nordic e-Infrastructure Collaboration (NeIC) is drawing up its new five-year funding plan, to start in 2016, and is seeking input through Letters of Interest from the research community on priority areas on which to focus."
+---
+= NeIC seeking input for new funding plan = 
+
+''' The Nordic e-Infrastructure Collaboration (NeIC) is drawing up its new five-year funding plan, to start in 2016, and is seeking input through Letters of Interest from the research community on priority areas on which to focus.'''
+
+<a href="/media/loi-2014.jpeg">
+<img class="smallpic" src="/media/loi-2014-mini.jpeg">
+</a>
+
+- The current funding plan focuses heavily on biomedicine as an area that can benefit greatly from joint Nordic e-infrastructure, says Gudmund Høst, Director of the NeIC.
+
+- Now we want to hear what the research community thinks our next funding plan should emphasise, and this is why we call for letters of interest.
+
+The NeIC is looking for ideas about research fields of common Nordic interest which can be further advanced by the development of high-quality e-infrastructure.
+
+The deadline for submitting a letter of interest is 15 May 2014. Submissions will be presented to the NeIC board, which is responsible for adopting the new funding plan.
+
+[https://wiki.neic.no/w/ext/img_auth.php/a/a9/14-09-01-Invitation-for-Letters-of-Interest.pdf How to provide input to NeIC]
+
+[http://neic.nordforsk.org/about/collaboration-1/letters-of-interest/2012/collaboration/letters-of-interest Read the letters of interest from 2012]
