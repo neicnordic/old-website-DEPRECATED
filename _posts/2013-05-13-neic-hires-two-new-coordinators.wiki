@@ -1,0 +1,10 @@
+---
+title: NeIC hires two new coordinators
+summary: "The NeIC is pleased to announce that Michaela Barth began in her position as Coordinator for Generic Technologies on 1 March 2013, and Joel Hedlund became Coordinator for Bio- and Medical Sciences Services on 1 April 2013."
+---
+
+= NeIC hires two new coordinators =
+
+'''The NeIC is pleased to announce that Michaela Barth began in her position as Coordinator for Generic Technologies on 1 March 2013, and Joel Hedlund became Coordinator for Bio- and Medical Sciences Services on 1 April 2013.'''
+
+Michaela is currently employed at the PDC Center for High Performance Computing at KTH Royal Institute of Technology, Stockholm, and now has a 50% position at the NeIC. Joel is currently employed at the National Supercomputer Centre (NSC) at Linköping University, and also has a 50% position at the NeIC.
