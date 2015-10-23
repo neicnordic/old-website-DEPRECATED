@@ -1,7 +1,7 @@
 ---
 title: NeIC BMS meeting the 2 July 2013 for secure storage and computation on sensitive data
 summary: "Do you work with sensitive data? Your ideas for developing the area are much welcome!"
-image: 
+image: /media/2july-mini.jpeg
 ---
 
 = NeIC BMS meeting the 2 July 2013 for secure storage and computation on sensitive data =
