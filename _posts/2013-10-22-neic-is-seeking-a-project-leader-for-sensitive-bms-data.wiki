@@ -4,7 +4,7 @@ summary: "Do you want to be a part of our team? NeIC is seeking a project leader
 image: /media/dark-guitar-mini.jpeg
 ---
 
-= NeIC is seeking a project leader for sensitive BMS data "
+= NeIC is seeking a project leader for sensitive BMS data =
 
 '''Do you want to be a part of our team? NeIC is seeking a project leader to drive the development of a Nordic platform for sensitive data in bio- and medical sciences.'''
 
