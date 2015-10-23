@@ -1,6 +1,6 @@
 ---
 title: 10 years of Nordic collaboration on e-infrastructure ensured
-summary:
+summary: "A historical milestone in long-term Nordic collaboration has been reached with the signing of a 10-year agreement on joint development of advanced IT-services for research. The agreement will be presented Wednesday 15 May 2013 in Trondheim where the Nordic e-Infrastructure Collaboration (NeIC) is holding a conference on e-Infrastructure."
 ---
 
 = 10 years of Nordic collaboration on e-infrastructure ensured =
