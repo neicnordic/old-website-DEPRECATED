@@ -1,6 +1,6 @@
 ---
 title: NeIC 2015 conference
-description: "The NeIC 2015 Conference is scheduled for 5-8. May 2015 in Espoo, Finland."
+summary: "The NeIC 2015 Conference is scheduled for 5-8. May 2015 in Espoo, Finland."
 ---
 = NeIC 2015 conference =
 
