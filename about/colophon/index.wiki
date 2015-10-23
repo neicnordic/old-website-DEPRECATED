@@ -16,10 +16,6 @@ Most NeIC information is published on the [http://wiki.neic.no NeIC wiki]. If yo
 The main part of this site is static HTML pages compiled from Mediawiki-formatted source files. We keep all these files in a Git repository on GitHub and use the [http://jekyllrb.com/ Jekyll] site compiler to build the final web site. This allows us to work with the web site in a CMS-like manner with version control, without actually needing a dynamic web framework.
 
 == Acknowledgements ==
-* This website is built using a solution developed by Peter Larsson ([http://www.nsc.liu.se NSC], Sweden).
-* [http://getbootstrap.com/ Twitter Bootstrap] front-end framework.
 * [http://jekyllrb.com/ Jekyll] site generator.
 * [http://pandoc.org/ Pandoc] for mediawiki format page source compatibility.
 * [https://github.com/ Github] for hosting the web site source.
-* The navigational menus were inspired by the award-winning [https://www.gov.uk www.gov.uk] web site.
-
