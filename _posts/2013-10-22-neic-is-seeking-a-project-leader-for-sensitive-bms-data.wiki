@@ -1,5 +1,7 @@
 ---
 title: NeIC is seeking a project leader for sensitive BMS data
+summary: "Do you want to be a part of our team? NeIC is seeking a project leader to drive the development of a Nordic platform for sensitive data in bio- and medical sciences."
+image: /media/dark-guitar-mini.jpeg
 ---
 
 = NeIC is seeking a project leader for sensitive BMS data "
