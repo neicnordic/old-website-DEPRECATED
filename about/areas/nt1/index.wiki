@@ -10,7 +10,7 @@ Coordinator: [mailto:maswan@hpc2n.umu.se Mattias Wadenstein], HPC2N, Sweden
 
 === WLCG ===
 NDGF Tier1 is one of 11 regional computing centres of the
-[http://wlcg.web.cern.ch/ Worldwide LHC Computing Grid]– the huge
+[http://wlcg.web.cern.ch/ Worldwide LHC Computing Grid] – the huge
 international e-infrastructure built to provide 
 computing and storage for the [http://home.web.cern.ch/ CERN]. This Nordic solution is unique in 
 being distributed across four countries: Denmark, Finland, Norway and 
