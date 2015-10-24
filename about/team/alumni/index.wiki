@@ -1,0 +1,12 @@
+---
+title: Alumni
+---
+
+= {{ page.title }} =
+
+=== Leif Nixon ===
+
+<img class="smallpic-left" src="/media/nixon.jpg">
+
+With over 10 years of experience in IT security, Leif Nixon was involved with the NDGF Tier-1 since its inception. During his time at the National Supercomputer Centre (NSC) at Linköping University, Sweden, Leif Nixon acted as Security Officer for the NDGF and then NeIC, as well as for the Swedish national grid infrastructure. At this time he also headed the incident response task force for the European Grid Infrastructure (EGI).
+
