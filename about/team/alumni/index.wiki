@@ -4,7 +4,7 @@ title: Alumni
 
 = {{ page.title }} =
 
-=== Leif Nixon ===
+=== Leif Nixon, Security Officer ===
 
 <img class="smallpic-left" src="/media/nixon.jpg">
 
