@@ -1,0 +1,24 @@
+---
+title: "Collaboration"
+---
+
+= Collaboration =
+
+NeIC’s main collaborators are the national e-Infrastructure organisations [http://www.forskningsnettet.dk/ Danish e-Infrastructure Cooperation (DeIC)], the [http://www.csc.fi/english Finnish IT Center for Science (CSC)], [http://www.rhnet.is/english/ Icelandic University Research Network (RHnet)], [https://www.sigma2.no/ UNINETT Sigma2] and [http://www.snic.vr.se/ Swedish National Infrastructure for Computing (SNIC)]. 
+
+Together with the national research funding agencies, these national e-Infrastructure organisations are represented on the NeIC Board and help to set NeIC strategy. The NeIC Board has decided to establish activities within generic services and services for the bio- and medical sciences. New activity areas may be defined in the future.
+
+Researchers may collaborate with the NeIC via national or Nordic user communities. The NeIC works to promote Nordic community-building by organising meetings or workshops to discuss and elicit user needs for e-Infrastructure services. NeIC has periodic calls where research communities may submit Letters of Interest for consideration by NeIC. Such letters will be openly published to expand the user community and encourage synergies between the countries. You are welcome to [https://wiki.neic.no/wiki/Letters_of_interest browse letters from previous calls] or [[/about/about/team|contact us]].
+
+Academic computing centres may also collaborate with the NeIC in line with the strategies of the national e-Infrastructure organisations. Please [[/about/about/team|contact us]] to discuss ideas for service innovation or new projects.
+Service Innovation
+
+An important focus of the NeIC in the coming years will be on innovation in and development of new e-Infrastructure solutions, in addition to selected services such as the Nordic Tier-1 service for the WLCG community. The Tier-1 service is an example of successful Nordic e-Infrastructure innovation. Launched in 2003, the Nordic data grid (NDGF) pilot project has matured into the successful deployment of the first and only distributed Tier-1 service within the WLCG collaboration.
+
+The NeIC will also take an innovation approach to international collaboration. In general, the NeIC will only seek EU funding when this has the full support of national e-Infrastructure providers, and complies with the decisions of the NeIC Board. International collaboration will be sought in contexts where this may help to achieve innovation and enhancement of project quality.
+Joint Operations
+
+As a general rule, operation of services developed with the help of the NeIC will be spun off to suitable service providers in the public or commercial sector after the pilot phase. Since 2003, the NeIC has accumulated key operations competence through its responsibility for the Nordic Tier-1 service. This competence in the complex operation of distributed e-Infrastructures may be used as leverage in other contexts as well. Given a mandate by national policy-makers, the NeIC may engage in future operation of joint Nordic e-Infrastructures such as those related to European Strategy Forum on Research Infrastructures (ESFRI) projects.
+Co-funding
+
+NeIC activities are typically organised into projects involving the participation of national institutions in the Nordic countries. The NeIC provides base funding for selected projects in the form of partial funding of project costs. Base funding will typically be on the order of 30–50% of total project costs, depending on the number of participating countries. The remaining costs are to be covered through co-funding by the participating countries. Co-funding in this context may comprise in-kind personnel resources, cash contributions or other types of contributions.
