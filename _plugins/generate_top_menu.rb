@@ -19,13 +19,13 @@ module Jekyll
       page = context.environments.first["page"]
       current_section = page["url"].split("/")[1]
       
-      if site.baseurl
+      tabclass = current_section == "index.html" ? 'selected' : 'plain'
+
+      if site.baseurl != ''
         html = '<li id="portaltab-index_html" class="plain"><a href="/">Home</a></li>'              
-      end
-      if current_section == "index.html" then
-        html += "<li id='portaltab-index_html' class='selected'><a href='#{site.baseurl}/'>#{site.config['name']}</a></li>"
-          else
-        html += "<li id='portaltab-index_html' class='plain'><a href='#{site.baseurl}/'>#{site.config['name']}</a></li>"
+        html += "<li id='portaltab-index_html' class='#{tabclass}'><a href='#{site.baseurl}/'>#{site.config['name']}</a></li>"
+      else
+        html = "<li id='portaltab-index_html' class='#{tabclass}'><a href='#{site.baseurl}/'>Home</a></li>"
       end
       
       
