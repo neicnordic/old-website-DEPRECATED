@@ -1,6 +1,5 @@
 ---
 title: AHM16
-hidden: yes
 ---
 = Oops! =
 
