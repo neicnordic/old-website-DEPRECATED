@@ -251,11 +251,10 @@ Karan Singh is located at CSC-IT Centre for Science Ltd. Espoo, Finland. He is w
 
 Abdulrahman Azab, a head Engineer at the Department of Informatics, University of Oslo, and a senior lecturer at the Department of Computer Engineering and Control Systems, Mansoura University, Egypt. Main fields of expertise are High Performance Computing, High Throughput Computing, Cloud Computing, Artificial Intelligence, Database Management Systems, Microcontrollers and PLCs.
 
-== Gard Thomassen, Tryggve staff ==
+== Francesca Iozzi, Tryggve staff ==
+[mailto:m.f.iozzi@usit.uio.no]
 
-[mailto:g.o.s.thomassen@usit.uio.no g.o.s.thomassen@usit.uio.no]
-
-Gard Thomassen, PhD, Group leader for the Research Services group at the University Centre for IT at the University of Oslo. Our main focus is to help researchers with complex IT needs that far outgrow the regular desktop and the local-IT helpdesk. We have a foxus on portal services to enable HPC computing with a low user threshold and have also been the Project leader for the TSD (Services for Sensitive Data) project at USIT, UIO since January 2012. My group also does general user support on HPC and storage for Sigma2.
+Maria Francesca Iozzi, PhD in Computational Chemistry. I am group leader of the research service group aiming at developing, deployng and operating services designed to fulfill IT-requirements in research. We are working in close collaboration with NorStore and we are also partner of several European and National Projects. Strong focus is on the development of portals for high performance computing, based on Galaxy tool but strongly  customised to meet the needs of different researching areas and completely integrate with our HPC facilities. I am leading the operation of the TSD (Service for Sensitive Data) developed and deployed at USIT/UiO. TSD is a platform that allow storing, computing analysing and sharing of sensitive research data in compliance with the norwegian law. 
 
 == Erland Hochheim, Tryggve staff ==
 
