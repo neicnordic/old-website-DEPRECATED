@@ -209,14 +209,6 @@ Johan Viklund earned his PhD in Evolutionary Biology at Uppsala University. His 
 
 Now he is working on the BILS Tools Platform, an initiative to create simple and secure web-based access to computational resources.
 
-== Andreas Kähäri, Tryggve staff ==
-
-[mailto:andreas.kahari@bils.se andreas.kahari@bils.se]
-
-Andreas works at BILS in Uppsala as a system developer.
-
-After studying numerical analysis and high performance computing at Uppsala university in the 1990s, he moved into the field of software development for life sciences by working as a research fellow and bioinformatics support technician for AgResearch in New Zealand. He has also worked at [http://www.ebi.ac.uk/ EMBL-EBI] outside Cambridge in the UK to help implement and deploy distributed annotation servers (DAS) within the national e-Protein network and the European BioSapiens network of excellence. He was also part of the Ensembl software team and developed and maintained the Ensembl infrastructure, i.e. the API and SQL schema, as well as BioMart. Before coming back to Uppsala in 2014, he worked in the Ensembl gene annotation team at the Wellcome Trust Sanger Institute for two years, mainly focusing on various aspect of the Ensembl automatic gene annotation pipeline.
-
 == Samuel Lampa, Tryggve staff ==
 
 [mailto:samuel.lampa@bils.se samuel.lampa@bils.se], M: +46 70 207 3732 
@@ -252,7 +244,8 @@ Karan Singh is located at CSC-IT Centre for Science Ltd. Espoo, Finland. He is w
 Abdulrahman Azab, a head Engineer at the Department of Informatics, University of Oslo, and a senior lecturer at the Department of Computer Engineering and Control Systems, Mansoura University, Egypt. Main fields of expertise are High Performance Computing, High Throughput Computing, Cloud Computing, Artificial Intelligence, Database Management Systems, Microcontrollers and PLCs.
 
 == Francesca Iozzi, Tryggve staff ==
-[mailto:m.f.iozzi@usit.uio.no]
+
+[mailto:m.f.iozzi@usit.uio.no m.f.iozzi@usit.uio.no]
 
 Maria Francesca Iozzi, PhD in Computational Chemistry. I am group leader of the research service group aiming at developing, deployng and operating services designed to fulfill IT-requirements in research. We are working in close collaboration with NorStore and we are also partner of several European and National Projects. Strong focus is on the development of portals for high performance computing, based on Galaxy tool but strongly  customised to meet the needs of different researching areas and completely integrate with our HPC facilities. I am leading the operation of the TSD (Service for Sensitive Data) developed and deployed at USIT/UiO. TSD is a platform that allow storing, computing analysing and sharing of sensitive research data in compliance with the norwegian law. 
 
@@ -263,7 +256,6 @@ Maria Francesca Iozzi, PhD in Computational Chemistry. I am group leader of the 
 [mailto:erhh@cbs.dtu.dk erhh@cbs.dtu.dk], M: +45 40952482
 
 25 years experience in R&D High Performance Computing, computing operations, system administration and consulting at global enterprises such as Ericsson, Cap Gemini, Nokia and Renesas Mobile Corporation.
- 
 Currently at Technical University of Denmark, Department of Systems Biology, Center for Biological Sequence Analysis, as Systems Administrator on the National Life Sciences Supercomputer (aka. Computerome).
 
 == Piotr Chmura, Tryggve staff ==
