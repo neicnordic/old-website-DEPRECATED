@@ -7,3 +7,5 @@ title: Alumni
 === Leif Nixon, Security Officer ===
 With over 10 years of experience in IT security, Leif Nixon was involved with the NDGF Tier-1 since its inception. During his time at the National Supercomputer Centre (NSC) at Linköping University, Sweden, Leif Nixon acted as Security Officer for the NDGF and then NeIC, as well as for the Swedish national grid infrastructure. At this time he also headed the incident response task force for the European Grid Infrastructure (EGI). After his engagement with NeIC, Nixon joined the product security team at RedHat.
 
+=== Gard Thomassen, Tryggve staff ===
+Gard Thomassen, PhD, Section manager for the Research Services group at the University Centre for IT at the University of Oslo. Our main focus is to help researchers with complex IT needs that far outgrow the regular desktop and the local-IT helpdesk. Gard has also been the Project leader for the TSD (Services for Sensitive Data) project at USIT. Gard worked in the Tryggve project team at the start of the project, and has moved since that into a role in the project Reference Group.
