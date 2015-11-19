@@ -13,10 +13,10 @@ description: "Past events"
 
 <span class="event-list">
 <script>
-var today = new Date().toJSON().substring(0,10);
-var calendar_url = "https://www.google.com/calendar/feeds/sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com/public/basic?hl=en&orderby=starttime&sortorder=descending&max-results=500&alt=json&start-max=" + today;
+var calendarid = "sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com";
+var key = "AIzaSyDs9SxBwa14qoanXOaKNGWh-6Hq62ky4oQ";
 var widget = document.scripts[document.scripts.length - 1].parentNode;
-renderEvents(widget, calendar_url, "highlight", "");
+renderEvents(widget, calendarid, key, true, "highlight", "");
 </script>
 </span>
 
@@ -24,10 +24,10 @@ renderEvents(widget, calendar_url, "highlight", "");
 
 <span class="event-list">
 <script>
-var today = new Date().toJSON().substring(0,10);
-var calendar_url = "https://www.google.com/calendar/feeds/sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com/public/basic?hl=en&orderby=starttime&sortorder=descending&max-results=500&alt=json&start-max=" + today;
+var calendarid = "sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com";
+var key = "AIzaSyDs9SxBwa14qoanXOaKNGWh-6Hq62ky4oQ";
 var widget = document.scripts[document.scripts.length - 1].parentNode;
-renderEvents(widget, calendar_url, "", "");
+renderEvents(widget, calendarid, key, true, "", "");
 </script>
 </span>
 

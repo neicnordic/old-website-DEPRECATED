@@ -72,9 +72,10 @@
         <h1><a href="/events"> Current events </a></h1>
         <span>
           <script>
-            var calendar_url = "https://www.google.com/calendar/feeds/sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com/public/basic?hl=en&orderby=starttime&sortorder=ascending&futureevents=true&alt=json";
+            var calendarid = "sdmmpsbtk54hdvob60rjhfnnvo%40group.calendar.google.com";
+            var key = "AIzaSyDs9SxBwa14qoanXOaKNGWh-6Hq62ky4oQ";
             var widget = document.scripts[document.scripts.length - 1].parentNode;
-            renderEventsTitles(widget, calendar_url, "highlight", "");
+            renderEventsTitles(widget, calendarid, key, false, "highlight", "");
           </script>
         </span>
         <div style="text-align: right;"><a href="/events/past/"> Past events </a></div>

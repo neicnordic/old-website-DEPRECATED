@@ -1,7 +1,14 @@
 /*
 Filter and render events from a Google calendar.
 */
-function renderEvents(mywidget, url, hashtags, linkpref) {
+function renderEvents(mywidget, calendarid, key, past, hashtags, linkpref) {
+var url = "https://www.googleapis.com/calendar/v3/calendars/" + calendarid + "/events?key=" + key + "&orderBy=startTime&singleEvents=true";
+if (past) {
+  url = url + "&timeMax=" + new Date().toISOString();
+} else {
+  url = url + "&timeMin=" + new Date().toISOString();
+}
+
 $.getJSON(url , function( data ) {
   var gettags = function (description) {
     var tags = [];
@@ -12,44 +19,26 @@ $.getJSON(url , function( data ) {
     }
     return tags;
   }
-  var format_entry = function (entry) {
-    hashtags = hashtags || "";
-    linkpref = linkpref || "wikipage,wiki,webpage,website,homepage,site,event,info,more info,more information,googlecalendar";
-    var calendaricon = "/assets/img/calendar-icon.gif";
-    var linkprefs = linkpref.split(",");
-    var tags = hashtags.replace(/\s/g,'').toLowerCase().split(",");
+  var format_event = function (event) {
+    var calendaricon = "https://wiki.neic.no/w/ext/img_auth.php/7/78/Calendar-icon.gif";
+    var linkprefs = "<!--{$linkpref|default:'wikipage,wiki,webpage,website,homepage,site,event,info,more info,more information,googlecalendar'}-->".split(",");
+    var tags = "<!--{$hashtags|default:''}-->".replace(/\s/g,'').toLowerCase().split(",");
     if (tags.length == 1 && tags[0] == '') {
       tags = [];
     }
     var urlregex = /(https?:\/\/\S+?)(\.?([\s\n]|$))/gi;
     var repl = '<span class="plainlinks"><a class="external text" rel="nofollow" href="$1">$1</a></span>$2'
-    var title = entry.title.$t;
+    var summary = event.summary;
     var url = "";
-    var calendarurl = "";
+    var calendarurl = event.htmlLink;
     var description = "";
     var ret = "";
-    var content = entry.content.$t.replace(/\\u003cbr \/\\u003e/g, '\n');
-    var date = "";
-    var blurb = "";
-    var details = "";
-    // calendarurl
-    for (var i in entry.link) {
-      if (entry.link[i].type == 'text/html' ) {
-        calendarurl = entry.link[i].href;
-      }
-    }
-    // date
-    var match = content.match(/^When: (.+)/);
-    if (match) {
-      date = match[1];
-    }
-    // blurb
-    match = content.match(/Event Description: (.+)/m);
-    if (match) {
-      blurb = match[1].replace(urlregex, repl);
-    }
+    var description = event.description || "";
+    var date = (event.start.date || event.start.dateTime).split('T')[0];
+    var blurb = description.split('\n')[0].replace(urlregex, repl);
     // details
-    var descriptionmatch = content.match(/Event Description: (.*(\n([\s\S]+))?)/m);
+    var details = "";
+    var descriptionmatch = description.match(/(.*(\n([\s\S]+))?)/m);
     if (descriptionmatch && descriptionmatch[3]) {
       details = descriptionmatch[3].replace(urlregex, repl).replace(/\n/g, '<br/>\n');
     }
@@ -81,9 +70,9 @@ $.getJSON(url , function( data ) {
     }  
     var ret = '<dt><b>';
     if (url) {
-      ret = ret + '<a href="' + url + '">' + title + '</a> <a href="' + calendarurl + '"><img style="height: 12px; width: 12px; margin-left: 0.5em; vertical-align: text-top;" src="' + calendaricon + '"></a>';
+      ret = ret + '<a href="' + url + '">' + summary + '</a> <a href="' + calendarurl + '"><img style="height: 12px; width: 12px; margin-left: 0.5em; vertical-align: text-top;" src="' + calendaricon + '"></a>';
     } else {
-      ret = ret + title;
+      ret = ret + summary;
     }
     ret = ret  + '</b></dt><dd>' + date + '<br/>';
     if (blurb) {
@@ -97,11 +86,14 @@ $.getJSON(url , function( data ) {
     ret = ret + '</dd>';
     return ret;
   }
-  var entries = [];
-  $.each(data.feed.entry, function (i, entry) {
-    entries.push(format_entry(entry));
+  var events = [];
+  $.each(data.items, function (i, event) {
+    events.push(format_event(event));
   })
-  $("<dl/>", {html:entries.join("")}).appendTo(mywidget); 
+  if (past) {
+    events.reverse();
+  }
+  $("<dl/>", {html:events.join("")}).appendTo(mywidget); 
 });
 
 $(document).ready(function() {
