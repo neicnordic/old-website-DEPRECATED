@@ -21,8 +21,8 @@ $.getJSON(url , function( data ) {
   }
   var format_event = function (event) {
     var calendaricon = "https://wiki.neic.no/w/ext/img_auth.php/7/78/Calendar-icon.gif";
-    var linkprefs = "<!--{$linkpref|default:'wikipage,wiki,webpage,website,homepage,site,event,info,more info,more information,googlecalendar'}-->".split(",");
-    var tags = "<!--{$hashtags|default:''}-->".replace(/\s/g,'').toLowerCase().split(",");
+    var linkprefs = (linkprefs || 'wikipage,wiki,webpage,website,homepage,site,event,info,more info,more information,googlecalendar').split(",");
+    var tags = hashtags.replace(/\s/g,'').toLowerCase().split(",");
     if (tags.length == 1 && tags[0] == '') {
       tags = [];
     }

@@ -1,7 +1,7 @@
 /*
 Filter and render events from a Google calendar.
 */
-function renderEvents(mywidget, calendarid, key, past, hashtags, linkpref) {
+function renderEventsTitles(mywidget, calendarid, key, past, hashtags, linkpref) {
 var url = "https://www.googleapis.com/calendar/v3/calendars/" + calendarid + "/events?key=" + key + "&orderBy=startTime&singleEvents=true";
 if (past) {
   url = url + "&timeMax=" + new Date().toISOString();
@@ -21,8 +21,8 @@ $.getJSON(url , function( data ) {
   }
   var format_event = function (event) {
     var calendaricon = "https://wiki.neic.no/w/ext/img_auth.php/7/78/Calendar-icon.gif";
-    var linkprefs = "<!--{$linkpref|default:'wikipage,wiki,webpage,website,homepage,site,event,info,more info,more information,googlecalendar'}-->".split(",");
-    var tags = "<!--{$hashtags|default:''}-->".replace(/\s/g,'').toLowerCase().split(",");
+    var linkprefs = (linkprefs || 'wikipage,wiki,webpage,website,homepage,site,event,info,more info,more information,googlecalendar').split(",");
+    var tags = hashtags.replace(/\s/g,'').toLowerCase().split(",");
     if (tags.length == 1 && tags[0] == '') {
       tags = [];
     }
@@ -42,15 +42,12 @@ $.getJSON(url , function( data ) {
     if (descriptionmatch && descriptionmatch[3]) {
       details = descriptionmatch[3].replace(urlregex, repl).replace(/\n/g, '<br/>\n');
     }
-    // return empty string if required tags not present, uses descriptionmatch from above
+    var tagged = false;
     if (tags.length > 0) {
-      if (!descriptionmatch) {
-        return '';
-      }
       var eventtags = gettags(descriptionmatch[1]);
       for (var i in tags) {
-        if (eventtags.indexOf(tags[i]) == -1) {
-          return '';
+        if (eventtags.indexOf(tags[i]) != -1) {
+          tagged = true;
         }
       }
     }
@@ -68,7 +65,7 @@ $.getJSON(url , function( data ) {
       }
       if (url) break;
     }  
-    var ret = '<a href="' + calendarurl + '">' + date + '</a>: <a href="' + eventurl + '">' + summary + '</a>';
+    var ret = '<a href="' + calendarurl + '">' + date + '</a>: <a href="' + url + '">' + summary + '</a>';
     if (tagged) {
       ret = '<b>' + ret + '</b>';
     }
@@ -76,7 +73,7 @@ $.getJSON(url , function( data ) {
   }
   var events = [];
   $.each(data.items, function (i, event) {
-    events.push(format_entry(event));
+    events.push(format_event(event));
   })
   if (past) {
     events.reverse();
