@@ -141,6 +141,7 @@ His main responsibility is for operations for SweStore – the Swedish Storage I
 
 Ulf Tigerstedt is employed as a grid administrator at [http://www.csc.fi CSC] in Finland. He is responsible for the Nordic NGI (NGI_NDGF) and also performs general technical work for the NDGF Tier-1.
 
+<div style="clear: both;"></div>
 == Jon Kerr Nilsen, ARC Release Manager ==
 
 <img class="smallpic-left" src="jon.jpg">
