@@ -137,7 +137,7 @@ His main responsibility is for operations for SweStore – the Swedish Storage I
 
 <img class="smallpic-left" src="ulf.jpg">
 
-[mailto:ulf.tigerstedt@csc.fi ulf.tigerstedt@csc.fi], M: +35 85 03 81 85 58
+[mailto:ulf.tigerstedt@csc.fi ulf.tigerstedt@csc.fi], M: +358 50 381 8558
 
 Ulf Tigerstedt is employed as a grid administrator at [http://www.csc.fi CSC] in Finland. He is responsible for the Nordic NGI (NGI_NDGF) and also performs general technical work for the NDGF Tier-1.
 
@@ -148,6 +148,7 @@ Ulf Tigerstedt is employed as a grid administrator at [http://www.csc.fi CSC] in
 [mailto:j.k.nilsen@usit.uio.no j.k.nilsen@usit.uio.no], M: +47 40203659
 
 Jon Kerr Nilsen is located at the University of Oslo, [http://www.usit.uio.no/english/ University Center for Information Technology]. He has been involved in development of the NorduGrid ARC middleware for several years and is currently acting as ARC release manager in addition to doing development tasks for the NDGF Tier-1.
+
 Nilsen holds a PhD in High Energy Physics and was acting as deputy leader of the development work group during the EMI EU-project.
 
 == John White, EISCAT_3D Support, Project Manager ==
@@ -162,7 +163,7 @@ John White, 48, is located near Geneva, Switzerland and holds a 50% position as 
 
 <img class="smallpic-left" src="erik.jpg">
 
-[mailto:erik.edelmann@csc.fi erik.edelmann@csc.fi], M: +35 85 03 81 90 55
+[mailto:erik.edelmann@csc.fi erik.edelmann@csc.fi], M: +358 50 381 9055
 
 Erik Edelmann is employed at CSC in Finland. He has previously been involved with the Finnish Tier-2 site, assisting with the development of the CMS project. Currently his main responsibility is the ALICE experiment within the NDGF Tier-1. He is also responsible for Tier-1 accounting.
 
