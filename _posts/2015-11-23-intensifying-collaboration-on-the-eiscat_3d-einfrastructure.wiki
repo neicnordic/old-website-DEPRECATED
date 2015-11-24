@@ -9,7 +9,7 @@ image: "/media/eiscat_3d_shf_arn_nov_2015_image_mini.png"
 
   <div style="width:200px; float:right; margin:0 0 10 10;">
     <table>
-    <tr style="padding:0; margin:0; border:2px solid red;"><td style="padding:0; margin:0; border:2px solid blue;"><img style="width:200px;" src="/media/eiscat_3d_shf_arn_nov_2015_image_mini.png" width="200px"/></td></tr>
+    <tr style="padding:0; margin:0; border:2px solid red;"><td style="padding:0; margin:0; border:2px solid blue;"><img style="padding:0; margin:0; width:200px;" src="/media/eiscat_3d_shf_arn_nov_2015_image_mini.png" width="200px"/></td></tr>
     <tr style="padding:0; margin:0; border:2px solid blue;"><td style="width:200px;">EISCAT_3D. Photo: National Institute of Polar Research, Japan (NIPR)</td></tr>
     </table>
   </div>
