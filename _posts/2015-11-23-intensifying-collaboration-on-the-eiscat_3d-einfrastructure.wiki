@@ -24,8 +24,6 @@ The talks were complemented by a presentation of the Nordic Tier-1 eInfrastructu
 The meeting was chaired by NeIC director Gudmund Høst and concluded with agreement on specific near- and mid-term actions:
 
 # The NeIC EISCAT_3D Support project will refine the requirements for the EISCAT_3D network, including alternative sites for the operations centre, data centre and archives. The network providers will then provide a detailed analysis of construction time as well as of construction and operation costs.
-
 # The NeIC EISCAT_3D Support project will seek advice from the national eInfrastructure providers on various issues related to gathering requirements, designing solutions and identifying the work packages and IT expertise needed for implementing the eInfrastructure.
-
 # In the future, general stakeholder meetings (like this one) should be held about once a year and component/technology-oriented meetings should be held as necessary.
 
