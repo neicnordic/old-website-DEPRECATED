@@ -10,7 +10,7 @@ image: "/media/eiscat_3d_shf_arn_nov_2015_image_mini.png"
 <div>
   <div style="width:200px; float:right; margin:0 0 10 10; display:block;">
     <img style="width:200px;" src="/media/eiscat_3d_shf_arn_nov_2015_image_mini.png" width="200px"/>
-    <p style="width:200px; font-size:0.5em;">EISCAT_3D. Photo: National Institute of Polar Research, Japan (NIPR)</p>
+    <p style="width:200px; font-size:smaller; border: 1px dashed black;">EISCAT_3D. Photo: National Institute of Polar Research, Japan (NIPR)</p>
   </div>
   <span style="clear:both; height:0; width:0;"></span>
 </div>
