@@ -15,7 +15,7 @@ image: "/media/eiscat_3d_shf_arn_nov_2015_image_mini.png"
   <span style="clear:both; height:0; width:0;"></span>
 </div>
 
-<div style="border: 2px solid green;">
+<div style="border: 2px solid green; margin-bottom:0px;">
 The international research infrastructure EISCAT_3D is a three-dimensional imaging radar that will be located in the northernmost part of Europe. It will take continuous measurements of the geospace environment and its coupling to the Earth’s atmosphere. The radar system is designed to investigate how the Earth’s atmosphere is coupled to space, but it will also be suitable for use for a wide range of other scientific aims.
 
 The objective of the meeting in Stockholm was also to intensify collaboration between the stakeholders to make the best use of existing expertise in designing and implementing the complex distributed eInfrastructure for EISCAT_3D.
