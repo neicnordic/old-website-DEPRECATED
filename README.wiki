@@ -318,10 +318,12 @@ So, start by installing rbenv, a tool to manage multiple Ruby installations:
 
 <pre>git clone https://github.com/sstephenson/rbenv.git ~/.rbenv</pre>
 
-Add to the .bash_profile:
+Initialize rbenv with these commands:
 
 <pre>export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"</pre>
+
+To automatically do this at login you can add the same lines to your ~/.bash_profile.
 
 Install the ruby-build plugin in order to build Ruby versions from source:
 
