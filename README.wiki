@@ -323,7 +323,7 @@ Initialize rbenv with these commands:
 <pre>export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"</pre>
 
-To automatically do this at login you can add the same lines to your ~/.bash_profile.
+To automatically do this at login you can for example add the same lines to your ~/.bash_profile.
 
 Install the ruby-build plugin in order to build Ruby versions from source:
 
