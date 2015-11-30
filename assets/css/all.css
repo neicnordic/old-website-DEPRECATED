@@ -997,5 +997,24 @@ article .visual em{
 	word-wrap: break-word;
 }
 
+body.wide #main {
+    max-width: 1550px;
+}
+
+/* Contact info table */
+.contact-info-table th, 
+.contact-info-table td {
+    padding: 0 5px;
+    font-size: small;
+}
+
+.contact-info-table thead th:hover {
+    cursor: pointer;
+}
+
+.contact-info-table tr:hover {
+    background: #f9f7f7;
+}
+
 #smallbottommargin p { margin: 0 0 3px; }
 #nobottommargin p { margin: 0 0 0px; }

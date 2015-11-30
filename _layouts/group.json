@@ -1,0 +1,3 @@
+---
+---
+{{ site | contact_info:page.id | jsonify }}

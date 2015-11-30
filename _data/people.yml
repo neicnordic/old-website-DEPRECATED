@@ -1,0 +1,334 @@
+host:
+    name: Gudmund Høst
+    home: NordForsk
+    country: "NO"
+    email: Gudmund.Host@nordforsk.org
+    role: Director
+    image: /about/team/gudmund.jpg
+    phone: "M: +47 95 81 68 46"
+    groups:
+        - xt
+    
+roblitz:
+    name: Thomas Röblitz
+    home: USIT
+    country: "NO"
+    role: ENV Coordinator
+    image: /about/team/thomas.jpg
+    email: thomas.roblitz@usit.uio.no
+    phone: "M: +47 4141 0799"
+    groups:
+        - xt
+        - env
+
+wadenstein:
+    name: Mattias Wadenstein
+    home: HPC2N
+    country: SE
+    role: NT1 Coordinator
+    image: /about/team/maswan.jpg
+    email: maswan@ndgf.org
+    phone: "M: +46 70 79 69 46 2"
+    groups: 
+        - xt
+        - nt1
+
+barth:
+    name: Michaela Barth
+    role: GEN Coordinator (parental leave)
+    home: PDC
+    country: SE
+    image: /about/team/caela.jpg
+    email: caela@kth.se
+    phone: "P: +46 87 90 78 91"
+    groups:
+        - xt
+        - gen
+
+vitlacil:
+    name: Dejan Vitlacil
+    role: GEN Coordinator (ad interim)
+    home: PDC
+    country: SE
+    image: /about/team/dejan.jpeg
+    email: vitlacil@kth.se
+    phone: "M: +46 76 064 18 45"
+    groups:
+        - xt
+        - gen
+
+hedlund:
+    name: Joel Hedlund
+    role: BMS Coordinator
+    home: NSC
+    country: SE
+    image: /about/team/joel.jpg
+    email: joel@nsc.liu.se
+    phone: "M: +46 734 607126"
+    groups:
+        - xt
+        - bms
+
+pettersen:
+    name: Pål Pettersen
+    role: ADM Coordinator
+    home: NordForsk
+    country: "NO"
+    image: /about/team/pal.jpg
+    email: paal.pettersen@nordforsk.org
+    phone: "M: +47 415 10 974"
+    groups:
+        - xt
+
+behrmann:
+    name: Gerd Behrmann
+    role: Systems Software Specialist
+    country: DK
+    image: /about/team/gerd.jpg
+    email: behrmann@ndgf.org
+    phone: "M: +45 31 62 14 05"
+    groups:
+        - nt1
+
+pursula:
+    name: Antti Pursula
+    role: Tryggve Project Manager
+    home: CSC
+    country: FI
+    image: /about/team/antti.jpg
+    email: antti.pursula@csc.fi
+    phone: "M: +358 50 3819537"
+    groups:
+        - bms
+        - tryggve
+
+jonsson:
+    name: Magnus Jonsson
+    role: Developer
+    home: HPC2N
+    country: SE
+    image: /about/team/magnus.jpg
+    email: magnus@hpc2n.umu.se
+    phone: "M: +46 767 660 735"
+    groups:
+        - gen
+    
+karpenko:
+    name: Dmytro Karpenko
+    role: Tier-1 Operations
+    home: USIT
+    country: "NO"
+    image: /about/team/dmytro.jpeg
+    email: dmytro.karpenko@usit.uio.no
+    phone: "M: +47 9577 6417"
+    groups: 
+        - nt1
+
+urkedal:
+    name: Petter Urkedal
+    role: Tier-1 Operations
+    home: NBI
+    country: DK
+    image: /about/team/petter.jpg
+    email: urkedal@nbi.dk
+    phone: "M: +45 35 32 53 61"
+    groups: 
+        - nt1
+
+larsson:
+    name: Jens Larsson
+    role: Tier-1 Operations
+    home: NSC
+    country: SE
+    image: /about/team/jens.jpg
+    email: jens@ndgf.org
+    mobile: "P: +46 13 28 14 32"
+    groups:
+        - nt1
+
+tigerstedt:
+    name: Ulf Tigerstedt
+    role: Tier-1 Operations
+    home: CSC
+    country: FI
+    image: /about/team/ulf.jpg
+    email: ulf.tigerstedt@csc.fi
+    phone: "M: +358 50 381 8558"
+    groups:
+        - nt1
+
+nilsen:
+    name: Jon Kerr Nilsen
+    role: ARC Release Manager
+    home: USIT
+    country: "NO"
+    image: /about/team/jon.jpg
+    email: j.k.nilsen@usit.uio.no
+    phone: "M: +47 40203659"
+    groups:
+        - nt1
+
+white:
+    name: John White
+    role: E3DS Project Manager
+    home: CERN
+    country: CH
+    image: /about/team/john.jpeg
+    email: john.white@cern.ch
+    groups:
+        - env
+        
+edelmann:
+    name: Erik Edelmann
+    role: Tier-1 Operations
+    home: CSC
+    country: FI
+    image: /about/team/erik.jpg
+    email: erik.edelmann@csc.fi
+    phone: "M: +358 50 381 9055"
+    groups:
+        - nt1
+
+smirnova:
+    name: Oxana Smirnova
+    role: CERN Liaison 
+    home: LU
+    country: SE
+    image: /about/team/oxana.jpg
+    email: oxana.smirnova@hep.lu.se
+    phone: "M: +46 709 22 46 57"
+    groups:
+        - nt1
+
+li:
+    name: Xiaxi Li
+    role: Tryggve staff
+    home: UiB
+    country: "NO"
+    image: /about/team/xiaxi.png
+    email: xiaxi.li@ii.uib.no
+    phone: "P: +47 55584097"
+    groups:
+        - bms
+        - tryggve
+
+freyhult:
+    name: Pontus Freyhult
+    role: Tryggve staff
+    home: BILS
+    country: SE
+    email: pontus.freyhult@it.uu.se
+    groups:
+        - bms
+        - tryggve
+    
+
+hagberg:
+    name: Jonas Hagberg
+    role: Tryggve staff
+    home: BILS
+    country: SE
+    email: jonas.hagberg@bils.se
+    phone: "M: +46 706683869"
+    groups:
+        - bms
+        - tryggve
+
+viklund:
+    name: Johan Viklund
+    role: Tryggve staff
+    home: BILS
+    country: SE
+    email: johan.viklund@bils.se
+    groups:
+        - bms
+        - tryggve
+
+lampa:
+    name: Samuel Lampa
+    role: Tryggve staff
+    home: BILS
+    country: SE
+    email: samuel.lampa@bils.se
+    phone: "M: +46 70 207 3732"
+    groups:
+        - bms
+        - tryggve
+ 
+syed:
+    name: Ali Syed
+    role: Tryggve staff
+    home: CBS
+    country: DK
+    image: /about/team/ali.png
+    email: alisyed@cbs.dtu.dk
+    phone: "M: +45 60 90 46 46"
+    groups:
+        - bms
+        - tryggve
+
+leinonen:
+    name: Jaakko Leinonen
+    role: Tryggve staff
+    home: CSC
+    country: FI
+    email: jaakko.leinonen@csc.fi
+    groups:
+        - bms
+        - tryggve
+
+singh:
+    name: Karan Singh
+    role: Tryggve staff
+    home: CSC
+    country: FI
+    image: /about/team/karan.jpeg
+    email: karan.singh@csc.fi
+    phone: "W: +358 503812758"
+    groups:
+        - bms
+        - tryggve
+
+azab:
+    name: Abdulrahman Azab
+    role: Tryggve staff
+    home: USIT
+    country: "NO"
+    email: azab@ifi.uio.no
+    groups:
+        - bms
+        - tryggve
+
+iozzi:
+    name: Francesca Iozzi
+    role: Tryggve staff
+    home: USIT
+    country: "NO"
+    image: /about/team/francesca.jpeg
+    email: m.f.iozzi@usit.uio.no
+    groups:
+        - bms
+        - tryggve
+    
+hochheim:
+    name: Erland Hochheim
+    role: Tryggve staff
+    home: CBS
+    country: DK
+    image: /about/team/erland.jpeg
+    email: erhh@cbs.dtu.dk
+    phone: "M: +45 40952482"
+    groups:
+        - bms
+        - tryggve
+
+chmura:
+    name: Piotr Chmura
+    role: Tryggve staff
+    home: CBS
+    country: DK
+    email: pjchmura@cbs.dtu.dk
+    groups:
+        - bms
+        - tryggve
+    

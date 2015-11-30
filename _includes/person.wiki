@@ -1,0 +1,6 @@
+{% assign person=site.data.people[include.id] %}<div id="{{ include.id }}" style="clear: both"></div>
+== {{ person.name }}{% if person.role %}, {{ person.role }}{% endif %} ==
+{% if person.image %}
+<img class="smallpic-left" src="{{ person.image }}">{% endif %}
+{% if person.email %}[mailto:{{ person.email }} {{ person.email }}]{% endif %}{% if person.phone %}, {{ person.phone }}{% endif %}
+{% if person.groups %}<br/>{% for g in person.groups %}{% if forloop.index > 1 %}, {% endif %}<a href="/about/team/{{ g }}">{{ site.data.groups[g].name|default:g }}</a>{% endfor %}{% endif %}

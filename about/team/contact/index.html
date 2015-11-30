@@ -1,0 +1,11 @@
+---
+title: Contact information
+layout: menu-wide
+menu: 10
+---
+<h1>Contact information</h1>
+{% assign people = site|contact_info:'all' %}
+
+{% include contact-info-table.html id='all' people=people %}
+
+<p> Please click table headings to sort the table (shift-click for additional columns). 

@@ -1,0 +1,9 @@
+{% assign path_components = page.path|split:'/' %}
+{% assign id = include.id|default:path_components[-2] %}
+{% assign people = site|contact_info:id %}
+
+<h1>{{ page.title }}</h1>
+
+{% include contact-info-table.html id=id people=people %}
+
+<p> Please click table headings to sort the table (shift-click for additional columns). 

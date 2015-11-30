@@ -1,0 +1,35 @@
+{% assign people=include.people %}
+<table id="grouptable-{{ include.id }}" class="contact-info-table">
+<thead>
+<tr>
+<th>Name</th> 
+<th>Role</th>
+<th>Email</th>
+<th>Home</th>
+<th>Country</th>
+<th>Groups</th>
+<th>Phone</th>
+</tr>
+</thead>
+<tbody>
+{% for p in people %}
+    {% assign person=p[1] %}
+    <tr>
+    <td><a href="/about/team#{{ p[0] }}">{{ person.name }}</a></td>
+    <td>{{ person.role }}</td>
+    <td><a href="mailto:{{ person.email }}">{{ person.email }}</a></td>
+    <td>{{ person.home }}</td>
+    <td>{{ person.country }}</td>
+    <td>{% for g in person.groups %}{% if forloop.index > 1 %}, {% endif %}<a href="{{ g.url }}">{{ g.name }}</a>{% endfor %}</td>
+    <td>{{ person.phone }}</td>
+    </tr>
+{% endfor %}
+</tbody>
+</table> 
+<script>
+$(document).ready(function() 
+    { 
+        $("#grouptable-{{ include.id }}").tablesorter(); 
+    } 
+); 
+</script>
