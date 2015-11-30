@@ -996,3 +996,6 @@ article .visual em{
 	font-size: 11pt;
 	word-wrap: break-word;
 }
+
+#smallbottommargin p { margin: 0 0 3px; }
+#nobottommargin p { margin: 0 0 0px; }
