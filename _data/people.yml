@@ -1,3 +1,44 @@
+# List of people on service contracts with NeIC
+# =============================================
+#
+# This is used automatically generate web pages and apis to show staff 
+# listings, contact info tables, etc... This info is shown on the official
+# website, internal and external wikis, etc...
+#
+# How to fill this in
+# ===================
+#
+# For geeks: This is a YAML hashmap of hashmaps.
+# 
+# Each person has a block of key:value informaton. Example:
+#
+# host: # <personid> must be unique, recommended is anglified lowercase last name.
+#     name: "Gudmund Høst"
+#     home: "NordForsk"
+#     country: "NO"
+#     email: "Gudmund.Host@nordforsk.org"
+#     role: "Director" # Short and snappy, suitable for tables.
+#     image: "/about/team/gudmund.jpg"
+#     phone: "+4795816846"
+#     groups:
+#         - xt
+#         - and
+#         - others # <groupid>, see _data/groups.yml
+#
+# Be meticulous about indentation or jekyll will yell at you (recommended: exactly four spaces).
+#
+# It is a good idea to put "quotes" around all values, although "it should work anyway", 
+# except when it doesn't. For example if left unquoted, Gudmund's phone number above would
+# be read as a large positive integer number and would be shown without the leading plus
+# character. Also his country would be shown as FALSE, which could be interpreted as 
+# extremely funny to Swedish persons.
+# 
+# If you mess up
+# ==============
+#
+# After any changes, check: https://neic.nordforsk.org/int/status/neicweb.txt
+#
+
 host:
     name: Gudmund Høst
     home: NordForsk
