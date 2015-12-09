@@ -19,7 +19,7 @@
 #     email: "Gudmund.Host@nordforsk.org"
 #     role: "Director" # Short and snappy, suitable for tables.
 #     image: "/about/team/gudmund.jpg"
-#     phone: "+4795816846"
+#     phone: "+4795816846" # Some people like to prefix this with M: (for mobile).
 #     groups:
 #         - xt
 #         - and
