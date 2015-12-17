@@ -1,9 +1,6 @@
 ---
 title: README
 ---
-== This manual is not for the current webpages ==
-NeIC is now setting up a new system for its website, inspired by the solution developed by Peter Larson at [http://www.nsc.liu.se NSC]. Please note that this new solution has not yet been put into production, but this manual is being produced in preparation for the changeover.
-
 == Crash course: How to make a news article in the new NeIC web ==
 
 Keep in mind:
