@@ -14,8 +14,8 @@ Keep an eye out for the signs, and post to the right place!
 
 Howto:
 # Upload picures and other media files.
-#* [https://neic.nbi.dk/int/github/upload/ Upload to production webserver]
-#* [https://neic.nbi.dk:59443/int/github/upload/ Upload to development system]
+#* [https://neic.nordforsk.org/int/upload/neicweb/ Upload to production webserver]
+#* [https://neic.nordforsk.org/int/upload/neicweb-devel/ Upload to development system]
 # Follow instructions onscreen. Click "Go live with this" button when done.
 # Write the article text on [https://github.com/neicnordic GitHub]
 #* [https://github.com/neicnordic/neicweb/ Source files for the production website]
@@ -32,7 +32,7 @@ Howto:
 # Paste the article contents that you previously copied into the large text area.
 # Click the filename box, and add a title on the form:
 #* YYYY-MM-DD-some-title.wiki 
-#* (notice it starts with eg. today's date, all letters are lowercase, and it has  .wiki at the end)
+#* (notice it starts with eg. today's date, all letters are lowercase, and it has .wiki at the end)
 # Edit the article so it looks like you want it, using [https://www.mediawiki.org/wiki/Help:Formatting mediawiki syntax].
 #* If the long lines disappear off the edge of the screen, select "Soft wrap" in the drop down menu in the top right corner of the text area.
 #* You can click the "Preview changes" button in the top left corner of the text area to check that your text is fine.
