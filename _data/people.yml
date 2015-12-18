@@ -372,13 +372,3 @@ chmura:
     groups:
         - bms
         - tryggve
-    
-vincent:
-    name: Jonathan Vincent
-    role: SNIC Sens PM
-    home: SNIC
-    country: SE
-    email: jonathan.vincent@it.uu.se
-    groups:
-        - bms
-        - tryggve
