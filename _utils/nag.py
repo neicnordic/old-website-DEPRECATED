@@ -180,6 +180,9 @@ def get_complaints(event, tests, person_id_restriction=None):
             complaints.setdefault(person_id, []).extend(new_complaints)
     return complaints
 
+def utf8(s):
+    return unicode(s).encode("utf-8")
+
 def print_complaints(event, complaints):
     complaints = dict(complaints)
     general = sorted(complaints.pop(None, []))
@@ -190,7 +193,7 @@ def print_complaints(event, complaints):
     for person_id, nags in complaints.items():
         name = event['people'][person_id]['name']
         email = event['people'][person_id].get('email', None)
-        print "%s: %s%s" % (person_id, name, (' <%s>' % email) if email else '')
+        print "%s: %s%s" % (person_id, utf8(name), (' <%s>' % email) if email else '')
         print '    * ' + '\n    * '.join(sorted(nags))
         print
          
