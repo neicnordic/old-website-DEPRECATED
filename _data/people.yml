@@ -1,5 +1,5 @@
-# List of people on service contracts with NeIC
-# =============================================
+# List of people associated with NeIC
+# ===================================
 #
 # This is used automatically generate web pages and apis to show staff 
 # listings, contact info tables, etc... This info is shown on the official
@@ -20,24 +20,26 @@
 #     role: "Director" # Short and snappy, suitable for tables.
 #     image: "/about/team/gudmund.jpg"
 #     phone: "+4795816846" # Some people like to prefix this with M: (for mobile).
-#     groups:
-#         - xt
+#     groups: # list IDs for groups the person is part of (see _data/groups.yml). 
+#         - staff # Only if currently on service contract with NeIC.
+#         - xt 
 #         - and
-#         - others # <groupid>, see _data/groups.yml
+#         - possibly
+#         - others 
 #
 # Be meticulous about indentation or jekyll will yell at you (recommended: exactly four spaces).
 #
-# It is a good idea to put "quotes" around all values, although "it should work anyway", 
-# except when it doesn't. For example if left unquoted, Gudmund's phone number above would
-# be read as a large positive integer number and would be shown without the leading plus
-# character. Also his country would be shown as FALSE, which could be interpreted as 
-# extremely funny to Swedish persons.
+# It is a good idea to put "quotes" around all values, although "it should work anyway". 
+# Except when it doesn't. For example if left unquoted, Gudmund's phone number above would
+# be read as a large positive integer number and would be displayed without the leading plus
+# character. Also his country would be shown as being FALSE, which could be interpreted as 
+# extremely funny for example to Swedish persons.
 # 
 # If you mess up
 # ==============
 #
-# After any changes, check: https://neic.nordforsk.org/int/status/neicweb.txt
-#
+# After any changes, check: https://neic.nordforsk.org/int/status/neicweb.txt 
+# It will tell you if you did good or if you messed up, and if you did, what (hopefully).
 
 host:
     name: Gudmund Høst
@@ -48,6 +50,7 @@ host:
     image: /about/team/gudmund.jpg
     phone: "M: +47 95 81 68 46"
     groups:
+        - staff
         - xt
     
 roblitz:
@@ -59,8 +62,8 @@ roblitz:
     email: thomas.roblitz@usit.uio.no
     phone: "M: +47 4141 0799"
     groups:
+        - staff
         - xt
-        - env
 
 wadenstein:
     name: Mattias Wadenstein
@@ -71,20 +74,21 @@ wadenstein:
     email: maswan@ndgf.org
     phone: "M: +46 70 79 69 46 2"
     groups: 
-        - xt
+        - staff
         - nt1
+        - xt
 
 barth:
     name: Michaela Barth
-    role: GEN Coordinator (parental leave)
+    role: GEN Coordinator
     home: PDC
     country: SE
     image: /about/team/caela.jpg
     email: caela@kth.se
     phone: "P: +46 87 90 78 91"
     groups:
+        - staff
         - xt
-        - gen
 
 vitlacil:
     name: Dejan Vitlacil
@@ -95,8 +99,8 @@ vitlacil:
     email: vitlacil@kth.se
     phone: "M: +46 76 064 18 45"
     groups:
+        - staff
         - xt
-        - gen
 
 hedlund:
     name: Joel Hedlund
@@ -107,8 +111,9 @@ hedlund:
     email: joel@nsc.liu.se
     phone: "M: +46 734 607126"
     groups:
+        - staff
+        - tryggve-sg
         - xt
-        - bms
 
 pettersen:
     name: Pål Pettersen
@@ -119,6 +124,17 @@ pettersen:
     email: paal.pettersen@nordforsk.org
     phone: "M: +47 415 10 974"
     groups:
+        - staff
+        - xt
+
+pennington:
+    name: Rob Pennington
+    role: Special advisor
+    home: NeIC
+    country: US
+    email: rlpennington1@gmail.com
+    groups:
+        - staff
         - xt
 
 behrmann:
@@ -129,6 +145,7 @@ behrmann:
     email: behrmann@ndgf.org
     phone: "M: +45 31 62 14 05"
     groups:
+        - staff
         - nt1
 
 pursula:
@@ -140,7 +157,7 @@ pursula:
     email: antti.pursula@csc.fi
     phone: "M: +358 50 3819537"
     groups:
-        - bms
+        - staff
         - tryggve
 
 jonsson:
@@ -152,7 +169,7 @@ jonsson:
     email: magnus@hpc2n.umu.se
     phone: "M: +46 767 660 735"
     groups:
-        - gen
+        - staff
     
 karpenko:
     name: Dmytro Karpenko
@@ -163,6 +180,7 @@ karpenko:
     email: dmytro.karpenko@usit.uio.no
     phone: "M: +47 9577 6417"
     groups: 
+        - staff
         - nt1
 
 urkedal:
@@ -174,6 +192,7 @@ urkedal:
     email: urkedal@nbi.dk
     phone: "M: +45 35 32 53 61"
     groups: 
+        - staff
         - nt1
 
 larsson:
@@ -185,6 +204,7 @@ larsson:
     email: jens@ndgf.org
     mobile: "P: +46 13 28 14 32"
     groups:
+        - staff
         - nt1
 
 tigerstedt:
@@ -196,6 +216,7 @@ tigerstedt:
     email: ulf.tigerstedt@csc.fi
     phone: "M: +358 50 381 8558"
     groups:
+        - staff
         - nt1
 
 nilsen:
@@ -207,6 +228,7 @@ nilsen:
     email: j.k.nilsen@usit.uio.no
     phone: "M: +47 40203659"
     groups:
+        - staff
         - nt1
 
 white:
@@ -217,7 +239,7 @@ white:
     image: /about/team/john.jpeg
     email: john.white@cern.ch
     groups:
-        - env
+        - staff
         
 edelmann:
     name: Erik Edelmann
@@ -228,6 +250,7 @@ edelmann:
     email: erik.edelmann@csc.fi
     phone: "M: +358 50 381 9055"
     groups:
+        - staff
         - nt1
 
 smirnova:
@@ -239,6 +262,7 @@ smirnova:
     email: oxana.smirnova@hep.lu.se
     phone: "M: +46 709 22 46 57"
     groups:
+        - staff
         - nt1
 
 li:
@@ -250,7 +274,7 @@ li:
     email: xiaxi.li@ii.uib.no
     phone: "P: +47 55584097"
     groups:
-        - bms
+        - staff
         - tryggve
 
 freyhult:
@@ -260,7 +284,7 @@ freyhult:
     country: SE
     email: pontus.freyhult@it.uu.se
     groups:
-        - bms
+        - staff
         - tryggve
     
 
@@ -272,7 +296,7 @@ hagberg:
     email: jonas.hagberg@bils.se
     phone: "M: +46 706683869"
     groups:
-        - bms
+        - staff
         - tryggve
 
 viklund:
@@ -282,7 +306,7 @@ viklund:
     country: SE
     email: johan.viklund@bils.se
     groups:
-        - bms
+        - staff
         - tryggve
 
 lampa:
@@ -293,7 +317,7 @@ lampa:
     email: samuel.lampa@bils.se
     phone: "M: +46 70 207 3732"
     groups:
-        - bms
+        - staff
         - tryggve
  
 syed:
@@ -305,7 +329,7 @@ syed:
     email: alisyed@cbs.dtu.dk
     phone: "M: +45 60 90 46 46"
     groups:
-        - bms
+        - staff
         - tryggve
 
 leinonen:
@@ -315,7 +339,7 @@ leinonen:
     country: FI
     email: jaakko.leinonen@csc.fi
     groups:
-        - bms
+        - staff
         - tryggve
 
 singh:
@@ -327,7 +351,7 @@ singh:
     email: karan.singh@csc.fi
     phone: "W: +358 503812758"
     groups:
-        - bms
+        - staff
         - tryggve
 
 azab:
@@ -337,7 +361,7 @@ azab:
     country: "NO"
     email: azab@ifi.uio.no
     groups:
-        - bms
+        - staff
         - tryggve
 
 iozzi:
@@ -348,7 +372,7 @@ iozzi:
     image: /about/team/francesca.jpeg
     email: m.f.iozzi@usit.uio.no
     groups:
-        - bms
+        - staff
         - tryggve
     
 hochheim:
@@ -360,15 +384,52 @@ hochheim:
     email: erhh@cbs.dtu.dk
     phone: "M: +45 40952482"
     groups:
-        - bms
+        - staff
         - tryggve
 
-chmura:
-    name: Piotr Chmura
-    role: Tryggve staff
+pennington:
+    name: Rob Pennington
+    role: Special advisor
+    home: NeIC
+    country: US
+    email: rlpennington1@gmail.com
+    groups:
+        - staff
+        - xt
+    
+longreen:
+    name: Peter Løngreen
+    role: Assisting head of ELIXIR DK
     home: CBS
     country: DK
-    email: pjchmura@cbs.dtu.dk
+    email:  peterl@cbs.dtu.dk
     groups:
-        - bms
-        - tryggve
+        - tryggve-sg
+
+nyronen:
+    name: Tommi Nyrönen
+    role: Head of ELIXIR FI
+    home: CSC
+    country: FI
+    email: tommi.nyronen@csc.fi
+    groups:
+        - tryggve-sg
+
+jonassen:
+    name: Inge Jonassen
+    role: Head of ELIXIR NO
+    home: UiB
+    country: "NO"
+    email: Inge.Jonassen@ii.uib.no
+    groups:
+        - tryggve-sg
+
+persson:
+    name: Bengt Persson
+    role: Head of ELIXIR SE
+    home: NBIS
+    country: SE
+    email: bengt.persson@bils.se
+    groups:
+        - tryggve-sg
+        

@@ -1,7 +1,7 @@
 module Jekyll
 
   class GroupPage < Page
-    def initialize(site, base, dir, title, menu, id)
+    def initialize(site, base, dir, title, heading, menu, id)
       @site = site
       @base = base
       @dir = dir
@@ -10,6 +10,7 @@ module Jekyll
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'group.html')
       self.data['title'] = title
+      self.data['heading'] = heading
       self.data['menu'] = menu
       self.data['id'] = id
     end
@@ -44,9 +45,10 @@ module Jekyll
         site.data['people'].each_value do |person|
           (person['groups'] || []).each do |group_id|
             next if existing.include? group_id
-            title = site.data['groups'][group_id]['name'] || group_id
+            title = site.data['groups'][group_id]['title'] || group_id
+            heading = site.data['groups'][group_id]['heading'] || title
             menu = site.data['groups'][group_id]['menu'] || 100
-            site.pages << GroupPage.new(site, site.source, File.join(dir, group_id), title, menu, group_id)
+            site.pages << GroupPage.new(site, site.source, File.join(dir, group_id), title, heading, menu, group_id)
             site.pages << JsonGroupPage.new(site, site.source, File.join(api_dir, group_id), group_id)
             existing << group_id
           end

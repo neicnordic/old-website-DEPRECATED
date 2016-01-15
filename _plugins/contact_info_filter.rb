@@ -7,8 +7,10 @@ module Jekyll
         next if not group_id == 'all' and not person.fetch('groups', []).include? group_id
         p = person.clone
         p['groups'] = p['groups'].map { |gid|
+          title = site['data']['groups'][gid]['title'] || gid
           { 'id' => gid,
-            'name' => site['data']['groups'][gid]['name'] || gid,
+            'title' => title,
+            'heading' => site['data']['groups'][gid]['heading'] || title,
             'url' => File.join(site['baseurl'], dir, gid)}
         }
         group[person_id] = p

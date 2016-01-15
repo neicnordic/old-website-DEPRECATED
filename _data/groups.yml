@@ -1,25 +1,38 @@
+staff:
+    title: Staff
+    menu: 10
+    
 e3ds:
-    name: E3DS
+    title: E3DS
 
 glenna:
-    name: Glenna
+    title: Glenna
 
 nt1:
-    name: NT1
+    title: NT1
     
 tryggve:
-    name: Tryggve
+    title: Tryggve
+
+tryggve-rg:
+    title: Tryggve RG
+    heading: Tryggve reference group
+
+tryggve-sg:
+    title: Tryggve SG
+    heading: Tryggve steering group
 
 bms:
-    name: BMS
+    title: BMS
 
 env:
-    name: ENV
+    title: ENV
 
 gen:
-    name: GEN
+    title: GEN
 
 xt:
-    name: XT
+    title: XT
+    heading: NeIC executive team
     
     

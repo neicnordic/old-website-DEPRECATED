@@ -14,13 +14,14 @@
 <tbody>
 {% for p in people %}
     {% assign person=p[1] %}
+    {% assign staff=person.groups|find_first:'id','staff' %}
     <tr>
-    <td><a href="/about/team#{{ p[0] }}">{{ person.name }}</a></td>
+    <td>{% if staff %}<a href="/about/team#{{ p[0] }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</td>
     <td>{{ person.role }}</td>
     <td><a href="mailto:{{ person.email }}">{{ person.email }}</a></td>
     <td>{{ person.home }}</td>
     <td>{{ person.country }}</td>
-    <td>{% for g in person.groups %}{% if forloop.index > 1 %}, {% endif %}<a href="{{ g.url }}">{{ g.name }}</a>{% endfor %}</td>
+    <td>{% for g in person.groups %}{% if forloop.index > 1 %}, {% endif %}<a href="{{ g.url }}">{{ g.title }}</a>{% endfor %}</td>
     <td>{{ person.phone }}</td>
     </tr>
 {% endfor %}
