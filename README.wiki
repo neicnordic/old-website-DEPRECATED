@@ -1,7 +1,7 @@
 ---
 title: README
 ---
-== Crash course: How to make a news article in the new NeIC web ==
+== Crash course ==
 
 Keep in mind:
 * The production website is mostly purple and is called neicweb on GitHub. 
@@ -11,6 +11,8 @@ Keep in mind:
 ** and is called neicweb-devel on GitHub. 
 
 Keep an eye out for the signs, and post to the right place!
+
+=== How to make a news article ===
 
 Howto:
 # Upload picures and other media files.
@@ -41,6 +43,19 @@ Howto:
 If you want to move something you did on the development system onto the production website:
 # Go through the steps above again, but for the production system. Paste the news article that you just wrote.
 # Done.
+
+=== Delete a news article using the GitHub desktop application ===
+Note: This process can be used to delete anything.
+
+# Install https://desktop.github.com/.
+# Clone this repository (https://github.com/neicnordic/neicweb).
+# Click the "Sync" button, top right.
+# Right click the repository name ("neicweb") in the left hand side pane, and chose "Open in Explorer".
+# Find all the files that you want to delete, and delete them. News articles are in the "/_posts/" folder, pictures and pdfs are likely in the "/media/" folder.
+# Click the button named "Changes" in the GitHub desktop application (top, middle). See that there are no surprises.
+# Fill out a commit "Summary" explaining what you did, on the form "Delete XX news article and media.".
+# Click the "Sync" button top right again.
+# Done!
 
 == A technical summary ==
 
