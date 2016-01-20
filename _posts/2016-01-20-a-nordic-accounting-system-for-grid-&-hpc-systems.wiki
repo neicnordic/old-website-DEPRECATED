@@ -1,3 +1,10 @@
+---
+title: A Nordic accounting system for Grid & HPC systems
+summary: "The NeIC project SGAS is an accounting system for Grid and HPC systems that began as part of the Swedish Grid project SweGrid. The project was completed 30 September 2015"
+image: /media/beskow-front-row-no-floor-from-right.png
+
+
+
 = A Nordic accounting system for Grid & HPC systems =
 
 '''The NeIC project SGAS is an accounting system for Grid and HPC systems that began as part of the Swedish Grid project SweGrid. The project was completed 30 September 2015'''
