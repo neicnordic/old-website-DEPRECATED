@@ -303,7 +303,7 @@ li:
 freyhult:
     name: Pontus Freyhult
     role: Tryggve staff
-    home: BILS
+    home: NBIS
     country: SE
     email: pontus.freyhult@it.uu.se
     groups:
@@ -314,7 +314,7 @@ freyhult:
 hagberg:
     name: Jonas Hagberg
     role: Tryggve staff
-    home: BILS
+    home: NBIS
     country: SE
     email: jonas.hagberg@bils.se
     phone: "M: +46 706683869"
@@ -325,7 +325,7 @@ hagberg:
 viklund:
     name: Johan Viklund
     role: Tryggve staff
-    home: BILS
+    home: NBIS
     country: SE
     email: johan.viklund@bils.se
     groups:
@@ -335,7 +335,7 @@ viklund:
 lampa:
     name: Samuel Lampa
     role: Tryggve staff
-    home: BILS
+    home: NBIS
     country: SE
     email: samuel.lampa@bils.se
     phone: "M: +46 70 207 3732"
