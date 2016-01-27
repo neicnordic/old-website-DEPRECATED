@@ -170,6 +170,7 @@ still:
     phone: "M: +358 50 3819037"
     groups:
         - staff
+        - glenna
 
 bast:
     name: Radovan Bast
@@ -455,3 +456,23 @@ persson:
     groups:
         - tryggve-sg
         
+singh:
+    name: Gurvinder Singh
+    home: UNINETT
+    country: "NO"
+    email: gurvinder.singh@uninett.no
+    role: Glenna Staff
+    groups:
+        - staff
+        - glenna
+
+huluka:
+    name: Daniel Huluka
+    home: UiB
+    country: "NO"
+    email: daniel.huluka@uib.no
+    role: Glenna Staff
+    groups:
+        - staff
+        - glenna
+
