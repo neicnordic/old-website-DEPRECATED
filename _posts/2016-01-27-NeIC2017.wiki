@@ -1,0 +1,18 @@
+---
+title: Dates announced for the NeIC 2017 Conference
+summary: "Save the date: The next NeIC conference will be held in Umeå on 29 May – 1 June 2017."
+image: /media/beskow-front-row-no-floor-from-right.png
+---
+
+
+= Dates announced for the NeIC 2017 Conference =
+
+'''Save the date: The next NeIC conference will be held in Umeå on 29 May – 1 June 2017.'''
+
+<a href="https://neic.nordforsk.org/media/neic2017-800x600new.jpg">
+<img class="smallpic" src="https://neic.nordforsk.org/media/neic2017-800x600new-mini.jpg">
+</a>
+
+Twice before, in May 2013 in Trondheim and May 2015 in Espoo, NeIC has hosted a big bi-annual conference to gather the Nordic e-infrastructure community to discuss and prepare for the future. Next time, in 2017, the four-day event will take place in Umeå, 29 May – 1 June 2017.
+
+This time, NeIC 2017 will be hosted by NeIC and SNIC, and organized as a collaboration between CSC, DeIC, NeIC, NORDUnet, RHnet, SNIC and UNINETT Sigma2.
