@@ -22,6 +22,18 @@ tryggve-sg:
     title: Tryggve SG
     heading: Tryggve steering group
 
+glenna:
+    title: Glenna
+
+glenna-rg:
+    title: Glenna RG
+    heading: Glenna reference group
+
+glenna-sg:
+    title: Glenna SG
+    heading: Glenna steering group
+
+
 bms:
     title: BMS
 
