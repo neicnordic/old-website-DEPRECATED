@@ -59,6 +59,10 @@ Behrmann holds a Ph.D. in Computer Science. His previous employments include ass
 
 Antti Pursula is located at CSC - IT Center for Science Ltd in Finland and holds a 60% position at NeIC. He is the project manager of the NeIC's Tryggve project on sensitive data for the bio- and medical sciences.  He is also a project director of research infrastructures at CSC coordinating CSC’s participation in various research infrastructure projects. He has broad experience from different roles ranging from software development and customer interaction to project management and leading a service area.
 
+{% include person.wiki id="still" %}
+
+Dan Still is located at CSC - IT Center for Science Ltd in Finland and holds a 80% position at NeIC. He is the project manager of the NeIC's Glenna project on cloud services.  He is also a industrial relations maganer at CSC coordinating CSC’s engagements with partners in industry. 
+
 {% include person.wiki id="bast" %}
 
 Radovan Bast is employed in Tromsø (Norway) as a senior engineer in the High Performance Computing Group at UiT The Arctic University of Norway and contributes to advanced user and application support, code optimization and parallelization, and holds a 50 % position at NeIC. He has a PhD in theoretical chemistry and as code developer is contributing to a number of quantum chemistry programs. He enjoys learning new programming languages and approaches, and to teach programming to scientists.
