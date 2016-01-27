@@ -160,6 +160,17 @@ pursula:
         - staff
         - tryggve
 
+still:
+    name: Dan Still
+    home: CSC
+    country: "FI"
+    email: dan.still@csc.fi
+    role: Glenna Project Manager
+    image: /media/dan-street-mini.jpg
+    phone: "M: +358 50 3819037"
+    groups:
+        - staff
+
 bast:
     name: Radovan Bast
     home: UiT
