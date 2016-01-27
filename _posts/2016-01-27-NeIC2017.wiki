@@ -1,7 +1,7 @@
 ---
 title: Dates announced for the NeIC 2017 Conference
 summary: "Save the date: The next NeIC conference will be held in Umeå on 29 May – 1 June 2017."
-image: /media/beskow-front-row-no-floor-from-right.png
+image: /media/neic2017-800x600new.jpg
 ---
 
 
