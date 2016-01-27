@@ -15,7 +15,7 @@ Keep an eye out for the signs, and post to the right place!
 === How to make a news article ===
 
 Howto:
-# Upload picures and other media files.
+# Upload picures and other media files. Please try to make your pictures "widescreen", or roughly 3:2, or 16:9.
 #* [https://neic.nordforsk.org/int/upload/neicweb/ Upload to production webserver]
 #* [https://neic.nordforsk.org/int/upload/neicweb-devel/ Upload to development system]
 # Follow instructions onscreen. Click "Go live with this" button when done.
