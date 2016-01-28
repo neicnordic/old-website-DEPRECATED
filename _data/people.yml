@@ -313,10 +313,10 @@ freyhult:
 
 hagberg:
     name: Jonas Hagberg
-    role: Tryggve staff
+    role: Manager of system Development team
     home: NBIS
     country: SE
-    email: jonas.hagberg@bils.se
+    email: jonas.hagberg@scilifelab.se
     phone: "M: +46 706683869"
     groups:
         - staff
