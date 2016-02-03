@@ -463,7 +463,6 @@ gsingh:
     email: gurvinder.singh@uninett.no
     role: Glenna Staff
     groups:
-        - staff
         - glenna
 
 huluka:
@@ -473,6 +472,5 @@ huluka:
     email: daniel.huluka@uib.no
     role: Glenna Staff
     groups:
-        - staff
         - glenna
 
