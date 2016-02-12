@@ -22,3 +22,5 @@ The core functions of SGAS today are very reliable and efficient, with only mino
 Five releases of the SGAS suite were launched and four workshops on accounting were held during the project period.
 
 To ensure that SGAS remains a software that can be used within the respective Nordic sites and others, it is essential to continue refining and developing the stable framework on which it is based.
+
+The picture shows Beskow - the Cray XC40 supercomputer at the PDC Center for High Performance Computing.
