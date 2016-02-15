@@ -29,5 +29,5 @@ opportunities for Nordic collaboration and enhanced international competitivenes
 * Develop new services for Nordic research communities within the Bio- and Medical Sciences.
 * Ensure that The Nordic Tier-1 service is run cost-efficiently and as an example of excellence to other service providers within WLCG.
 
-See also [[/media/13-32-05-NeIC-Strategy-131008.pdf|NeIC's 2013 strategy document]].
+See also [https://wiki.neic.no/wiki/NeIC_Strategy_2016-2020 NeIC 2016-2020 strategy].
 
