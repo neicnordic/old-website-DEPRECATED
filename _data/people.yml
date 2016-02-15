@@ -431,10 +431,19 @@ longreen:
 
 nyronen:
     name: Tommi Nyrönen
-    role: Head of ELIXIR FI
+    role: Head of ELIXIR FI (on leave)
     home: CSC
     country: FI
     email: tommi.nyronen@csc.fi
+    groups:
+        - tryggve-sg
+
+lappalainen:
+    name: Ilkka Lappalainen
+    role: Head of ELIXIR FI (ad interim)
+    home: CSC
+    country: FI
+    email: ilkka.lappalainen@csc.fi
     groups:
         - tryggve-sg
 
