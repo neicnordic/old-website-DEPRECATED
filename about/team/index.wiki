@@ -162,7 +162,4 @@ Maria Francesca Iozzi, PhD in Computational Chemistry. I am group leader of the 
 
 25 years experience in R&D High Performance Computing, computing operations, system administration and consulting at global enterprises such as Ericsson, Cap Gemini, Nokia and Renesas Mobile Corporation.
 Currently at Technical University of Denmark, Department of Systems Biology, Center for Biological Sequence Analysis, as Systems Administrator on the National Life Sciences Supercomputer (aka. Computerome).
-
-{% include person.wiki id="chmura" %}
-
-Piotr works mainly for software provisioning tasks in Tryggve project. He is located at Center for Biological Sequency Analysis at DTU.
+ mainly for software provisioning tasks in Tryggve project. He is located at Center for Biological Sequency Analysis at DTU.
