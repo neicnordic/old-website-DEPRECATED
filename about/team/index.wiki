@@ -123,6 +123,11 @@ His current focus is working with solutions for large scale storage to provide s
 
 After Jonas received his MSc in bioinformatics at Uppsala University, he worked as a research assistent at the Department of Evolutionary Biology and Molecular Evolution at the University. Between 2007 and 2011 Jonas held a position as a system expert at [http://www.uppmax.uu.se/ UPPMAX] super computing centre, with focus on large scale storage, bioinformatics and NGS. He was the project manager at the start up of UPPNEX. Jonas developed the first iRODS system at UPPNEX and is also the developer of the [https://portal.scilifelab.se/genomics/ portal for the National Genomics Infrastructure] and for the development of Swedish sensitive data platform Mosler.
 
+{% include person.wiki id="jareborg" %}
+
+Niclas Jareborg is located at SciLifeLab in Stockholm, Sweden where he is the Data Manager at the National Bioinformatics Infrastructure Sweden - NBIS. He is the system owner representative of the Mosler secure computing system for research using sensitive data, and a member of the Tryggve project. 
+Niclas has a PhD in Microbiology from Uppsala University, and over the years he has worked with bio/informatics, line management, Lean, and Agile in both academia and industry.
+
 {% include person.wiki id="viklund" %}
 
 Johan Viklund earned his PhD in Evolutionary Biology at Uppsala University. His thesis focused on phylogenomics of oceanic bacteria and mitochondria.
