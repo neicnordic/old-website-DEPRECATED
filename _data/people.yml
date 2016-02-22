@@ -322,6 +322,16 @@ hagberg:
         - staff
         - tryggve
 
+jareborg:
+    name: Niclas Jareborg
+    role: Tryggve staff
+    home: NBIS
+    country: SE
+    email: niclas.jareborg@bils.se
+    groups:
+        - staff
+        - tryggve
+
 viklund:
     name: Johan Viklund
     role: Tryggve staff
