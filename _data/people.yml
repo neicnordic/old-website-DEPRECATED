@@ -537,3 +537,21 @@ sveinbjornsson:
     role: Glenna Staff
     groups:
         - glenna 
+
+gislason:
+    name: Magnús Gíslason
+    home: University of Iceland 
+    country: "IS"
+    email: magnus@hi.is
+    role: Glenna Staff
+    groups:
+        - glenna 
+        
+markus:
+    name: Diba Markus
+    home: DeIC
+    country: "DK"
+    email: dtma@dtu.dk
+    role: Glenna Staff
+    groups:
+        - glenna 
