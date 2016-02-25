@@ -493,11 +493,20 @@ huluka:
     groups:
         - glenna
 
-huluka:
+dragseth:
     name: Roy Dragseth 
     home: UiT
     country: "NO"
     email: Roy.Dragseth@uit.no
+    role: Glenna Staff
+    groups:
+        - glenna
+
+grawert:
+    name: Uwe Grawert 
+    home: CSC
+    country: "FI"
+    email: uwe.grawert@csc.fi 
     role: Glenna Staff
     groups:
         - glenna
