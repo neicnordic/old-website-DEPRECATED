@@ -493,3 +493,11 @@ huluka:
     groups:
         - glenna
 
+huluka:
+    name: Roy Dragseth 
+    home: UiT
+    country: "NO"
+    email: Roy.Dragseth@uit.no
+    role: Glenna Staff
+    groups:
+        - glenna
