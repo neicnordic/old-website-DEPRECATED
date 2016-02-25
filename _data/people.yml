@@ -571,9 +571,10 @@ hellander:
     home: Uppsala University
     country: "SE"
     email: andreas.hellander@it.uu.se
-    role: Glenna Staff
+    role: Professor
     groups:
         - glenna 
+        - glenna-sg
         
 toor:
     name: Salman Toor
