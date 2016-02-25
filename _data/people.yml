@@ -510,3 +510,30 @@ grawert:
     role: Glenna Staff
     groups:
         - glenna
+
+laurikainen:
+    name: Risto Laurikainen  
+    home: CSC
+    country: "FI"
+    email: risto.laurikainen@csc.fi 
+    role: Glenna Staff
+    groups:
+        - glenna
+        
+tourunen:
+    name: Olli Tourunen  
+    home: CSC
+    country: "FI"
+    email: olli.tourunen@csc.fi 
+    role: Glenna Staff
+    groups:
+        - glenna 
+        
+sveinbjörnsson :
+    name: Hjörleifur Sveinbjörnsson 
+    home: University of Iceland 
+    country: "IS"
+    email: hs@hi.is
+    role: Glenna Staff
+    groups:
+        - glenna 
