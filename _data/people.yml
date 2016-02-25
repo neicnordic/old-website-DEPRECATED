@@ -581,6 +581,16 @@ toor:
     email: salman.toor@it.uu.se
     role: Glenna Staff
     groups:
-        - glenna 
+        - glenna
         
+fallman:
+    name: Ingemar Fällman
+    home: Umeå University
+    country: "SE"
+    email: ingemar.fallman@umu.se 
+    role: Glenna Staff
+    groups:
+        - glenna
+        
+
 
