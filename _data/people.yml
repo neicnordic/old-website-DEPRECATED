@@ -555,3 +555,32 @@ markus:
     role: Glenna Staff
     groups:
         - glenna 
+
+christensen:
+    name: Lars Næsbye Christensen
+    home: DeIC
+    country: "DK"
+    email: lanac@dtu.dk
+    role: Glenna Staff
+    groups:
+        - glenna 
+        
+hellander:
+    name: Andreas Hellander
+    home: Uppsala University
+    country: "SE"
+    email: andreas.hellander@it.uu.se
+    role: Glenna Staff
+    groups:
+        - glenna 
+        
+toor:
+    name: Salman Toor
+    home: Uppsala University
+    country: "SE"
+    email: salman.toor@it.uu.se
+    role: Glenna Staff
+    groups:
+        - glenna 
+        
+
