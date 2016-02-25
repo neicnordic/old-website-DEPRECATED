@@ -89,6 +89,7 @@ barth:
     groups:
         - staff
         - xt
+        - glenna-sg 
 
 vitlacil:
     name: Dejan Vitlacil
