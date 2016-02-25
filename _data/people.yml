@@ -601,3 +601,20 @@ eide:
     role: Dep.head USIT
     groups:
         - glenna-sg
+bech:
+    name: Martin Bech
+    home: DeIC
+    country: "DK"
+    email: martin.bech@deic.dk
+    role: Head of NREN DeIC
+    groups:
+        - glenna-sg
+        
+jonsson:
+    name: Sæþór L. Jónsson
+    home: University of Iceland
+    country: "IS"
+    email: slj@hi.is
+    role: Director, Computing Services
+    groups:
+        - glenna-sg
