@@ -571,9 +571,8 @@ hellander:
     home: Uppsala University
     country: "SE"
     email: andreas.hellander@it.uu.se
-    role: Professor
+    role: Assist. professor
     groups:
-        - glenna 
         - glenna-sg
         
 toor:
@@ -619,3 +618,14 @@ jonsson:
     role: Director, Computing Services
     groups:
         - glenna-sg
+        
+tarus:
+    name: Jura Tarus
+    home: CSC
+    country: "FI"
+    email: jura.tarus@csc.fi
+    role: Development manager
+    groups:
+        - glenna-sg
+        
+
