@@ -23,4 +23,8 @@ Ebba Þóra Hvannberg, Professor, University of Iceland, Iceland, [mailto:ebba@h
 
 Steen Pedersen, Director, DeIC, Denmark, [mailto:sp@adm.dtu.dk sp@adm.dtu.dk]. Board Member since 01.01.2012
 
-[[/media/15-16-01-NeIC_Governance-mandate.pdf|Governance and Mandate for the Nordic e-Infrastructure Collaboration (NeIC) Board]]
+== Documents ==
+* [https://wiki.neic.no/wiki/Category:Board_meeting_minutes Board meeting minutes]
+* [https://wiki.neic.no/wiki/NeIC_governance_mandate NeIC Governance and Mandate for the Nordic e-Infrastructure Collaboration (NeIC) Board]
+* [https://wiki.neic.no/wiki/Rules_of_procedure_for_the_board_and_the_director NeIC board rules of procedure]
+* [https://wiki.neic.no/wiki/Board_member_code_of_conduct Board member code of conduct]
