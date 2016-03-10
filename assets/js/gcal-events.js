@@ -35,6 +35,7 @@ $.getJSON(url , function( data ) {
     var ret = "";
     var description = event.description || "";
     var date = (event.start.date || event.start.dateTime).split('T')[0];
+    var enddate = (event.end.date || event.end.dateTime).split('T')[0];
     var blurb = description.split('\n')[0].replace(urlregex, repl);
     // details
     var details = "";
@@ -74,7 +75,11 @@ $.getJSON(url , function( data ) {
     } else {
       ret = ret + summary;
     }
-    ret = ret  + '</b></dt><dd>' + date + '<br/>';
+    if (enddate == date) {
+      ret = ret  + '</b></dt><dd>' + date + '<br/>';
+    } else {
+      ret = ret  + '</b></dt><dd>' + date + ' &ndash; ' + enddate + '<br/>';
+    }
     if (blurb) {
       ret = ret + blurb + '<br/>';
     }
