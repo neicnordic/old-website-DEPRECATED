@@ -36,6 +36,13 @@ $.getJSON(url , function( data ) {
     var description = event.description || "";
     var date = (event.start.date || event.start.dateTime).split('T')[0];
     var enddate = (event.end.date || event.end.dateTime).split('T')[0];
+    var d = new Date(enddate);
+    d.setDate(d.getDate() - 1);
+    if (d <= Date(date)) {
+      enddate = date;
+    } else {
+      enddate = d.toISOString().split('T')[0];
+    }
     var blurb = description.split('\n')[0].replace(urlregex, repl);
     // details
     var details = "";
