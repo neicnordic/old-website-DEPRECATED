@@ -638,4 +638,31 @@ thomassen:
     groups:
         - tryggve-rg
         
+sundstrom:
+    name: Karin Sundström
+    home: KI
+    country: "SE"
+    email: karin.sundstrom@ki.se
+    role: NIASC Research coordinator
+    groups:
+        - tryggve-rg
+        
+bzhalava:
+    name: Davit Bzhalava
+    home: KI
+    country: "SE"
+    email: davit.bzhalava@ki.se
+    role: NIASC IT working group lead
+    groups:
+        - tryggve-rg
+        
+wilkowski:
+    name: Bartlomiej Wilkowski
+    home: SSI
+    country: "DK"
+    email: baw@ssi.dk
+    role: Head of Danish biobank register
+    groups:
+        - tryggve-rg
+        
 
