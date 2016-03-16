@@ -452,7 +452,7 @@ nyronen:
 
 lappalainen:
     name: Ilkka Lappalainen
-    role: Head of ELIXIR FI (ad interim)
+    role: Senior manager at ELIXIR FI (ad interim)
     home: CSC
     country: FI
     email: ilkka.lappalainen@csc.fi
@@ -628,5 +628,14 @@ tarus:
     role: Development manager
     groups:
         - glenna-sg
+        
+thomassen:
+    name: Gard Thomassen
+    home: USIT
+    country: "NO"
+    email: g.o.s.thomassen@usit.uio.no
+    role: Director at USIT, UiO
+    groups:
+        - tryggve-rg
         
 
