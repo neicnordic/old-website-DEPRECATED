@@ -160,6 +160,7 @@ pursula:
     groups:
         - staff
         - tryggve
+        - tryggve-rg
 
 still:
     name: Dan Still
