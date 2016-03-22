@@ -511,6 +511,7 @@ grawert:
     email: uwe.grawert@csc.fi 
     role: Glenna Staff
     groups:
+        - staff
         - glenna
 
 laurikainen:
@@ -520,6 +521,7 @@ laurikainen:
     email: risto.laurikainen@csc.fi 
     role: Glenna Staff
     groups:
+        - staff
         - glenna
         
 tourunen:
@@ -529,6 +531,7 @@ tourunen:
     email: olli.tourunen@csc.fi 
     role: Glenna Staff
     groups:
+        - staff
         - glenna 
         
 sveinbjornsson:
@@ -538,6 +541,7 @@ sveinbjornsson:
     email: hs@hi.is
     role: Glenna Staff
     groups:
+        - staff
         - glenna 
 
 gislason:
@@ -547,6 +551,7 @@ gislason:
     email: magnus@hi.is
     role: Glenna Staff
     groups:
+        - staff
         - glenna 
         
 markus:
@@ -556,6 +561,7 @@ markus:
     email: dtma@dtu.dk
     role: Glenna Staff
     groups:
+        - staff
         - glenna 
 
 christensen:
@@ -565,6 +571,7 @@ christensen:
     email: lars.christensen@deic.dk
     role: Glenna Staff
     groups:
+        - staff
         - glenna 
         
 hellander:
