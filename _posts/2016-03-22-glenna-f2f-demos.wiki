@@ -17,4 +17,4 @@ Project personell within the Glenna project came together to demonstrate the clo
 
 A workshop is in the planning to present the services to a broader audience in the future.
 
-(Picture in full resolution available <a href=https://data.deic.dk/shared/19f409bbb6de9ebbbff15b6ca7a3fcb3">from within the DeIC data cloud</a>.)
+(Picture in full resolution available <a href="https://data.deic.dk/shared/19f409bbb6de9ebbbff15b6ca7a3fcb3">from within the DeIC data cloud</a>.)
