@@ -7,7 +7,7 @@ image: /media/20160315_800x600.jpg
 
 = This year's Glenna F2F meeting was held in Kastrup on March 15th =
 
-'''At this year's Glenna F2F meeting the first available Cloud services were discussed and tested within the project group'''
+'''At this year's Glenna F2F meeting, the first available Cloud services were discussed and tested within the project group'''
 
 <a href="https://neic.nordforsk.org/media/20160315_800x600.jpg">
 <img class="smallpic" src="https://neic.nordforsk.org/media/20160315_200x133.jpg">
