@@ -641,7 +641,7 @@ thomassen:
     home: USIT
     country: "NO"
     email: g.o.s.thomassen@usit.uio.no
-    role: Director at USIT, UiO
+    role: Director at USIT, UiO (represents Sigma2)
     groups:
         - tryggve-rg
         
@@ -681,4 +681,65 @@ bjerner:
     groups:
         - tryggve-rg
 
+hovig:
+    name: Eivind Hovig
+    home: UiO
+    country: "NO"
+    email: ehovig@ifi.uio.no
+    role: Genomics, Cancer research
+    groups:
+        - tryggve-rg
 
+kankainen:
+    name: Matti Kankainen
+    home: FIMM
+    country: "FI"
+    email: matti.kankainen@helsinki.fi
+    role: Sequencing infrastructure
+    groups:
+        - tryggve-rg
+
+due:
+    name: Jeppe Klok Due
+    home: KOR
+    country: "DK"
+    email: jkd@sa.dk
+    role: Register-based research (represents DeIC)
+    groups:
+        - tryggve-rg
+
+mattila:
+    name: Kimmo Mattila
+    home: CSC
+    country: "FI"
+    email: kimmo.mattila@csc.fi
+    role: CSC, bioinformatics support
+    groups:
+        - tryggve-rg
+
+sonnhammer:
+    name: Ann-Charlotte Sonnhammer
+    home: SNIC
+    country: "SE"
+    email: ann-charlotte.sonnhammer@it.uu.se
+    role: SNIC Technical coordinator
+    groups:
+        - tryggve-rg
+
+nilsson:
+    name: Maria Nilsson
+    home: NordForsk
+    country: 
+    email: maria.nilsson@nordforsk.org
+    role: Senior adviser
+    groups:
+        - tryggve-rg
+
+salokannel:
+    name: Marjut Salokannel
+    home: 
+    country: "FI"
+    email: marjut.salokannel@helsinki.fi
+    role: Independent legal counsel
+    groups:
+        - tryggve-rg
