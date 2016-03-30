@@ -672,4 +672,13 @@ wilkowski:
     groups:
         - tryggve-rg
         
+bjerner:
+    name: Tomas Bjerner
+    home: UU
+    country: "SE"
+    email: tomas.bjerner@radiol.uu.se
+    role: Representing Nordic Euro-Bioimaging
+    groups:
+        - tryggve-rg
+
 
