@@ -33,6 +33,17 @@ glenna-sg:
     title: Glenna SG
     heading: Glenna steering group
 
+coderefinery:
+    title: Coderefinery
+
+coderefinery-rg:
+    title: Coderefinery RG
+    heading: Coderefinery reference group
+
+coderefinery-sg:
+    title: Coderefinery SG
+    heading: Coderefinery steering group
+
 dellingr-pg:
     title: Dellingr PG
     heading: Dellingr planning group
