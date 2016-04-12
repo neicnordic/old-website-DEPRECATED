@@ -748,3 +748,30 @@ salokannel:
     role: Independent legal counsel
     groups:
         - tryggve-rg
+
+apostolov:
+    name: Rossen Apostolov
+    home: PDC 
+    country: "SE"
+    email: rossen@kth.se
+    role: project manager of BioExcel CoE
+    groups:
+        - coderefinery-sg
+
+andersen:
+    name: Lene Krøl Andersen
+    home: DeIC 
+    country: "DK"
+    email: lene.krol.andersen@deic.dk
+    role: DeIC eScience Competence Center
+    groups:
+        - coderefinery-sg
+
+louhivuori:
+    name: Martti Louhivuori
+    home: CSC 
+    country: "FI"
+    email: martti.louhivuori@csc.fi
+    role: CSC Training Manager
+    groups:
+        - coderefinery-sg
