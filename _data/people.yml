@@ -89,7 +89,8 @@ barth:
     groups:
         - staff
         - xt
-        - glenna-sg 
+        - glenna-sg
+        - coderefinery-sg
 
 vitlacil:
     name: Dejan Vitlacil
@@ -148,6 +149,7 @@ behrmann:
     groups:
         - staff
         - nt1
+        - coderefinery-sg
 
 pursula:
     name: Antti Pursula
@@ -184,6 +186,7 @@ bast:
     phone: "M: +47 776 44 117"
     groups:
         - staff
+        - coderefinery
 
 jonsson:
     name: Magnus Jonsson
@@ -277,6 +280,7 @@ edelmann:
     groups:
         - staff
         - nt1
+        - coderefinery
 
 smirnova:
     name: Oxana Smirnova
@@ -609,6 +613,7 @@ eide:
     role: Dep.head USIT
     groups:
         - glenna-sg
+        - coderefinery-sg
 bech:
     name: Martin Bech
     home: DeIC
