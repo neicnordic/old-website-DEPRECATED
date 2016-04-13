@@ -759,10 +759,10 @@ apostolov:
         - coderefinery-sg
 
 andersen:
-    name: Lene Krøl Andersen
+    name: "Lene Krøl Andersen"
     home: DeIC 
     country: "DK"
-    email: lene.krol.andersen@deic.dk
+    email: "lene.krol.andersen@deic.dk"
     role: Head of DeIC eScience Center
     groups:
         - coderefinery-sg
@@ -771,7 +771,7 @@ louhivuori:
     name: Martti Louhivuori
     home: CSC 
     country: "FI"
-    email: martti.louhivuori@csc.fi
+    email: "martti.louhivuori@csc.fi"
     role: CSC Training Manager
     groups:
         - coderefinery-sg
