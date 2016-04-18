@@ -772,6 +772,6 @@ louhivuori:
     home: CSC 
     country: "FI"
     email: "martti.louhivuori@csc.fi"
-    role: CSC Training Manager
+    role: "HPC specialist at CSC"
     groups:
         - coderefinery-sg
