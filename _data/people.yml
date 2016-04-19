@@ -196,8 +196,6 @@ jonsson:
     image: /about/team/magnus.jpg
     email: magnus@hpc2n.umu.se
     phone: "M: +46 767 660 735"
-    groups:
-        - staff
     
 karpenko:
     name: Dmytro Karpenko
