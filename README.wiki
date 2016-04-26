@@ -15,10 +15,10 @@ Keep an eye out for the signs, and post to the right place!
 === How to make a news article ===
 
 Howto:
-# Upload picures and other media files. Please try to make your pictures "widescreen", or roughly 3:2, or 16:9.
-#* [https://neic.nordforsk.org/int/upload/neicweb/ Upload to production webserver]
-#* [https://neic.nordforsk.org/int/upload/neicweb-devel/ Upload to development system]
-# Follow instructions onscreen. Click "Go live with this" button when done.
+# Prepare your pictures, pdfs and other media files. Please try to make your pictures "widescreen", or roughly 3:2, or 16:9. Consider making miniatures for very large pictures. Name the files so they match exactly what you want them to be on the server. 
+# Upload your media files to the /media/ folder. Click the "Upload files" button near the top, and follow instructions onscreen. 
+#* [https://github.com/neicnordic/neicweb/tree/master/media Upload to production webserver]
+#* [https://github.com/neicnordic/neicweb-devel/tree/master/media Upload to development system]
 # Write the article text on [https://github.com/neicnordic GitHub]
 #* [https://github.com/neicnordic/neicweb/ Source files for the production website]
 #* [https://github.com/neicnordic/neicweb-devel Source files for the development system]
@@ -47,15 +47,10 @@ If you want to move something you did on the development system onto the product
 === Delete a news article using the GitHub desktop application ===
 Note: This process can be used to delete anything.
 
-# Install https://desktop.github.com/.
-# Clone this repository (https://github.com/neicnordic/neicweb).
-# Click the "Sync" button, top right.
-# Right click the repository name ("neicweb") in the left hand side pane, and chose "Open in Explorer".
-# Find all the files that you want to delete, and delete them. News articles are in the "/_posts/" folder, pictures and pdfs are likely in the "/media/" folder.
-# Click the button named "Changes" in the GitHub desktop application (top, middle). See that there are no surprises.
-# Fill out a commit "Summary" explaining what you did, on the form "Delete XX news article and media.".
-# Click the "Sync" button top right again.
-# Done!
+# Delete the media files as well as the news article text. 
+#* Media files here: https://github.com/neicnordic/neicweb/tree/master/media
+#* News article texts here: https://github.com/neicnordic/neicweb/tree/master/_posts 
+# Navigate to each file you want to delete. Click the little trashcan icon to the right near the top. Follow instructions onscreen.
 
 == A technical summary ==
 
@@ -70,9 +65,9 @@ Note: This process can be used to delete anything.
 
 == Background ==
 
-[http://neic.nordforsk.org NeIC's web site] was remade in 2015. Before, it was based on a plone cms that was launched using experimental beta versions of most of the server stack from cms to backups, none of which ever worked very well and some of which never made it into official releases, which led to several cases of failure, downtime, substantial data loss and a generally very poor user experience.
+[http://neic.nordforsk.org NeIC's web site] was remade in 2015. The current version is a modified copy of a solution developed by Peter Larson at [http://www.nsc.liu.se NSC], and is based on the [http://jekyllrb.com/ Jekyll static site compiler] and the [http://pandoc.org/ Pandoc universal document converter]. The site, as served, is still just static HTML, in the sense that there is no on-the-fly generation of webpages from content stored in databases. Everything on the site gets generated once by Jekyll and then saved as HTML files on the web server. The prime advantage of this approach for the typical content editor is that it is possible to write pages in simple Mediawiki syntax, which NeIC does anyway for all its wikis and meeting minutes. 
 
-The current version is a modified copy of a solution developed by Peter Larson at [http://www.nsc.liu.se NSC], and is based on the [http://jekyllrb.com/ Jekyll static site compiler] and the [http://pandoc.org/ Pandoc universal document converter]. The site, as served, is still just static HTML, in the sense that there is no on-the-fly generation of webpages from content stored in databases. Everything on the site gets generated once by Jekyll and then saved as HTML files on the web server. The prime advantage of this approach for the typical content editor is that it is possible to write pages in simple Mediawiki syntax, which NeIC does anyway for all its wikis and meeting minutes. For the web designer, Jekyll offers a more flexible templating solution. For the system administrator this setup has fewer and simpler components, so there are less things that can fail, misbehave or need maintenance. For the data manager, this solution has virtually no risk of ever losing content, since no changes go live without passing through state of the art version control and backup on another continent. And finally, from a security point of view, the attack surface is significantly smaller.
+For the web designer, Jekyll offers a flexible templating solution. For the system administrator this setup has few and simple components, so there are less things that can fail, misbehave or need maintenance. For the data manager, this solution has virtually no risk of ever losing content, since no changes go live without passing through state of the art version control and backup on another continent. From a security point of view, the attack surface is very small.
 
 == How it works ==
 
@@ -270,7 +265,9 @@ There is also one other metadata field you could use (but there is rarely any ne
 * '''layout''' controls the which page template is being used to render the page. This is set up to automatically give normal pages the "menu" layout while news articles get the "news" layout. You probably shouldn't change this.
 
 === Uploading images and other media ===
-Images and other media cannot be added through the web browser, but you need to clone the repository locally, add the files to the neicweb/media/ directory, commit your changes, and push your commits back to github. You can use command line git for this, or you can install a GitHub graphical user interface program on your computer to do this, for example [https://windows.github.com/ GitHub for Windows] or [https://mac.github.com/ GitHub for Mac]. Note however that the GUI programs use the word Sync for all transactions with github.com, so when this manual tells you to update, pull, or push, just press the Sync button on the top right.
+Images and other media can be added through the web browser. Navigate to the directory where you want upload the files, click the "Upload files" button near the top, and follow instructions onscreen. 
+
+You can of course also clone the repository locally, add the files to the neicweb/media/ directory, commit your changes, and push your commits back to github. You can use command line git for this, or you can install a GitHub graphical user interface program on your computer to do this, for example [https://windows.github.com/ GitHub for Windows] or [https://mac.github.com/ GitHub for Mac]. Note however that the GUI programs use the word Sync for all transactions with github.com, so when this manual tells you to update, pull, or push, just press the Sync button on the top right.
 
 === Adding images to your page ===
 To add your image to the page you can use an HTML img tag like so, to add the image to the page at exactly that spot on the page, in exactly the size it actually is:
