@@ -2,6 +2,9 @@
 title: README
 ---
 == Crash course ==
+For tech people: Clone the repo, make the changes, push them back. Follow the conventions laid out just below.
+
+For you other people: Read on.
 
 Keep in mind:
 * The production website is mostly purple and is called neicweb on GitHub. 
@@ -13,7 +16,6 @@ Keep in mind:
 Keep an eye out for the signs, and post to the right place!
 
 === How to make a news article ===
-
 Howto:
 # Prepare your pictures, pdfs and other media files. Please try to make your pictures "widescreen", or roughly 3:2, or 16:9. Consider making miniatures for very large pictures. Name the files so they match exactly what you want them to be on the server. 
 # Upload your media files to the /media/ folder. Click the "Upload files" button near the top, and follow instructions onscreen. 
@@ -44,13 +46,15 @@ If you want to move something you did on the development system onto the product
 # Go through the steps above again, but for the production system. Paste the news article that you just wrote.
 # Done.
 
-=== Delete a news article using the GitHub desktop application ===
-Note: This process can be used to delete anything.
+=== How to delete news articles and other files  ===
+Go here: here: https://github.com/neicnordic/neicweb
 
-# Delete the media files as well as the news article text. 
-#* Media files here: https://github.com/neicnordic/neicweb/tree/master/media
-#* News article texts here: https://github.com/neicnordic/neicweb/tree/master/_posts 
-# Navigate to each file you want to delete. Click the little trashcan icon to the right near the top. Follow instructions onscreen.
+Navigate to each file you want to delete. Click the little trashcan icon to the right near the top. Follow instructions onscreen.
+
+When you delete a news article, please delete the media files as well as the news article text. 
+* Media files here: https://github.com/neicnordic/neicweb/tree/master/media
+* News article texts here: https://github.com/neicnordic/neicweb/tree/master/_posts 
+
 
 == A technical summary ==
 
