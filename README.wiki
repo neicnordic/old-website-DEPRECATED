@@ -21,10 +21,7 @@ Howto:
 # Upload your media files to the /media/ folder. Click the "Upload files" button near the top, and follow instructions onscreen. 
 #* [https://github.com/neicnordic/neicweb/tree/master/media Upload to production webserver]
 #* [https://github.com/neicnordic/neicweb-devel/tree/master/media Upload to development system]
-# Write the article text on [https://github.com/neicnordic GitHub]
-#* [https://github.com/neicnordic/neicweb/ Source files for the production website]
-#* [https://github.com/neicnordic/neicweb-devel Source files for the development system]
-# Go to the news article files. These live in the _posts/ folder:
+# Write the article text on [https://github.com/neicnordic GitHub]. News article files live in the _posts/ folder:
 #* [https://github.com/neicnordic/neicweb/tree/master/_posts News article directory for the production website]
 #* [https://github.com/neicnordic/neicweb-devel/tree/master/_posts News article directory for the development system]
 # Click a news article that looks similar to what you want.
