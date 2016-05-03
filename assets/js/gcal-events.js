@@ -38,7 +38,7 @@ $.getJSON(url , function( data ) {
     var enddate = (event.end.date || event.end.dateTime).split('T')[0];
     var d = new Date(enddate);
     d.setDate(d.getDate() - 1);
-    if (d <= Date(date)) {
+    if (d <= new Date(date)) {
       enddate = date;
     } else {
       enddate = d.toISOString().split('T')[0];
