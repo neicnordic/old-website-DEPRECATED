@@ -4,11 +4,16 @@ title: Alumni
 
 = {{ page.title }} =
 
+=== Magnus Jonsson, SGAS maintenance and development project, 1st instance ===
+The work Magnus has done on maintaining and developing SGAS under the NeIC umbrella has been highly appreciated in Sweden, Norway and Finland and of course also NeIC internally in the Nordic Tier-1. One aspect within the project has been to provide advanced support for other development projects interested to use or interface with SGAS. This has proven to be very beneficial for the SAMS project and has allowed this project to focus on other things. NeIC will continue to maintain SGAS also in the future. From his position as system developer at Umeå University, High Performance Computing Center North (HPC2N), Magnus currently continues in the new joint SUPR/SAMS project and it is not impossible that he will continue to submit patches to SGAS even in the future.
+
+=== Teemu Kemppainen ===
+M.Sc. Teemu Kemppainen is since 2014 living in Karlsruhe in southern Germany working as project manager for international companies. His specialities are research information management and recently urban transport solutions. Originally from Finland, Teemu started the B2Share Nordic project at NeIC while working at CSC-IT Center for Science.
+
 === Leif Nixon, Security Officer ===
 With over 10 years of experience in IT security, Leif Nixon was involved with the NDGF Tier-1 since its inception. During his time at the National Supercomputer Centre (NSC) at Linköping University, Sweden, Leif Nixon acted as Security Officer for the NDGF and then NeIC, as well as for the Swedish national grid infrastructure. At this time he also headed the incident response task force for the European Grid Infrastructure (EGI). After his engagement with NeIC, Nixon joined the product security team at RedHat.
 
 === Gard Thomassen, Tryggve staff ===
 Gard Thomassen, PhD, Section manager for the Research Services group at the University Centre for IT at the University of Oslo. Our main focus is to help researchers with complex IT needs that far outgrow the regular desktop and the local-IT helpdesk. Gard has also been the Project leader for the TSD (Services for Sensitive Data) project at USIT. Gard worked in the Tryggve project team at the start of the project, and has moved since that into a role in the project Reference Group.
 
-=== Magnus Jonsson, SGAS maintenance and development project, 1st instance ===
-The work Magnus has done on maintaining and developing SGAS under the NeIC umbrella has been highly appreciated in Sweden, Norway and Finland and of course also NeIC internally in the Nordic Tier-1. One aspect within the project has been to provide advanced support for other development projects interested to use or interface with SGAS. This has proven to be very beneficial for the SAMS project and has allowed this project to focus on other things. NeIC will continue to maintain SGAS also in the future. From his position as system developer at Umeå University, High Performance Computing Center North (HPC2N), Magnus currently continues in the new joint SUPR/SAMS project and it is not impossible that he will continue to submit patches to SGAS even in the future.
+
