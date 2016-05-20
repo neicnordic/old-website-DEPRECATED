@@ -1,0 +1,24 @@
+---
+title: Glenna Portal
+description: Hub for the Glenna components
+---
+
+The purpose of the Glenna Nordic Cloud project is to share knowledge and set best practices on managing cloud services and to create a Nordic federated cloud service, driven by the need of the Nordic researchers.
+
+The goal of the project is to give federated access to cloud resources in the Nordic countries and all of the below services are accessible through their respective national federations. They will be accessible through Kalmar2 and consequently by the users nationally federated identity in all of the Nordics.
+
+More about the project at the Glenna overview wiki page.
+
+-Kalmar2logo here- The Kalmar e-identity Union is a cross-Nordic authentication system for higher education and research. 
+
+= Services = 
+The services provided by Glenna are currently as follows:
+
+Pouta Blueprints: is an open source project (https://github.com/CSC-IT-Center-for-Science/pouta-blueprints) that can be used to provision temporary resources (VMs or containers) in an OpenStack cloud. A pilot service providing Jupyter and RStudio notebooks is running in cPouta.
+
+DeIC Data: an online data storage and synchronization service for secure sharing and accessing active research data and storing large data sets. The service is in pilot-production.
+
+Lifeportal: gives you easy access to the High Performance Computing cluster Abel at the University of Oslo. The Galaxy based Lifeportal has a continuously growing list of services, and among them the most widely used tools in bioinformatics. 
+
+
+
