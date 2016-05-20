@@ -7,9 +7,12 @@ The purpose of the Glenna Nordic Cloud project is to share knowledge and set bes
 
 The goal of the project is to give federated access to cloud resources in the Nordic countries and all of the below services are accessible through their respective national federations. They will be accessible through Kalmar2 and consequently by the users nationally federated identity in all of the Nordics.
 
-More about the project at the Glenna overview wiki page.
+More about the project at the [https://wiki.neic.no/wiki/Glenna Glenna overview wiki page].
 
-The [https://www.kalmar2.org Kalmar e-identity Union] is a cross-Nordic authentication system for higher education and research. 
+
+{|
+|[[File:/media/Kalmar2logo.png]] The [https://www.kalmar2.org Kalmar e-identity Union] is a cross-Nordic authentication system for higher education and research.
+|}
 
 == Services ==
 The services provided by Glenna are currently as follows:
