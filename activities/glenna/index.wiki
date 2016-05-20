@@ -9,16 +9,46 @@ The goal of the project is to give federated access to cloud resources in the No
 
 More about the project at the Glenna overview wiki page.
 
--Kalmar2logo here- The Kalmar e-identity Union is a cross-Nordic authentication system for higher education and research. 
+The [https://www.kalmar2.org Kalmar e-identity Union] is a cross-Nordic authentication system for higher education and research. 
 
-= Services = 
+== Services ==
 The services provided by Glenna are currently as follows:
 
-Pouta Blueprints: is an open source project (https://github.com/CSC-IT-Center-for-Science/pouta-blueprints) that can be used to provision temporary resources (VMs or containers) in an OpenStack cloud. A pilot service providing Jupyter and RStudio notebooks is running in cPouta.
+'''Pouta Blueprints''': is an open source project (https://github.com/CSC-IT-Center-for-Science/pouta-blueprints) that can be used to provision temporary resources (VMs or containers) in an OpenStack cloud. A pilot service providing Jupyter and RStudio notebooks is running in cPouta.
 
-DeIC Data: an online data storage and synchronization service for secure sharing and accessing active research data and storing large data sets. The service is in pilot-production.
+'''DeIC Data''': an online data storage and synchronization service for secure sharing and accessing active research data and storing large data sets. The service is in pilot-production.
 
-Lifeportal: gives you easy access to the High Performance Computing cluster Abel at the University of Oslo. The Galaxy based Lifeportal has a continuously growing list of services, and among them the most widely used tools in bioinformatics. 
+'''Lifeportal''': gives you easy access to the High Performance Computing cluster Abel at the University of Oslo. The Galaxy based Lifeportal has a continuously growing list of services, and among them the most widely used tools in bioinformatics.
+
+{| class="wikitable"
+!Component
+!Description
+!URL
+!Kalmar2
+!Organization
+!Country
+|-
+|Pouta Blueprints
+|PaaS iPython NB
+|https://pb.csc.fi
+|~
+|CSC
+|Finland
+|-
+|DeIC Data
+|SaaS Cloud Storage
+|https://data.deic.dk 
+|✓
+|DeIC
+|Denmark
+|-
+|Lifeportal
+|SaaS Bioinformatics
+|https://lifeportal.uio.no 
+|✓
+|UiO
+|Norway
+|}
 
 
 
