@@ -24,9 +24,9 @@ The services provided by Glenna are currently as follows:
 
 '''Lifeportal''': gives you easy access to the High Performance Computing cluster Abel at the University of Oslo. The Galaxy based Lifeportal has a continuously growing list of services, and among them the most widely used tools in bioinformatics.
 
-<table class="table table-striped" style="border-spacing: 3px; margin: 0 0 10px; border-collapse: separate; font-size: smaller;">
+<table class="table table-striped" style="border-spacing: 2px; margin: 0 0 8px; border-collapse: separate; font-size: smaller;">
 <thead>
-<tr class="header">
+<tr class="header" style="background-color: #CCCCCC;">
 <th style="text-align: left;">Component</th>
 <th style="text-align: left;">Description</th>
 <th style="text-align: left;">URL</th>
@@ -36,7 +36,7 @@ The services provided by Glenna are currently as follows:
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr class="odd" style="background-color: #FFFFFF;">
 <td style="text-align: left;">Pouta Blueprints</td>
 <td style="text-align: left;">PaaS iPython NB</td>
 <td style="text-align: left;"><a href="https://pb.csc.fi" target="_blank">https://pb.csc.fi</a></td>
@@ -44,7 +44,7 @@ The services provided by Glenna are currently as follows:
 <td style="text-align: left;">CSC</td>
 <td style="text-align: left;">Finland</td>
 </tr>
-<tr class="even">
+<tr class="even" style="background-color: #EEEEEE;">
 <td style="text-align: left;">DeIC Data</td>
 <td style="text-align: left;">SaaS Cloud Storage</td>
 <td style="text-align: left;"><a href="https://data.deic.dk" target="_blank">https://data.deic.dk</a></td>
@@ -52,7 +52,7 @@ The services provided by Glenna are currently as follows:
 <td style="text-align: left;">DeIC</td>
 <td style="text-align: left;">Denmark</td>
 </tr>
-<tr class="odd">
+<tr class="odd" style="background-color: #FFFFFF;">
 <td style="text-align: left;">Lifeportal</td>
 <td style="text-align: left;">SaaS Bioinformatics</td>
 <td style="text-align: left;"><a href="https://lifeportal.uio.no" target="_blank">https://lifeportal.uio.no</a></td>
