@@ -1,5 +1,5 @@
 ---
-title: Glenna Portal
+title: Glenna
 description: Hub for the Glenna components
 ---
 
@@ -11,7 +11,7 @@ More about the project at the [https://wiki.neic.no/wiki/Glenna Glenna overview 
 
 
 {|
-|[[File:/media/Kalmar2logo.png]] The [https://www.kalmar2.org Kalmar e-identity Union] is a cross-Nordic authentication system for higher education and research.
+|[[File:/media/Kalmar2logo.png|114px|middle]] The [https://www.kalmar2.org Kalmar e-identity Union] is a cross-Nordic authentication system for higher education and research.
 |}
 
 == Services ==
