@@ -23,7 +23,7 @@ The services provided by Glenna are currently as follows:
 
 '''Lifeportal''': gives you easy access to the High Performance Computing cluster Abel at the University of Oslo. The Galaxy based Lifeportal has a continuously growing list of services, and among them the most widely used tools in bioinformatics.
 
-<table class="table table-striped">
+<table class="table table-striped" style="cellpadding:10">
 <thead>
 <tr class="header">
 <th style="text-align: left;">Component</th>
@@ -36,7 +36,7 @@ The services provided by Glenna are currently as follows:
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"Pouta Blueprints</td>
+<td style="text-align: left;">Pouta Blueprints</td>
 <td style="text-align: left;">PaaS iPython NB</td>
 <td style="text-align: left;"><a href="https://pb.csc.fi" target="_blank">https://pb.csc.fi</a></td>
 <td style="text-align: left;">~</td>
