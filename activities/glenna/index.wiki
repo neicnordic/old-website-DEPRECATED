@@ -10,10 +10,14 @@ The goal of the project is to give federated access to cloud resources in the No
 
 More detailed information about the project at the [https://wiki.neic.no/wiki/Glenna Glenna overview wiki page].
 
+<table style="background-color: #EEEEEE;">
+<tbody>
+<tr>
+<td><img src="/media/Kalmar2logo.png" style="float: left;" The [https://www.kalmar2.org Kalmar e-identity Union] is a cross-Nordic authentication system for higher education and research.></td>
+</tr>
+</tbody>
+</table>
 
-{| style="background-color: #EEEEEE;"
-|[[File:/media/Kalmar2logo.png|114px|middle]] The [https://www.kalmar2.org Kalmar e-identity Union] is a cross-Nordic authentication system for higher education and research.
-|}
 
 == Services ==
 
