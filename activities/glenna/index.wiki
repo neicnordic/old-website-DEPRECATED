@@ -18,12 +18,6 @@ More detailed information about the project at the [https://wiki.neic.no/wiki/Gl
 == Services ==
 The services provided by Glenna are currently as follows:
 
-'''Pouta Blueprints''': is an open source project (https://github.com/CSC-IT-Center-for-Science/pouta-blueprints) that can be used to provision temporary resources (VMs or containers) in an OpenStack cloud. A pilot service providing Jupyter and RStudio notebooks is running in cPouta.
-
-'''DeIC Data''': an online data storage and synchronization service for secure sharing and accessing active research data and storing large data sets. The service is in pilot-production.
-
-'''Lifeportal''': gives you easy access to the High Performance Computing cluster Abel at the University of Oslo. The Galaxy based Lifeportal has a continuously growing list of services, and among them the most widely used tools in bioinformatics.
-
 <table class="table table-striped" style="border-spacing: 1px; margin: 0 0 4px; border-collapse: separate; font-size: smaller; border: 1px solid #CCCCCC;">
 <thead>
 <tr class="header" style="background-color: #DDDDDD;">
@@ -39,7 +33,7 @@ The services provided by Glenna are currently as follows:
 <tr class="odd" style="background-color: #FFFFFF;">
 <td style="text-align: center;">Pouta Blueprints</td>
 <td style="text-align: center;">PaaS iPython NB</td>
-<td style="text-align: center;"><a href="https://pb.csc.fi" target="_blank">https://pb.csc.fi</a></td>
+<td style="text-align: center;"><a href="https://pb.csc.fi" target="_blank">pb.csc.fi</a></td>
 <td style="text-align: center;">~</td>
 <td style="text-align: center;">CSC</td>
 <td style="text-align: center;">Finland</td>
@@ -47,7 +41,7 @@ The services provided by Glenna are currently as follows:
 <tr class="even" style="background-color: #EEEEEE;">
 <td style="text-align: center;">DeIC Data</td>
 <td style="text-align: center;">SaaS Cloud Storage</td>
-<td style="text-align: center;"><a href="https://data.deic.dk" target="_blank">https://data.deic.dk</a></td>
+<td style="text-align: center;"><a href="https://data.deic.dk" target="_blank">data.deic.dk</a></td>
 <td style="text-align: center;">✓</td>
 <td style="text-align: center;">DeIC</td>
 <td style="text-align: center;">Denmark</td>
@@ -55,12 +49,20 @@ The services provided by Glenna are currently as follows:
 <tr class="odd" style="background-color: #FFFFFF;">
 <td style="text-align: center;">Lifeportal</td>
 <td style="text-align: center;">SaaS Bioinformatics</td>
-<td style="text-align: center;"><a href="https://lifeportal.uio.no" target="_blank">https://lifeportal.uio.no</a></td>
+<td style="text-align: center;"><a href="https://lifeportal.uio.no" target="_blank">lifeportal.uio.no</a></td>
 <td style="text-align: center;">✓</td>
 <td style="text-align: center;">UiO</td>
 <td style="text-align: center;">Norway</td>
 </tr>
 </tbody>
 </table>
+
+'''Pouta Blueprints''': is an open source project (https://github.com/CSC-IT-Center-for-Science/pouta-blueprints) that can be used to provision temporary resources (VMs or containers) in an OpenStack cloud. A pilot service providing Jupyter and RStudio notebooks is running in cPouta.
+
+'''DeIC Data''': an online data storage and synchronization service for secure sharing and accessing active research data and storing large data sets. The service is in pilot-production.
+
+'''Lifeportal''': gives you easy access to the High Performance Computing cluster Abel at the University of Oslo. The Galaxy based Lifeportal has a continuously growing list of services, and among them the most widely used tools in bioinformatics.
+
+
 
 
