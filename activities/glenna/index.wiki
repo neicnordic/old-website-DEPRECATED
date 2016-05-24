@@ -17,7 +17,7 @@ More detailed information about the project at the [https://wiki.neic.no/wiki/Gl
 
 == Services ==
 
-<table class="table table-striped" style="border-spacing: 1px; margin: 0 0 4px; border-collapse: separate; font-size: smaller; border: 1px solid #CCCCCC;">
+<table class="table table-striped" style="border-spacing: 1px; margin: 0 0 4px; border-collapse: separate; font-size: smaller; border: 1px solid #CCCCCC; width:100%;">
 <thead>
 <tr class="header" style="background-color: #DDDDDD;">
 <th style="text-align: center;">Component</th>
