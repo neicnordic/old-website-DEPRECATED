@@ -58,7 +58,7 @@ More detailed information about the project at the [https://wiki.neic.no/wiki/Gl
 </tr>
 </tbody>
 </table>
-
+<br>
 
 '''Pouta Blueprints''': is an open source project (https://github.com/CSC-IT-Center-for-Science/pouta-blueprints) that can be used to provision temporary resources (VMs or containers) in an OpenStack cloud. A pilot service providing Jupyter and RStudio notebooks is running in cPouta.
 
