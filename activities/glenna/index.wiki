@@ -24,44 +24,43 @@ The services provided by Glenna are currently as follows:
 
 '''Lifeportal''': gives you easy access to the High Performance Computing cluster Abel at the University of Oslo. The Galaxy based Lifeportal has a continuously growing list of services, and among them the most widely used tools in bioinformatics.
 
-<table class="table table-striped" style="border-spacing: 2px; margin: 0 0 8px; border-collapse: separate; font-size: smaller; border: 1px dotted #CCCCCC;">
+<table class="table table-striped" style="border-spacing: 1px; margin: 0 0 4px; border-collapse: separate; font-size: smaller; border: 1px solid #CCCCCC;">
 <thead>
 <tr class="header" style="background-color: #DDDDDD;">
-<th style="text-align: middle;">Component</th>
-<th style="text-align: middle;">Description</th>
-<th style="text-align: middle;">URL</th>
-<th style="text-align: middle;">Kalmar2</th>
-<th style="text-align: middle;">Organization</th>
-<th style="text-align: middle;">Country</th>
+<th style="text-align: center;">Component</th>
+<th style="text-align: center;">Description</th>
+<th style="text-align: center;">URL</th>
+<th style="text-align: center;">Kalmar2</th>
+<th style="text-align: center;">Organization</th>
+<th style="text-align: center;">Country</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd" style="background-color: #FFFFFF;">
-<td style="text-align: middle;">Pouta Blueprints</td>
-<td style="text-align: middle;">PaaS iPython NB</td>
-<td style="text-align: middle;"><a href="https://pb.csc.fi" target="_blank">https://pb.csc.fi</a></td>
-<td style="text-align: middle;">~</td>
-<td style="text-align: middle;">CSC</td>
-<td style="text-align: middle;">Finland</td>
+<td style="text-align: center;">Pouta Blueprints</td>
+<td style="text-align: center;">PaaS iPython NB</td>
+<td style="text-align: center;"><a href="https://pb.csc.fi" target="_blank">https://pb.csc.fi</a></td>
+<td style="text-align: center;">~</td>
+<td style="text-align: center;">CSC</td>
+<td style="text-align: center;">Finland</td>
 </tr>
 <tr class="even" style="background-color: #EEEEEE;">
-<td style="text-align: middle;">DeIC Data</td>
-<td style="text-align: middle;">SaaS Cloud Storage</td>
-<td style="text-align: middle;"><a href="https://data.deic.dk" target="_blank">https://data.deic.dk</a></td>
-<td style="text-align: middle;">✓</td>
-<td style="text-align: middle;">DeIC</td>
-<td style="text-align: middle;">Denmark</td>
+<td style="text-align: center;">DeIC Data</td>
+<td style="text-align: center;">SaaS Cloud Storage</td>
+<td style="text-align: center;"><a href="https://data.deic.dk" target="_blank">https://data.deic.dk</a></td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">DeIC</td>
+<td style="text-align: center;">Denmark</td>
 </tr>
 <tr class="odd" style="background-color: #FFFFFF;">
-<td style="text-align: middle;">Lifeportal</td>
-<td style="text-align: middle;">SaaS Bioinformatics</td>
-<td style="text-align: middle;"><a href="https://lifeportal.uio.no" target="_blank">https://lifeportal.uio.no</a></td>
-<td style="text-align: middle;">✓</td>
-<td style="text-align: middle;">UiO</td>
-<td style="text-align: middle;">Norway</td>
+<td style="text-align: center;">Lifeportal</td>
+<td style="text-align: center;">SaaS Bioinformatics</td>
+<td style="text-align: center;"><a href="https://lifeportal.uio.no" target="_blank">https://lifeportal.uio.no</a></td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">UiO</td>
+<td style="text-align: center;">Norway</td>
 </tr>
 </tbody>
 </table>
-
 
 
