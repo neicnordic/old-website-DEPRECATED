@@ -8,8 +8,6 @@ The purpose of the Glenna Nordic Cloud project is to share knowledge and set bes
 
 The goal of the project is to give federated access to cloud resources in the Nordic countries and all of the below services are accessible through their respective national federations. They will be accessible through Kalmar2 and consequently by the users nationally federated identity in all of the Nordics.
 
-More detailed information about the project at the [https://wiki.neic.no/wiki/Glenna Glenna overview wiki page].
-
 <table style="border: 1 px dotted #CCCCCC; vertical-align: middle;">
 <tbody>
 <tr>
@@ -18,12 +16,13 @@ More detailed information about the project at the [https://wiki.neic.no/wiki/Gl
 </tbody>
 </table>
 
+More detailed information about the project at the [https://wiki.neic.no/wiki/Glenna Glenna overview wiki page].
 
 == Services ==
 
 <table class="table table-striped" style="border-spacing: 1px; margin: 0 0 4px; border-collapse: separate; font-size: smaller; border: 1px solid #CCCCCC; width:100%;">
 <thead>
-<tr class="header" style="background-color: #DDDDDD;">
+<tr class="header" style="background-color: #DDDDDD;" id="smallbottommargin">
 <th style="text-align: center;">Component</th>
 <th style="text-align: center;">Description</th>
 <th style="text-align: center;">URL</th>
@@ -33,7 +32,7 @@ More detailed information about the project at the [https://wiki.neic.no/wiki/Gl
 </tr>
 </thead>
 <tbody>
-<tr class="odd" style="background-color: #FFFFFF;">
+<tr class="odd" style="background-color: #FFFFFF;" id="smallbottommargin">
 <td style="text-align: center;">Pouta Blueprints</td>
 <td style="text-align: center;">PaaS iPython NB</td>
 <td style="text-align: center;"><a href="https://pb.csc.fi" target="_blank">pb.csc.fi</a></td>
