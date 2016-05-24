@@ -40,7 +40,7 @@ More detailed information about the project at the [https://wiki.neic.no/wiki/Gl
 <td style="text-align: center;">CSC</td>
 <td style="text-align: center;">Finland</td>
 </tr>
-<tr class="even" style="background-color: #EEEEEE;">
+<tr class="even" style="background-color: #EEEEEE;" id="smallbottommargin">
 <td style="text-align: center;">DeIC Data</td>
 <td style="text-align: center;">SaaS Cloud Storage</td>
 <td style="text-align: center;"><a href="https://data.deic.dk" target="_blank">data.deic.dk</a></td>
@@ -48,7 +48,7 @@ More detailed information about the project at the [https://wiki.neic.no/wiki/Gl
 <td style="text-align: center;">DeIC</td>
 <td style="text-align: center;">Denmark</td>
 </tr>
-<tr class="odd" style="background-color: #FFFFFF;">
+<tr class="odd" style="background-color: #FFFFFF;" id="smallbottommargin">
 <td style="text-align: center;">Lifeportal</td>
 <td style="text-align: center;">SaaS Bioinformatics</td>
 <td style="text-align: center;"><a href="https://lifeportal.uio.no" target="_blank">lifeportal.uio.no</a></td>
