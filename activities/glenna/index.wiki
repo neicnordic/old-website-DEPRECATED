@@ -11,12 +11,11 @@ The goal of the project is to give federated access to cloud resources in the No
 More detailed information about the project at the [https://wiki.neic.no/wiki/Glenna Glenna overview wiki page].
 
 
-{|
+{| style="background-color: #EEEEEE;"
 |[[File:/media/Kalmar2logo.png|114px|middle]] The [https://www.kalmar2.org Kalmar e-identity Union] is a cross-Nordic authentication system for higher education and research.
 |}
 
 == Services ==
-The services provided by Glenna are currently as follows:
 
 <table class="table table-striped" style="border-spacing: 1px; margin: 0 0 4px; border-collapse: separate; font-size: smaller; border: 1px solid #CCCCCC;">
 <thead>
@@ -56,6 +55,7 @@ The services provided by Glenna are currently as follows:
 </tr>
 </tbody>
 </table>
+
 
 '''Pouta Blueprints''': is an open source project (https://github.com/CSC-IT-Center-for-Science/pouta-blueprints) that can be used to provision temporary resources (VMs or containers) in an OpenStack cloud. A pilot service providing Jupyter and RStudio notebooks is running in cPouta.
 
