@@ -106,7 +106,7 @@ vitlacil:
 
 hedlund:
     name: Joel Hedlund
-    role: BMS Coordinator
+    role: XO
     home: NSC
     country: SE
     image: /about/team/joel.jpg
@@ -116,6 +116,7 @@ hedlund:
         - staff
         - tryggve-sg
         - xt
+        - neic2017-pc
 
 pettersen:
     name: Pål Pettersen
@@ -128,6 +129,7 @@ pettersen:
     groups:
         - staff
         - xt
+        - neic2017-pc
 
 pennington:
     name: Rob Pennington
@@ -150,6 +152,7 @@ behrmann:
         - staff
         - nt1
         - coderefinery-sg
+        - neic2017-pc
 
 pursula:
     name: Antti Pursula
@@ -187,6 +190,7 @@ bast:
     groups:
         - staff
         - coderefinery
+        - neic2017-pc
 
 jonsson:
     name: Magnus Jonsson
@@ -335,6 +339,7 @@ jareborg:
     groups:
         - staff
         - tryggve
+        - neic2017-pc
 
 viklund:
     name: Johan Viklund
