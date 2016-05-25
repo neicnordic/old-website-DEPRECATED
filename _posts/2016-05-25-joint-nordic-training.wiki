@@ -1,7 +1,7 @@
 ---
 title: "Joint Nordic training: Improve your e-Skills"
 summary: "To make the most of our e-infrastructure resources in the Nordic countries, NeIC has launched a coordinated Nordic calendar indicating when and where you can find events to improve your skills. An easy and simple tool to use."
-image:
+image: Social_Network_Diagram_from_Wikipedia_mini.png
 ---
 = Joint Nordic training: Improve your e-Skills =
 
@@ -19,6 +19,9 @@ The calendar currently contains training activities from four countries.
 At present, training coordinators use email lists to spread information on upcoming training events to interested parties. The calendar also enables them to include information on upcoming training activities in neighbouring countries that may be of interest to their stakeholders.
 
 == Pooling competencies ==
+<a href="https://neic.nordforsk.org/media/Social_Network_Diagram_from_Wikipedia.png">
+<img class="smallpic" src="https://neic.nordforsk.org/media/Social_Network_Diagram_from_Wikipedia_mini.png">
+</a>
 
 NeIC Training calendar is part of realising the [https://wiki.neic.no/wiki/NeIC_Strategy_2016-2020 new NeIC strategy]. It is divided into four focus areas, one of which is "[https://wiki.neic.no/wiki/Pool_Competencies Pool Competencies]".
 
