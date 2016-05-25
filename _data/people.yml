@@ -52,6 +52,7 @@ host:
     groups:
         - staff
         - xt
+        - neic2017-prg
     
 roblitz:
     name: Thomas Röblitz
@@ -117,6 +118,7 @@ hedlund:
         - tryggve-sg
         - xt
         - neic2017-pc
+        - neic2017-prg
 
 pettersen:
     name: Pål Pettersen
@@ -140,6 +142,7 @@ pennington:
     groups:
         - staff
         - xt
+        - neic2017-prg
 
 behrmann:
     name: Gerd Behrmann
@@ -483,6 +486,7 @@ persson:
     email: bengt.persson@bils.se
     groups:
         - tryggve-sg
+        - neic2017-prg
         
 gsingh:
     name: Gurvinder Singh
@@ -617,6 +621,8 @@ eide:
     groups:
         - glenna-sg
         - coderefinery-sg
+        - neic2017-prg
+
 bech:
     name: Martin Bech
     home: DeIC
@@ -769,6 +775,7 @@ andersen:
     role: Head of DeIC eScience Center
     groups:
         - coderefinery-sg
+        - neic2017-prg
 
 louhivuori:
     name: Martti Louhivuori
@@ -778,3 +785,13 @@ louhivuori:
     role: "HPC specialist at CSC"
     groups:
         - coderefinery-sg
+
+lehtovuori:
+    name: Pekka Lehtovuori
+    home: CSC
+    country: "FI"
+    email: pekka.lehtovuori@csc.fi
+    role: Director, CSC Services for Research
+    groups:
+        - neic2017-prg
+        
