@@ -1,7 +1,7 @@
 ---
 title: "Joint Nordic training: Improve your e-Skills"
 summary: "To make the most of our e-infrastructure resources in the Nordic countries, NeIC has launched a coordinated Nordic calendar indicating when and where you can find events to improve your skills. An easy and simple tool to use."
-image: Social_Network_Diagram_from_Wikipedia_mini.png
+image: https://neic.nordforsk.org/media/Social_Network_Diagram_from_Wikipedia_mini.png
 ---
 = Joint Nordic training: Improve your e-Skills =
 
