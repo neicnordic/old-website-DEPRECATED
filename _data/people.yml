@@ -386,18 +386,6 @@ leinonen:
         - staff
         - tryggve
 
-singh:
-    name: Karan Singh
-    role: Tryggve staff
-    home: CSC
-    country: FI
-    image: /about/team/karan.jpeg
-    email: karan.singh@csc.fi
-    phone: "W: +358 503812758"
-    groups:
-        - staff
-        - tryggve
-
 azab:
     name: Abdulrahman Azab
     role: Tryggve staff
