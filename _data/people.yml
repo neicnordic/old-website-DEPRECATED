@@ -398,6 +398,17 @@ syed:
         - staff
         - tryggve
 
+chmura:
+  fte: 0.5
+  name: Piotr Chmura
+  role: Tryggve staff
+  home: CPR
+  country: DK
+  email: piotr.chmura@cpr.ku.dk
+  groups:
+    - staff
+    - tryggve
+
 leinonen:
     name: Jaakko Leinonen
     role: Tryggve staff
