@@ -363,7 +363,29 @@ lampa:
     groups:
         - staff
         - tryggve
- 
+
+haziza:
+    name: Frédéric
+    role: Tryggve staff
+    home: NBIS
+    country: SE
+    email: frederic.haziza@bils.se
+    phone: 
+    groups:
+        - staff
+        - tryggve
+    
+alarsson:
+    name: Anders Larsson
+    role: Tryggve staff
+    home: NBIS
+    country: SE
+    email: anders.larsson@bils.se
+    phone: 
+    groups:
+        - staff
+        - tryggve
+    
 syed:
     name: Ali Syed
     role: Senior Cloud Architect
