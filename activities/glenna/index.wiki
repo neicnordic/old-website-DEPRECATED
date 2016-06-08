@@ -66,6 +66,8 @@ More detailed information about the project at the [https://wiki.neic.no/wiki/Gl
 
 '''Lifeportal''': gives you easy access to the High Performance Computing cluster Abel at the University of Oslo. The Galaxy based Lifeportal has a continuously growing list of services, and among them the most widely used tools in bioinformatics.
 
+The following presentation gives further background information on Glenna: https://wiki.neic.no/w/ext/img_auth.php/f/fb/ECMWF_talk.pdf
+
 
 
 
