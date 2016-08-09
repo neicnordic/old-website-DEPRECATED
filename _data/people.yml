@@ -163,7 +163,7 @@ pursula:
     country: FI
     image: /about/team/antti.jpg
     email: antti.pursula@csc.fi
-    phone: "M: +358 50 3819537"
+    phone: "+358 50 3819537"
     groups:
         - staff
         - tryggve
@@ -482,7 +482,7 @@ nyronen:
 
 lappalainen:
     name: Ilkka Lappalainen
-    role: Senior manager at ELIXIR FI
+    role: Senior manager, ELIXIR FI (represents CSC)
     home: CSC
     country: FI
     email: ilkka.lappalainen@csc.fi
@@ -720,7 +720,7 @@ hovig:
     home: UiO
     country: "NO"
     email: ehovig@ifi.uio.no
-    role: Genomics, Cancer research
+    role: Genomics, Cancer research, UiO
     groups:
         - tryggve-rg
 
@@ -729,7 +729,7 @@ kankainen:
     home: FIMM
     country: "FI"
     email: matti.kankainen@helsinki.fi
-    role: Sequencing infrastructure
+    role: Sequencing infrastructure, FIMM
     groups:
         - tryggve-rg
 
@@ -756,7 +756,7 @@ nilsson:
     home: NordForsk
     country: 
     email: maria.nilsson@nordforsk.org
-    role: Senior adviser
+    role: Senior adviser, NordForsk
     groups:
         - tryggve-rg
 
