@@ -365,7 +365,7 @@ lampa:
         - tryggve
 
 haziza:
-    name: Frédéric
+    name: Frédéric Haziza
     role: Tryggve staff
     home: NBIS
     country: SE
@@ -482,12 +482,12 @@ nyronen:
 
 lappalainen:
     name: Ilkka Lappalainen
-    role: Senior manager at ELIXIR FI (ad interim)
+    role: Senior manager at ELIXIR FI
     home: CSC
     country: FI
     email: ilkka.lappalainen@csc.fi
     groups:
-        - tryggve-sg
+        - tryggve-rg
 
 jonassen:
     name: Inge Jonassen
@@ -739,15 +739,6 @@ due:
     country: "DK"
     email: jkd@sa.dk
     role: Register-based research (represents DeIC)
-    groups:
-        - tryggve-rg
-
-mattila:
-    name: Kimmo Mattila
-    home: CSC
-    country: "FI"
-    email: kimmo.mattila@csc.fi
-    role: CSC, bioinformatics support
     groups:
         - tryggve-rg
 
