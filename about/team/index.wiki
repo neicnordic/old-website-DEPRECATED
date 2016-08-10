@@ -166,3 +166,7 @@ Currently at Technical University of Denmark, Department of Systems Biology, Cen
 {% include person.wiki id="chmura" %}
 
 Piotr works mainly for software provisioning tasks in Tryggve project, developing especially the Tools and Resource Registry at ELIXIR.DK. He is located at Center for Protein Research at University of Copenhagen.
+
+{% include person.wiki id="alarsson" %}
+
+Anders is part of the Tryggve project team. Systems developer at NBIS in Uppsala, Sweden. PhD in Systematic Biology from Evolutionary Biology Center at Uppsala University. Also involved in Elixir Local EGA project and European PhenoMeNal project.
