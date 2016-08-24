@@ -36,7 +36,9 @@ In the context of NeIC’s strategy implementation plan, the resources to share 
 
 Since 2014, NeIC has been coordinating the Glenna Nordic cloud project, see https://neic.nordforsk.org/activities/glenna/. NeIC is looking into the opportunities for a follow up project that aims to provide added value to the national initiatives by (1) Supporting national cloud initiatives to sustain affordable IaaS cloud resources through knowledge-exchange and pooling competency on cloud operations, (2) Using such national resources to establishing an internationally leading collaboration on data-intensive computing in collaboration with user-communities, (3) Leveraging the pooled competency to take responsibility for assessing future hybrid cloud technology and communicate that to the national initiatives, and (4) Supporting use of resources by pooling national cloud application expert support and create a Nordic support channel for cloud and big data.
 
-Each Project Manager is expected to commit 50-80% of his/her time to NeIC over a three-year period, the remaining time being committed to his/her home institution. Positions will be available late 2016 or early 2017. Questions may be directed to Gudmund Høst, Director of NeIC, tel. +47 9581684. Applications including CV should be submitted to gudmund.host@nordforsk.org within September 25th, 2016. Applications should include a support letter from a national e-Infrastructure organisation in one of the Nordic countries.
+Each Project Manager is expected to commit 50-80% of his/her time to NeIC over a three-year period, the remaining time being committed to his/her home institution. 
+
+All new positions will be available late 2016 or early 2017. Questions may be directed to Gudmund Høst, Director of NeIC, tel. +47 9581684. Applications including CV should be submitted to gudmund.host@nordforsk.org within September 25th, 2016. Applications should include a support letter from a national e-Infrastructure organisation in one of the Nordic countries.
 
 
 [https://wiki.neic.no/w/ext/img_auth.php/1/19/160901-Open-position-announcement-XT-Coordinators.pdf You find the announcement here]
