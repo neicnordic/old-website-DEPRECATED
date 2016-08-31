@@ -595,16 +595,6 @@ markus:
         - staff
         - glenna 
 
-christensen:
-    name: Lars Næsbye Christensen
-    home: DeIC
-    country: "DK"
-    email: lars.christensen@deic.dk
-    role: Glenna Staff
-    groups:
-        - staff
-        - glenna 
-        
 hellander:
     name: Andreas Hellander
     home: Uppsala University
