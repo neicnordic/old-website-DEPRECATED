@@ -170,3 +170,9 @@ Piotr works mainly for software provisioning tasks in Tryggve project, developin
 {% include person.wiki id="alarsson" %}
 
 Anders is part of the Tryggve project team. Systems developer at NBIS in Uppsala, Sweden. PhD in Systematic Biology from Evolutionary Biology Center at Uppsala University. Also involved in Elixir Local EGA project and European PhenoMeNal project.
+
+{% include person.wiki id="haziza" %}
+
+Frédéric received his PhD in Computer Science from Uppsala University in the field of Algorithmic Program Verification.
+Prior to joining NBIS, Frédéric worked for UPPMAX, where he was involved in setting up Smog, the first cloud service at UPPMAX, as well as bioimg.org, a catalogue of life science virtual machine images. At NeIC he is part of the Tryggve project team.
+At NBIS, Frédéric is working with OpenStack deployments, µ-Mosler, as well as front-end developments and a new Python course.
