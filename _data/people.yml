@@ -93,18 +93,6 @@ barth:
         - glenna-sg
         - coderefinery-sg
 
-vitlacil:
-    name: Dejan Vitlacil
-    role: GEN Coordinator (ad interim)
-    home: PDC
-    country: SE
-    image: /about/team/dejan.jpeg
-    email: vitlacil@kth.se
-    phone: "M: +46 76 064 18 45"
-    groups:
-        - staff
-        - xt
-
 hedlund:
     name: Joel Hedlund
     role: XO
