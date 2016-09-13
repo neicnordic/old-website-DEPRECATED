@@ -13,12 +13,13 @@ image: /media/dark-guitar-mini.jpeg
 </a>
 
 You are an excellent software developer skilled in Java programming with merits that include experience and interest in topics such as
-•	Distributed systems (zookeeper, message passing),
-•	Network data access protocols and frameworks (Jetty, Netty, etc.),
-•	Databases (Postgresql or other),
-•	Patch reviewing for complex codebases,
-•	Refurbishment of old components to improve stability and support new development,
-•	Identifying useful best practices in Java software development.
+*	Distributed systems (zookeeper, message passing),
+*	Network data access protocols and frameworks (Jetty, Netty, etc.),
+*	Databases (Postgresql or other),
+*	Patch reviewing for complex codebases,
+*	Refurbishment of old components to improve stability and support new development,
+*	Identifying useful best practices in Java software development.
+
 It is expected that the candidate has, or is interested in, permanent employment at a national e-Infrastructure organization in the Nordic countries or one of its collaborating institutions. Candidates must have a good command of English (both written and spoken). Considerable travelling may be required.
 
 The Storage Specialist reports to the Nordic Tier-1 Coordinator. The functions and responsibilities of the Storage Specialist include:
