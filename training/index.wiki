@@ -20,16 +20,14 @@ Biobanking:
 == Training calendar ==
 NeIC uses a shared calendar to collect and disseminate information on upcoming training events that are either arranged by NeIC or partners, or are of interest to NeIC and its stakeholders. The information in this calendar does not supersede or overrule any official information by the training organizers, so interested parties should take care to refer to the official website for each training for accurate and up-to-date information on for example admittance, costs, etc. The training calendar can for example be viewed here:
 
-* [upcoming/ Upcoming training events]
-* [past/ Past training events]
+* [[upcoming|Upcoming training events]]
+* [[past|Past training events]]
 
 The information is maintained in the public [https://calendar.google.com/calendar/embed?src=ouebfn9g5muu6l7vjd9hhf0lp4@group.calendar.google.com&title=NeIC+Trainings&ctz=Europe/Stockholm neic-training] Google calendar, which you add to your favourite calendar application to view in your phone or elsewhere. Some help on various ways to access a public Google calendar is available on the [https://wiki.neic.no/wiki/Event_calendar NeIC wiki]. Otherwise, refer to your calendar application manual.
 
 The Google calendar ID is ouebfn9g5muu6l7vjd9hhf0lp4@group.calendar.google.com.
 
 == See also ==
-* [[Upcoming training events]]
-* [[Past training events]]
-* [[Pool competencies]] - The training coordination activity is part of this NeIC focus area.
-* [[NeIC strategy 2016-2020]]
-* [[NeIC 2016-2020 strategy implementation plan]]
+* [https://wiki.neic.no/wiki/Pool_competencies Pool competencies focus area] - The training coordination activity is part of this NeIC focus area.
+* [https://wiki.neic.no/wiki/NeIC_strategy_2016-2020 NeIC_strategy 2016-2020]
+* [https://wiki.neic.no/wiki/NeIC_2016-2020_strategy_implementation_plan NeIC 2016-2020 strategy implementation plan]
