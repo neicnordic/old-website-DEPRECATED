@@ -246,7 +246,7 @@ pedersen:
     image: /about/team/maiken.png
     email: maikenp@usit.uio.no
     phone: "M: +47 46628328"
-    group:
+    groups:
         - staff
         - nt1
         
