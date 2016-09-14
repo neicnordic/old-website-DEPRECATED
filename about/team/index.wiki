@@ -95,6 +95,10 @@ Jon Kerr Nilsen is located at the University of Oslo, [http://www.usit.uio.no/en
 
 Nilsen holds a PhD in High Energy Physics and was acting as deputy leader of the development work group during the EMI EU-project.
 
+{% include person.wiki id="pedersen" %}
+
+Maiken Pedersen is located at the University of Oslo, [http://www.usit.uio.no/english/ University Center for Information Technology]. She has a background in high energy physics, with a PhD on Supersymmetry at the ATLAS detector at CERN. Pedersen is acting as ARC co-release manager together with Jon Nilsen, in addition to doing development tasks for the NDGF Tier-1. 
+
 {% include person.wiki id="white" %}
 
 John White, is located near Geneva, Switzerland and holds a 50% position as project manager with NeIC EISCAT_3D Support project. He was educated at the University of Victoria in Canada and holds a PhD in Physics focusing on LEP Standard Model measurements. He has worked since 1999 based at CERN and has experience in distributed computing since 2000 through the series of European Grid projects.
