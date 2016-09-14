@@ -8,7 +8,7 @@ image: /media/toofarnorth-mini.jpeg
 
 '''NeIC is looking for a Storage Specialist to strengthen the Nordic Tier-1 team. As member of a dynamic virtual team you will have a variety of challenging tasks and involve extensive contact with research groups and specialist communities in the Nordic countries and internationally.'''
 
-<a href="/media/toofarnorth.jpeg">
+<a href="/media/toofarnorth.jpg">
 <img class="smallpic" src="/media/toofarnorth-mini.jpeg">
 </a>
 
