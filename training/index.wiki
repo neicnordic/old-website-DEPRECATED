@@ -9,7 +9,7 @@ NeIC has a strategic focus on spreading knowledge, and facilitates cross-border 
 This section lists information hubs for training among NeIC partners and stakeholders. Please [mailto:joel@nsc.liu.se contact NeIC] if you would like to advertize your training activity here, and you believe it is in scope for NeIC.
 
 National e-infrastructure provider training:
-* DTU, DK: http://www.cc.dtu.dk/?page_id=105
+* DeIC, DK: https://vidensportal.deic.dk/calendar-node-field-event-date/oversigt
 * CSC, FI: http://www.csc.fi/web/training
 * Sigma2, NO: https://www.sigma2.no/content/training
 * SNIC, SE: http://docs.snic.se/wiki/Training
