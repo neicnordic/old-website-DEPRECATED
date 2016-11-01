@@ -359,8 +359,6 @@ lampa:
     email: samuel.lampa@bils.se
     phone: "M: +46 70 207 3732"
     groups:
-        - staff
-        - tryggve
 
 haziza:
     name: Frédéric Haziza
@@ -795,3 +793,12 @@ lehtovuori:
     groups:
         - neic2017-prg
         
+tornroos:
+    name: Juha Törnroos
+    role: Tryggve staff
+    home: CSC
+    country: FI
+    email: juha.tornroos@csc.fi
+    groups:
+        - staff
+        - tryggve
