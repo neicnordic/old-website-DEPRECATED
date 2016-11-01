@@ -7,6 +7,9 @@ title: Alumni
 === Magnus Jonsson, SGAS maintenance and development project, 1st instance ===
 The work Magnus has done on maintaining and developing SGAS under the NeIC umbrella has been highly appreciated in Sweden, Norway and Finland and of course also NeIC internally in the Nordic Tier-1. One aspect within the project has been to provide advanced support for other development projects interested to use or interface with SGAS. This has proven to be very beneficial for the SAMS project and has allowed this project to focus on other things. NeIC will continue to maintain SGAS also in the future. From his position as system developer at Umeå University, High Performance Computing Center North (HPC2N), Magnus currently continues in the new joint SUPR/SAMS project and it is not impossible that he will continue to submit patches to SGAS even in the future.
 
+=== Samuel Lampa ===
+Samuel has worked in the Tryggve project team as a software developer participating for example in the secure data transfer tool development. He continues to work at Swedish Bioinformatics Infrastructure NBIS as a systems developer, developing infrastructure, and tools for things like automated storage (iRODS) graphical user interfaces, and workflow and data management; with possibly returning into the Tryggve team in the future.
+
 === Teemu Kemppainen ===
 M.Sc. Teemu Kemppainen is since 2014 living in Karlsruhe in southern Germany working as project manager for international companies. His specialities are research information management and recently urban transport solutions. Originally from Finland, Teemu started the B2Share Nordic project at NeIC while working at CSC-IT Center for Science.
 
