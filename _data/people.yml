@@ -794,10 +794,10 @@ lehtovuori:
         - neic2017-prg
         
 tornroos:
-    name: Juha Törnroos
+    name: "Juha Törnroos"
     role: Tryggve staff
     home: CSC
-    country: FI
+    country: "FI"
     email: juha.tornroos@csc.fi
     groups:
         - staff
