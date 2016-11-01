@@ -436,7 +436,7 @@ iozzi:
     groups:
         - staff
         - tryggve
-    
+
 tornroos:
     name: "Juha Törnroos"
     role: "Tryggve staff"
