@@ -137,10 +137,10 @@ Niclas has a PhD in Microbiology from Uppsala University, and over the years he 
 Johan Viklund earned his PhD in Evolutionary Biology at Uppsala University. His thesis focused on phylogenomics of oceanic bacteria and mitochondria.
 Now he is working on the BILS Tools Platform, an initiative to create simple and secure web-based access to computational resources.
 
-#{% include person.wiki id="tornroos" %}
-#
-#Juha is the guy who knows what is the difference of HTTP status codes 301 and 302, what is the fourth layer in OSI model, what is the opaque pointer and why it can not rain for two days in a row. He has a MSc in applied mathematics and computer science, solid background in software development and hands on experience of almost every modern programming language.
-#Juha works at CSC - IT Center for Science with 50/50 allocation both for NeIC Tryggve project and for the Open Research Initiative (ATT-hanke) in Finland.
+{% include person.wiki id="tornroos" %}
+
+Juha is the guy who knows what is the difference of HTTP status codes 301 and 302, what is the fourth layer in OSI model, what is the opaque pointer and why it can not rain for two days in a row. He has a MSc in applied mathematics and computer science, solid background in software development and hands on experience of almost every modern programming language.
+Juha works at CSC - IT Center for Science with 50/50 allocation both for NeIC Tryggve project and for the Open Research Initiative (ATT-hanke) in Finland.
 
 {% include person.wiki id="syed" %}
 
