@@ -84,7 +84,7 @@ Petter Urkedal is located at the [http://www.nbi.ku.dk/ Niels Bohr Institute], U
 Jens Larsson is currently employed at the [http://www.nsc.liu.se National Supercomputing Centre] in Linköping, Sweden.
 
 His main responsibility is for operations for SweStore – the Swedish Storage Initiative. His Tier-1 work involves operations for various support services.
- 
+
 {% include person.wiki id="tigerstedt" %}
 
 Ulf Tigerstedt is employed as a grid administrator at [http://www.csc.fi CSC] in Finland. He is responsible for the Nordic NGI (NGI_NDGF) and also performs general technical work for the NDGF Tier-1.
@@ -135,7 +135,6 @@ Niclas has a PhD in Microbiology from Uppsala University, and over the years he 
 {% include person.wiki id="viklund" %}
 
 Johan Viklund earned his PhD in Evolutionary Biology at Uppsala University. His thesis focused on phylogenomics of oceanic bacteria and mitochondria.
-
 Now he is working on the BILS Tools Platform, an initiative to create simple and secure web-based access to computational resources.
 
 {% include person.wiki id="tornroos" %}
