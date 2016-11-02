@@ -84,7 +84,7 @@ Petter Urkedal is located at the [http://www.nbi.ku.dk/ Niels Bohr Institute], U
 Jens Larsson is currently employed at the [http://www.nsc.liu.se National Supercomputing Centre] in Linköping, Sweden.
 
 His main responsibility is for operations for SweStore – the Swedish Storage Initiative. His Tier-1 work involves operations for various support services.
- 
+
 {% include person.wiki id="tigerstedt" %}
 
 Ulf Tigerstedt is employed as a grid administrator at [http://www.csc.fi CSC] in Finland. He is responsible for the Nordic NGI (NGI_NDGF) and also performs general technical work for the NDGF Tier-1.
@@ -135,12 +135,12 @@ Niclas has a PhD in Microbiology from Uppsala University, and over the years he 
 {% include person.wiki id="viklund" %}
 
 Johan Viklund earned his PhD in Evolutionary Biology at Uppsala University. His thesis focused on phylogenomics of oceanic bacteria and mitochondria.
-
 Now he is working on the BILS Tools Platform, an initiative to create simple and secure web-based access to computational resources.
 
-{% include person.wiki id="lampa" %}
-
-Samuel is working at BILS as a systems developer, developing infrastructure, and tools for things like  automated storage (iRODS) graphical user interfaces, and workflow and data management.
+#{% include person.wiki id="tornroos" %}
+#
+#Juha is the guy who knows what is the difference of HTTP status codes 301 and 302, what is the fourth layer in OSI model, what is the opaque pointer and why it can not rain for two days in a row. He has a MSc in applied mathematics and computer science, solid background in software development and hands on experience of almost every modern programming language.
+#Juha works at CSC - IT Center for Science with 50/50 allocation both for NeIC Tryggve project and for the Open Research Initiative (ATT-hanke) in Finland.
 
 {% include person.wiki id="syed" %}
 

@@ -69,7 +69,7 @@ roblitz:
 wadenstein:
     name: Mattias Wadenstein
     home: HPC2N
-    country: SE
+    country: "SE"
     role: NT1 Coordinator
     image: /about/team/maswan.jpg
     email: maswan@ndgf.org
@@ -83,7 +83,7 @@ barth:
     name: Michaela Barth
     role: GEN Coordinator
     home: PDC
-    country: SE
+    country: "SE"
     image: /about/team/caela.jpg
     email: caela@kth.se
     phone: "P: +46 87 90 78 91"
@@ -97,7 +97,7 @@ hedlund:
     name: Joel Hedlund
     role: XO
     home: NSC
-    country: SE
+    country: "SE"
     image: /about/team/joel.jpg
     email: joel@nsc.liu.se
     phone: "M: +46 734 607126"
@@ -124,7 +124,7 @@ pennington:
     name: Rob Pennington
     role: Special advisor
     home: NeIC
-    country: US
+    country: "US"
     email: rlpennington1@gmail.com
     groups:
         - staff
@@ -134,7 +134,7 @@ pennington:
 behrmann:
     name: Gerd Behrmann
     role: Systems Software Specialist
-    country: DK
+    country: "DK"
     image: /about/team/gerd.jpg
     email: behrmann@ndgf.org
     phone: "M: +45 60 62 64 35"
@@ -142,13 +142,12 @@ behrmann:
         - staff
         - nt1
         - coderefinery-sg
-        - neic2017-pc
 
 pursula:
     name: Antti Pursula
     role: Tryggve Project Manager
     home: CSC
-    country: FI
+    country: "FI"
     image: /about/team/antti.jpg
     email: antti.pursula@csc.fi
     phone: "+358 50 3819537"
@@ -186,7 +185,7 @@ jonsson:
     name: Magnus Jonsson
     role: Developer
     home: HPC2N
-    country: SE
+    country: "SE"
     image: /about/team/magnus.jpg
     email: magnus@hpc2n.umu.se
     phone: "M: +46 767 660 735"
@@ -207,7 +206,7 @@ urkedal:
     name: Petter Urkedal
     role: Tier-1 Operations
     home: NBI
-    country: DK
+    country: "DK"
     image: /about/team/petter.jpg
     email: urkedal@nbi.dk
     phone: "M: +45 35 32 53 61"
@@ -219,7 +218,7 @@ larsson:
     name: Jens Larsson
     role: Tier-1 Operations
     home: NSC
-    country: SE
+    country: "SE"
     image: /about/team/jens.jpg
     email: jens@ndgf.org
     mobile: "P: +46 13 28 14 32"
@@ -231,7 +230,7 @@ tigerstedt:
     name: Ulf Tigerstedt
     role: Tier-1 Operations
     home: CSC
-    country: FI
+    country: "FI"
     image: /about/team/ulf.jpg
     email: ulf.tigerstedt@csc.fi
     phone: "M: +358 50 381 8558"
@@ -246,7 +245,7 @@ pedersen:
     image: /about/team/maiken.png
     email: maikenp@usit.uio.no
     phone: "M: +47 46628328"
-    group:
+    groups:
         - staff
         - nt1
         
@@ -266,7 +265,7 @@ white:
     name: John White
     role: E3DS Project Manager
     home: CERN
-    country: CH
+    country: "CH"
     image: /about/team/john.jpeg
     email: john.white@cern.ch
     groups:
@@ -276,7 +275,7 @@ edelmann:
     name: Erik Edelmann
     role: Tier-1 Operations
     home: CSC
-    country: FI
+    country: "FI"
     image: /about/team/erik.jpg
     email: erik.edelmann@csc.fi
     phone: "M: +358 50 381 9055"
@@ -289,7 +288,7 @@ smirnova:
     name: Oxana Smirnova
     role: CERN Liaison 
     home: LU
-    country: SE
+    country: "SE"
     image: /about/team/oxana.jpg
     email: oxana.smirnova@hep.lu.se
     phone: "M: +46 709 22 46 57"
@@ -313,18 +312,17 @@ freyhult:
     name: Pontus Freyhult
     role: Tryggve staff
     home: NBIS
-    country: SE
+    country: "SE"
     email: pontus.freyhult@it.uu.se
     groups:
         - staff
         - tryggve
-    
 
 hagberg:
     name: Jonas Hagberg
     role: Manager of system Development team
     home: NBIS
-    country: SE
+    country: "SE"
     email: jonas.hagberg@scilifelab.se
     phone: "M: +46 706683869"
     groups:
@@ -335,7 +333,7 @@ jareborg:
     name: Niclas Jareborg
     role: Tryggve staff
     home: NBIS
-    country: SE
+    country: "SE"
     email: niclas.jareborg@bils.se
     groups:
         - staff
@@ -346,7 +344,7 @@ viklund:
     name: Johan Viklund
     role: Tryggve staff
     home: NBIS
-    country: SE
+    country: "SE"
     email: johan.viklund@bils.se
     groups:
         - staff
@@ -356,41 +354,38 @@ lampa:
     name: Samuel Lampa
     role: Tryggve staff
     home: NBIS
-    country: SE
+    country: "SE"
     email: samuel.lampa@bils.se
     phone: "M: +46 70 207 3732"
-    groups:
-        - staff
-        - tryggve
 
 haziza:
     name: Frédéric Haziza
     role: Tryggve staff
     home: NBIS
-    country: SE
+    country: "SE"
     image: /about/team/frederic.jpg
     email: frederic.haziza@bils.se
     phone: 
     groups:
         - staff
         - tryggve
-    
+
 alarsson:
     name: Anders Larsson
     role: Tryggve staff
     home: NBIS
-    country: SE
+    country: "SE"
     email: anders.larsson@bils.se
     phone: 
     groups:
         - staff
         - tryggve
-    
+
 syed:
     name: Ali Syed
     role: Senior Cloud Architect
     home: CBS
-    country: DK
+    country: "DK"
     image: /about/team/ali.png
     email: alisyed@cbs.dtu.dk
     phone: "M: +45 60 90 46 46"
@@ -399,21 +394,21 @@ syed:
         - tryggve
 
 chmura:
-  fte: 0.5
-  name: Piotr Chmura
-  role: Tryggve staff
-  home: CPR
-  country: DK
-  email: piotr.chmura@cpr.ku.dk
-  groups:
-    - staff
-    - tryggve
+    fte: 0.5
+    name: Piotr Chmura
+    role: Tryggve staff
+    home: CPR
+    country: "DK"
+    email: piotr.chmura@cpr.ku.dk
+    groups:
+        - staff
+        - tryggve
 
 leinonen:
     name: Jaakko Leinonen
     role: Tryggve staff
     home: CSC
-    country: FI
+    country: "FI"
     email: jaakko.leinonen@csc.fi
     groups:
         - staff
@@ -439,12 +434,22 @@ iozzi:
     groups:
         - staff
         - tryggve
-    
+
+#tornroos:
+#    name: Juha Törnroos
+#    role: Tryggve staff
+#    home: CSC
+#    country: "FI"
+#    email: juha.tornroos@csc.fi
+#    groups:
+#        - staff
+#        - tryggve
+
 hochheim:
     name: Erland Hochheim
     role: Tryggve staff
     home: CBS
-    country: DK
+    country: "DK"
     image: /about/team/erland.jpeg
     email: erhh@dtu.dk
     phone: "M: +45 40952482"
@@ -452,21 +457,11 @@ hochheim:
         - staff
         - tryggve
 
-pennington:
-    name: Rob Pennington
-    role: Special advisor
-    home: NeIC
-    country: US
-    email: rlpennington1@gmail.com
-    groups:
-        - staff
-        - xt
-    
 longreen:
     name: Peter Løngreen
     role: Assisting head of ELIXIR DK
     home: CBS
-    country: DK
+    country: "DK"
     email:  peterl@cbs.dtu.dk
     groups:
         - tryggve-sg
@@ -475,7 +470,7 @@ nyronen:
     name: Tommi Nyrönen
     role: Head of ELIXIR FI (on leave)
     home: CSC
-    country: FI
+    country: "FI"
     email: tommi.nyronen@csc.fi
     groups:
         - tryggve-sg
@@ -484,7 +479,7 @@ lappalainen:
     name: Ilkka Lappalainen
     role: Senior manager, ELIXIR FI (represents CSC)
     home: CSC
-    country: FI
+    country: "FI"
     email: ilkka.lappalainen@csc.fi
     groups:
         - tryggve-rg
@@ -502,7 +497,7 @@ persson:
     name: Bengt Persson
     role: Head of ELIXIR SE
     home: NBIS
-    country: SE
+    country: "SE"
     email: bengt.persson@bils.se
     groups:
         - tryggve-sg
@@ -744,7 +739,7 @@ sonnhammer:
 nilsson:
     name: Maria Nilsson
     home: NordForsk
-    country: 
+    country: "NO"
     email: maria.nilsson@nordforsk.org
     role: Senior adviser, NordForsk
     groups:
@@ -795,4 +790,3 @@ lehtovuori:
     role: Director, CSC Services for Research
     groups:
         - neic2017-prg
-        
