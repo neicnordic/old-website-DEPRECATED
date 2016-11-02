@@ -317,7 +317,6 @@ freyhult:
     groups:
         - staff
         - tryggve
-    
 
 hagberg:
     name: Jonas Hagberg
@@ -370,7 +369,7 @@ haziza:
     groups:
         - staff
         - tryggve
-    
+
 alarsson:
     name: Anders Larsson
     role: Tryggve staff
@@ -381,7 +380,7 @@ alarsson:
     groups:
         - staff
         - tryggve
-    
+
 syed:
     name: Ali Syed
     role: Senior Cloud Architect
@@ -437,8 +436,8 @@ iozzi:
         - tryggve
 
 tornroos:
-    name: "Juha Törnroos"
-    role: "Tryggve staff"
+    name: Juha Törnroos
+    role: Tryggve staff
     home: CSC
     country: "FI"
     email: juha.tornroos@csc.fi
@@ -467,7 +466,7 @@ pennington:
     groups:
         - staff
         - xt
-    
+
 longreen:
     name: Peter Løngreen
     role: Assisting head of ELIXIR DK
