@@ -350,14 +350,6 @@ viklund:
         - staff
         - tryggve
 
-lampa:
-    name: Samuel Lampa
-    role: Tryggve staff
-    home: NBIS
-    country: "SE"
-    email: samuel.lampa@bils.se
-    phone: "M: +46 70 207 3732"
-
 haziza:
     name: Frédéric Haziza
     role: Tryggve staff
