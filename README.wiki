@@ -29,7 +29,7 @@ Howto:
 # Click the little pencil top right to "Edit this page".
 # Copy all the article text (click inside text box, Ctlr-A for select all, and Ctrl-C for copy).
 # Go back to the _posts/ directory.
-# Click the little plus next to the _posts/ folder title
+# Click the "Create new file" button top right.
 # Paste the article contents that you previously copied into the large text area.
 # Click the filename box, and add a title on the form:
 #* YYYY-MM-DD-some-title.wiki 
