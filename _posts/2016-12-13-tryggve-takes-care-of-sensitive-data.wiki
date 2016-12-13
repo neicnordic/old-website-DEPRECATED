@@ -26,7 +26,7 @@ If the Tryggve experts find that the requesting study fulfils the requirements, 
 
 “Up to now we have been in a pilot phase to develop the services,” says Mr Pursula, “but now, halfway through the project, we are far enough along that it is more a matter of testing the services in real-life situations and supporting the users. Each use case has different needs and we try to accommodate them, which requires fine-tuning and additional development. But otherwise it is actually the administrative and legal aspects that are taking up more time now.”
 
-==Legal advice essentiale==
+==Legal advice essential==
 
 If a researcher wishes to combine multiple data sets and if the work extends across national borders, it gives rise to challenges that are not only technical. “Sometimes different countries’ laws governing usage can be different, but there are also different regulations and practices,” says Mr Pursula. “This is a problem that is also found at the European and global levels.”
 
