@@ -8,8 +8,8 @@ image: "/media/Antti.jpg"
 
 '''Researchers seeking to share biomedical data between Nordic countries face both technical and legal hurdles. The joint Nordic project Tryggve offers services that address these challenges by allowing researchers to process and share data securely across national borders – without transferring sensitive data via poorly protected means such as USB drives or personal laptop computers.'''
 
-<a href="/media/Antti.jpg">
-<img class="smallpic" src="/media/Antti_small.jpg">
+<a href="/media/Antti_profile.jpg">
+<img class="smallpic" src="/media/Antti_profile.jpg">
 </a>
 
 “The challenge we are working on is how to make the vast amount of data on health and well-being available to researchers in a good way,” explains Antti Pursula of the CSC – IT Center for Science in Finland and project leader of the Tryggve project. “Health and registry data are very valuable for research, and great advances are being made in genetics and medical research thanks to this kind of data. At the same time, in legal terms this type of data falls into a category of sensitive personal data requiring that proper security measures are taken to protect the privacy of the participating individuals, such as making sure that all use of these data is authorised.”
