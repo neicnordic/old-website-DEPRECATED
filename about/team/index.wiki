@@ -97,7 +97,7 @@ Nilsen holds a PhD in High Energy Physics and was acting as deputy leader of the
 
 {% include person.wiki id="pedersen" %}
 
-Maiken Pedersen is located at the University of Oslo, [http://www.usit.uio.no/english/ University Center for Information Technology]. She has a background in high energy physics, with a PhD on Supersymmetry at the ATLAS detector at CERN. Pedersen is acting as ARC co-release manager together with Jon Nilsen, in addition to doing development tasks for the NDGF Tier-1. 
+Maiken Pedersen is located at the University of Oslo, [http://www.usit.uio.no/english/ University Center for Information Technology]. She has a background in high energy physics, with a PhD on Supersymmetry at the ATLAS detector at CERN. Pedersen is acting as ARC release manager, in addition to doing development tasks for the NDGF Tier-1. 
 
 {% include person.wiki id="white" %}
 
