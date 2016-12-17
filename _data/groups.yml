@@ -11,6 +11,13 @@ glenna:
 nt1:
     title: NT1
     
+bdi:
+    title: Biodiversity
+
+bdi-sg:
+    title: Biodiversity SG
+    heading: Biodiversity steering group
+
 tryggve:
     title: Tryggve
 
