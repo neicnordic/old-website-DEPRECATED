@@ -120,6 +120,18 @@ pettersen:
         - xt
         - neic2017-pc
 
+nordstokka:
+    name: Kine Nordstokkå
+    role: ADM Coordinator
+    home: NordForsk
+    country: "NO"
+    image: 
+    email: kine.nordstokka@nordforsk.org
+    phone: 
+    groups:
+        - staff
+        - xt
+
 pennington:
     name: Rob Pennington
     role: Special advisor
