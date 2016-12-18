@@ -18,6 +18,20 @@ bdi-sg:
     title: Biodiversity SG
     heading: Biodiversity steering group
 
+esm:
+    title: Earth System Modeling
+
+esm-sg:
+    title: Earth System Modeling SG
+    heading: Earth System Modeling steering group
+
+nlpl:
+    title: Nordic Language Processing Laboratory
+
+nlpl-sg:
+    title: Nordic Language Processing Laboratory SG
+    heading: Nordic Language Processing Laboratory steering group
+
 tryggve:
     title: Tryggve
 
