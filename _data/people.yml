@@ -58,7 +58,7 @@ roblitz:
     name: Thomas Röblitz
     home: USIT
     country: "NO"
-    role: XO
+    role: XO, project manager
     image: /about/team/thomas.jpg
     email: thomas.roblitz@usit.uio.no
     phone: "M: +47 4141 0799"
@@ -807,6 +807,83 @@ hanssen:
     role: Biodiversity staff
     email: frank.hanssen@nina.no
     phone: "M: +47 959 24 423"
+    groups:
+        - staff
+        - bdi
+
+obst:
+    name: Matthias Obst
+    home: University of Gothenburg
+    country: "SE"
+    role: Biodiversity staff/SG
+    email: matthias.obst@marine.gu.se
+    phone: "M: +46 31 7863827"
+    groups:
+        - staff
+        - bdi
+        - bdi-sg
+
+dettki:
+    name: Holger Dettki
+    home: Swedish University of Agricultural Sciences
+    country: "SE"
+    role: Biodiversity staff
+    email: holger.dettki@slu.se
+    phone: "M: +46 73 048 7872"
+    groups:
+        - staff
+        - bdi
+
+bladt:
+    name: Jesper Bladt
+    home: Aarhus University
+    country: "DK"
+    role: Biodiversity staff
+    email: jb@bios.au.dk
+    phone: "M: +45 9350 8686"
+    groups:
+        - staff
+        - bdi
+
+moeslund:
+    name: Jesper Erenskjold Moeslund
+    home: Aarhus University
+    country: "DK"
+    role: Biodiversity staff
+    email: jesper.moeslund@bios.au.dk
+    phone: "M: +45 2322 7111"
+    groups:
+        - staff
+        - bdi
+
+lauritzen:
+    name: Torben Lauritzen
+    home: Aarhus University
+    country: "DK"
+    role: Biodiversity staff
+    email: tol@bios.au.dk
+    phone: "M: +45 5186 3061"
+    groups:
+        - staff
+        - bdi
+
+lahti:
+    name: Tapani Lahti
+    home: University of Helsinki
+    country: "FI"
+    role: Biodiversity staff
+    email: tapani.lahti@helsinki.fi
+    phone: "M: +358 05044 86218"
+    groups:
+        - staff
+        - bdi
+
+birgisson:
+    name: Kjartan Birgisson
+    home: Icelandic Institute of Natural History
+    country: "IS"
+    role: Biodiversity staff
+    email: kjartan@ni.is
     groups:
         - staff
         - bdi
