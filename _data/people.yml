@@ -58,7 +58,7 @@ roblitz:
     name: Thomas Röblitz
     home: USIT
     country: "NO"
-    role: ENV Coordinator
+    role: XO
     image: /about/team/thomas.jpg
     email: thomas.roblitz@usit.uio.no
     phone: "M: +47 4141 0799"
@@ -66,6 +66,9 @@ roblitz:
         - staff
         - xt
         - bdi
+        - esm
+        - nlpl
+
 
 wadenstein:
     name: Mattias Wadenstein
@@ -796,3 +799,15 @@ lehtovuori:
     role: Director, CSC Services for Research
     groups:
         - neic2017-prg
+
+hanssen:
+    name: Frank Hanssen
+    home: NINA
+    country: "NO"
+    role: Biodiversity staff
+    email: frank.hanssen@nina.no
+    phone: "M: +47 959 24 423"
+    groups:
+        - staff
+        - bdi
+
