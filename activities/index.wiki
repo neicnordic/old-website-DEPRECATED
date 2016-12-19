@@ -15,6 +15,12 @@ Most NeIC activities are within collaborative projects with Nordic partners. The
 : A Nordic platform for sensitive BMS research data.
 ; [https://wiki.neic.no/wiki/EISCAT_3D_Support EISCAT 3D Support]
 : A project supporting the EISCAT 3D project. EISCAT 3D is a study of the upper atmosphere above the Arctic in order to investigate how the Earth's atmosphere is coupled to space.
+; [https://wiki.neic.no/wiki/Biodiversity Biodiversity]
+: A Nordic-Baltic Collaboration on e-Infrastructures for Biodiversity Informatics.
+; [https://wiki.neic.no/wiki/Nordic_ESGF/ESM Earth System Modelling]
+: A project focusing on Focus on competence sharing and building in the field of Earth System Modelling.
+; [https://wiki.neic.no/wiki/Natural_Language_Processing Natural Language Processing]
+: A project focused on the study of language and implementing new tools supporting this study.
 
 
 == Links ==
