@@ -3,7 +3,7 @@ title: Activities
 description: NeIC projects and operations.
 ---
 
-= Activities = 
+= Activities =
 Most NeIC activities are within collaborative projects with Nordic partners. NeIC also likes to build professional networks to join experts who work on similar challenges in different Nordic organizations. For example, NeIC does this by running workshops and building virtual social spaces for distributed teamwork.
 
 == Current projects ==
@@ -15,16 +15,15 @@ Most NeIC activities are within collaborative projects with Nordic partners. NeI
 : A project focusing on competence sharing and building in the field of Earth System Modelling.
 ; [https://wiki.neic.no/wiki/EISCAT_3D_Support EISCAT 3D Support]
 : A project supporting the EISCAT 3D project. EISCAT 3D is a study of the upper atmosphere above the Arctic in order to investigate how the Earth's atmosphere is coupled to space.
-; [http://wiki.neic.no/wiki/Glenna Glenna]
+; [[glenna|Glenna]]
 : Creating a Nordic federated cloud service and enabling knowledge exchange on managing cloud services.
 ; [https://wiki.neic.no/wiki/Natural_Language_Processing Natural Language Processing]
 : A project focusing on the study of language and implementing new supporting tools.
-; [http://neic.nordforsk.org/about/areas/nt1 Nordic Tier 1]
+; [[nt1|Nordic Tier 1]]
 : The Nordic distributed WLCG Tier-1 facility.
-; [http://wiki.neic.no/wiki/Tryggve Tryggve]
+; [[tryggve|Tryggve]]
 : A Nordic platform for sensitive BMS research data.
 
 == Links ==
 * [http://wiki.neic.no/wiki/Projects Past, present and potential projects] on the NeIC wiki.
 * The [http://wiki.neic.no/wiki/Collaboration NeIC collaboration package] on the NeIC wiki. Your comprehensive resource for setting up and running Nordic collaborations.
-

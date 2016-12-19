@@ -5,6 +5,8 @@ description: Hub for the Tryggve components
 
 = Tryggve =
 
+''For more information see the [https://wiki.neic.no/wiki/Tryggve Tryggve wiki].''
+
 Tryggve is a three-year project to establish a Nordic platform for
 collaboration on sensitive data, funded by NeIC and the ELIXIR nodes in
 Denmark, Finland, Norway and Sweden. The approach in the project is to utilize
@@ -23,5 +25,3 @@ analyze sensitive biomedical data, across Nordic countries.
 The name of the project ''Tryggve'' is a Nordic name that stems from Old Norse
 "tryggr", which was used to mean "trusty, faithful, true, safe", just as the
 word "trygg" still does in most Nordic languages.
-
-For more information see the [https://wiki.neic.no/wiki/Tryggve Tryggve wiki].
