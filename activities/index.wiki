@@ -13,8 +13,8 @@ Most NeIC activities are within collaborative projects with Nordic partners. The
 : Providing researchers with infrastructure and training in the necessary tools and techniques to create sustainable, modular, reusable, and reproducible software.
 ; [http://wiki.neic.no/wiki/Tryggve Tryggve]
 : A Nordic platform for sensitive BMS research data.
-; [http://wiki.neic.no/wiki/Glenna Glenna]
-: Creating a Nordic federated cloud service and enabling knowledge exchange on managing cloud services
+; [https://wiki.neic.no/wiki/EISCAT_3D_Support EISCAT 3D Support]
+: A project supporting the EISCAT 3D project. EISCAT 3D is a study of the upper atmosphere above the Arctic in order to investigate how the Earth's atmosphere is coupled to space.
 
 
 == Links ==
