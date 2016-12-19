@@ -8,7 +8,7 @@ Most NeIC activities are within collaborative projects with Nordic partners. The
 
 == Current projects ==
 ; [http://wiki.neic.no/wiki/Glenna Glenna]
-: Creating a Nordic federated cloud service and enabling knowledge exchange on managing cloud services
+: Creating a Nordic federated cloud service and enabling knowledge exchange on managing cloud services.
 ; [https://wiki.neic.no/wiki/CodeRefinery CodeRefinery]
 : Providing researchers with infrastructure and training in the necessary tools and techniques to create sustainable, modular, reusable, and reproducible software.
 ; [http://wiki.neic.no/wiki/Tryggve Tryggve]
@@ -21,6 +21,8 @@ Most NeIC activities are within collaborative projects with Nordic partners. The
 : A project focusing on competence sharing and building in the field of Earth System Modelling.
 ; [https://wiki.neic.no/wiki/Natural_Language_Processing Natural Language Processing]
 : A project focusing on the study of language and implementing new supporting tools.
+; [http://neic.nordforsk.org/about/areas/nt1 Nordic Tier 1]
+: The Nordic distributed WLCG Tier-1 facility.
 
 
 == Links ==
