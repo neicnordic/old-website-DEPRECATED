@@ -5,29 +5,38 @@ Description: Mission, goals and strategy.
 menu: 70
 ---
 
-= Mission and Goals =
-'''The vision of NeIC is to facilitate the development and operation of high 
-quality e-infrastructure solutions in areas of joint Nordic interest.'''
+= Vision =
+'''The vision of NeIC is to become a global role model for cross-border distributed and sustainable e-infrastructure services.'''
 
-=== NeIC supports the Nordic research community by ===
-* Supporting collaboration on e-Infrastructure in the Nordic region.
-* Providing added value to researchers and national funders.
-* Contributing to more cost-efficient development and deployment of e-Infrastructure services.
-* Supporting the national e-Infrastructure providers in terms of competence building, task sharing and joint operation of services.
+=== Strategy 2020 ===
+Enhance the productivity of researchers in the Nordic region beyond national efforts through new services, pooling competencies and sharing the resources of national e-infrastructure providers. Strengthen partnerships and prospects for long-term funding through active stakeholder dialogue to promote sustainable services.
 
-Collaboration on the development of new services will make broader use 
-of existing technical know-how across the Nordic countries and 
-facilitate the development of common services for a larger user community. 
-This will lead to added value for the user communities in the shape of a 
-wider range of available services tailored to their needs, increased 
-opportunities for Nordic collaboration and enhanced international competitiveness.
+=== Focus areas ===
+Pool competences:
+* Map skills, identify and prioritise needs
+* Establish NeIC and cross-border training programmes
+* Make NeIC more attractive to competent personnel
 
-=== Important goals are to ===
+Share resources:
+* Launch pilot projects to establish ambition levels
+* Create framework agreement (scope, CPU/storage)
+* Establish enabling processes and technologies
 
-* Develop a sustainable funding model and increase transparency in relation to costs and financing of activities.
-* Consolidate all major strategic decisions within the national e-infrastructure organizations.
-* Develop new services for Nordic research communities within the Bio- and Medical Sciences.
-* Ensure that The Nordic Tier-1 service is run cost-efficiently and as an example of excellence to other service providers within WLCG.
+Secure long-term funding
+* Map funding sources, modalities and application mechanisms
+* Agree on total funding and share from each funding source
+* Adapt to unaligned funding periods
 
-See also [https://wiki.neic.no/wiki/NeIC_Strategy_2016-2020 NeIC 2016-2020 strategy].
+Strengthen stakeholder dialogue
+* Map stakeholders and partnerships
+* Create engagement plan (frequency, means)
+* Implement stakeholder and partnership monitoring (incl. surveys)
+
+=== Mission ===
+Accelerate development and provisioning of cost-effective, best-in-class e-infrastructure services beyond national capabilities.
+
+=== Values guiding our work ===
+Motivated by providing added value to researchers and engaging actively with our stakeholders. Open, reliable and continuously striving to improve in our work.
+
+See also [https://wiki.neic.no/w/ext/img_auth.php/e/e9/151200-NeIC_Strategy-1Pager-final.pdf 2016-2020 strategy 1 pager] and [https://wiki.neic.no/wiki/NeIC_2016-2020_strategy_implementation_plan 2016- 2020 strategy implementation plan]
 
