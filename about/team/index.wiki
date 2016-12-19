@@ -87,12 +87,6 @@ His main responsibility is for operations for SweStore – the Swedish Storage I
 
 Ulf Tigerstedt is employed as a grid administrator at [http://www.csc.fi CSC] in Finland. He is responsible for the Nordic NGI (NGI_NDGF) and also performs general technical work for the NDGF Tier-1.
 
-{% include person.wiki id="nilsen" %}
-
-Jon Kerr Nilsen is located at the University of Oslo, [http://www.usit.uio.no/english/ University Center for Information Technology]. He has been involved in development of the NorduGrid ARC middleware for several years and is currently acting as ARC release manager in addition to doing development tasks for the NDGF Tier-1.
-
-Nilsen holds a PhD in High Energy Physics and was acting as deputy leader of the development work group during the EMI EU-project.
-
 {% include person.wiki id="pedersen" %}
 
 Maiken Pedersen is located at the University of Oslo, [http://www.usit.uio.no/english/ University Center for Information Technology]. She has a background in high energy physics, with a PhD on Supersymmetry at the ATLAS detector at CERN. Pedersen is acting as ARC release manager, in addition to doing development tasks for the NDGF Tier-1. 
