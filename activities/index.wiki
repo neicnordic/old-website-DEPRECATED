@@ -9,7 +9,7 @@ Most NeIC activities are within collaborative projects with Nordic partners. The
 == Current projects ==
 ; [http://wiki.neic.no/wiki/Glenna Glenna]
 : Creating a Nordic federated cloud service and enabling knowledge exchange on managing cloud services
-; [http://https://wiki.neic.no/wiki/CodeRefinery CodeRefinery]
+; [https://wiki.neic.no/wiki/CodeRefinery CodeRefinery]
 : Providing researchers with infrastructure and training in the necessary tools and techniques to create sustainable, modular, reusable, and reproducible software.
 ; [http://wiki.neic.no/wiki/Tryggve Tryggve]
 : A Nordic platform for sensitive BMS research data.
