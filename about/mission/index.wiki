@@ -7,13 +7,13 @@ menu: 70
 
 = NeIC Mission, Vision and Strategy =
 
-=== Vision (where) ===
+=== Vision ===
 The vision of NeIC is to become a global role model for cross-border distributed and sustainable e-infrastructure services.
 
-=== Strategy 2020 (how) ===
+=== Strategy 2020 ===
 Enhance the productivity of researchers in the Nordic region beyond national efforts through new services, pooling competencies and sharing the resources of national e-infrastructure providers. Strengthen partnerships and prospects for long-term funding through active stakeholder dialogue to promote sustainable services.
 
-=== Focus areas (what) ===
+=== Focus areas ===
 Pool competences:
 * Map skills, identify and prioritise needs
 * Establish NeIC and cross-border training programmes
@@ -34,10 +34,10 @@ Strengthen stakeholder dialogue:
 * Create engagement plan (frequency, means)
 * Implement stakeholder and partnership monitoring (incl. surveys)
 
-=== Mission (why) ===
+=== Mission ===
 Accelerate development and provisioning of cost-effective, best-in-class e-infrastructure services beyond national capabilities.
 
-=== Values (guiding our work) ===
+=== Values ===
 Motivated by providing added value to researchers and engaging actively with our stakeholders. Open, reliable and continuously striving to improve in our work.
 
 See also [https://wiki.neic.no/w/ext/img_auth.php/e/e9/151200-NeIC_Strategy-1Pager-final.pdf 2016-2020 strategy 1 pager] and [https://wiki.neic.no/wiki/NeIC_2016-2020_strategy_implementation_plan 2016- 2020 strategy implementation plan]
