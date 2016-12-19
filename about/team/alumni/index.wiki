@@ -24,4 +24,10 @@ Karan Singh worked as Systems Specialist CSC-IT Center for Science, Finland and 
 
 Gard Thomassen, PhD, Section manager for the Research Services group at the University Centre for IT at the University of Oslo. Gard was the Project leader for the TSD (Services for Sensitive Data) project at USIT. Gard worked in the Tryggve project team at the start of the project, and has moved since that into a role in the project Reference Group.
 
+=== Jon Kerr Nilsen ===
+
+Jon Kerr Nilsen is located at the University of Oslo, [http://www.usit.uio.no/english/ University Center for Information Technology]. He has been involved in development of the NorduGrid ARC middleware for several years and is currently acting as ARC release manager in addition to doing development tasks for the NDGF Tier-1.
+
+Nilsen holds a PhD in High Energy Physics and was acting as deputy leader of the development work group during the EMI EU-project.
+
 
