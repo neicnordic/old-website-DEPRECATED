@@ -1,6 +1,6 @@
 ---
 layout: menu
-title: Mission, vision and strategy
+title: Vision and strategy
 Description: Mission, goals and strategy.
 menu: 70
 ---
