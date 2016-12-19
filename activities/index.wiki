@@ -20,7 +20,7 @@ Most NeIC activities are within collaborative projects with Nordic partners. The
 ; [https://wiki.neic.no/wiki/Nordic_ESGF/ESM Earth System Modelling]
 : A project focusing on competence sharing and building in the field of Earth System Modelling.
 ; [https://wiki.neic.no/wiki/Natural_Language_Processing Natural Language Processing]
-: A project focusing on the study of language and implementing new tools supporting this study.
+: A project focusing on the study of language and implementing new supporting tools.
 
 
 == Links ==
