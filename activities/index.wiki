@@ -4,7 +4,7 @@ description: NeIC projects and operations.
 ---
 
 = Activities = 
-Most NeIC activities are within collaborative projects with Nordic partners. The most notable exception is the operations of the [http://neic.nordforsk.org/about/areas/nt1 Nordic WLCG Tier-1] facility, which are coordinated by NeIC. NeIC also likes to build professional networks to join experts who work on similar challenges in different Nordic organizations. For example, NeIC does this by running workshops and building virtual social spaces for distributed teamwork.
+Most NeIC activities are within collaborative projects with Nordic partners. NeIC also likes to build professional networks to join experts who work on similar challenges in different Nordic organizations. For example, NeIC does this by running workshops and building virtual social spaces for distributed teamwork.
 
 == Current projects ==
 ; [http://wiki.neic.no/wiki/Glenna Glenna]
