@@ -25,3 +25,9 @@ analyze sensitive biomedical data, across Nordic countries.
 The name of the project ''Tryggve'' is a Nordic name that stems from Old Norse
 "tryggr", which was used to mean "trusty, faithful, true, safe", just as the
 word "trygg" still does in most Nordic languages.
+
+=== Contact ===
+
+* [[/about/team/tryggve|Project Team]]
+* [[/about/team/tryggve-rg|Reference Group]]
+* [[/about/team/tryggve-sg|Steering Group]]
