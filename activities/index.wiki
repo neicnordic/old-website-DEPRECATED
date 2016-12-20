@@ -9,7 +9,7 @@ Most NeIC activities are within collaborative projects with Nordic partners. NeI
 == Current projects ==
 ; [https://wiki.neic.no/wiki/Biodiversity Biodiversity]
 : A Nordic-Baltic Collaboration on e-Infrastructures for Biodiversity Informatics.
-; [https://wiki.neic.no/wiki/CodeRefinery CodeRefinery]
+; [http://coderefinery.org/ CodeRefinery]
 : Providing researchers with infrastructure and training in the necessary tools and techniques to create sustainable, modular, reusable, and reproducible software.
 ; [https://wiki.neic.no/wiki/Nordic_ESGF/ESM Earth System Modelling]
 : A project focusing on competence sharing and building in the field of Earth System Modelling.
