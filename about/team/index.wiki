@@ -67,6 +67,11 @@ Dan Still is located at CSC - IT Center for Science Ltd in Finland and holds a 8
 
 Radovan Bast is employed in Tromsø (Norway) as a senior engineer in the High Performance Computing Group at UiT The Arctic University of Norway and contributes to advanced user and application support, code optimization and parallelization, and holds a 50 % position at NeIC. He has a PhD in theoretical chemistry and as code developer is contributing to a number of quantum chemistry programs. He enjoys learning new programming languages and approaches, and to teach programming to scientists.
 
+{% include person.wiki id="nordstokka" %}
+
+Kine works for NordForsk as an Advisor for the NeIC programme. She previously worked as Manager of Programmes and Partnerships at the Social Innovation Exchange, a global network for social innovation based in London. In this role she oversaw project management of European Commission projects, worked on network building and designed and implemented projects. Prior to this Kine held various positions at the Young Foundation, a think tank based in London. Her educational background is in development studies and political science. 
+
+
 {% include person.wiki id="jonsson" %}
 
 {% include person.wiki id="karpenko" %}
