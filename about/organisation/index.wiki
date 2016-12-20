@@ -6,19 +6,7 @@ description: NeIC organisation struture.
 
 = Organisation =
 
-The NeIC Board is responsible for setting priorities for the NeIC, and 
-reports to the NordForsk Board annually and otherwise on request.
+NordForsk is the host organisation for NeIC. The NordForsk Board has delegated responsibility for strategic decisions regarding computing and data-storage infrastructure and reaction to upcoming opportunities to the NeIC Board. The NeIC Board reports to the NordForsk Board and to the boards of the national eInfrastructure organisations on an annual basis.
 
-Activities are organised into four areas with dedicated area coordinators: 
-the Tier-1 service, Bio- and Medical Sciences, Generic Services, and 
-Administration. Projects are developed within each area in collaboration 
-with national partner institutions on a cost-sharing basis. New areas may 
-emerge in the future.
+NeIC is managed by an Executive Team chaired by the NeIC Director. In collaboration with national eInfrastructure providers and user-community representatives, NeIC engages IT experts to participate in projects and operational activities. Projects are developed in accordance with the directions set out in the Nordic eScience Action Plan 2.0 (2015).
 
-In collaboration with Nordic universities and institutions, the NeIC 
-employs IT experts in keeping with the requirements of the Nordic user 
-communities.
-
-Area coordinators reach out to and involve users and the national 
-e-Infrastructure provider organisations via dedicated stakeholder forums 
-to guide the development of services within the individual activity areas.
