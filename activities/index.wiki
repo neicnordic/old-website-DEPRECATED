@@ -14,7 +14,7 @@ Most NeIC activities are within collaborative projects with Nordic partners. NeI
 ; [https://wiki.neic.no/wiki/Nordic_ESGF/ESM Earth System Modelling]
 : A project focusing on competence sharing and building in the field of Earth System Modelling.
 ; [https://wiki.neic.no/wiki/EISCAT_3D_Support EISCAT 3D Support]
-: A project supporting the EISCAT 3D project. EISCAT 3D is a study of the upper atmosphere above the Arctic in order to investigate how the Earth's atmosphere is coupled to space.
+: This is a project run by NeIC to support the EISCAT_3D project in aspects related to e-infrastructure. EISCAT_3D will be an international research infrastructure using a radar system to study the upper atmosphere above the Arctic in order to investigate how the Earth's atmosphere is coupled to space.
 ; [[glenna|Glenna]]
 : Creating a Nordic federated cloud service and enabling knowledge exchange on managing cloud services.
 ; [https://wiki.neic.no/wiki/Natural_Language_Processing Natural Language Processing]
