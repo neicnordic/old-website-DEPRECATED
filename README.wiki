@@ -15,6 +15,14 @@ Keep in mind:
 
 Keep an eye out for the signs, and post to the right place!
 
+
+=== How to add yourself to https://neic.nordforsk.org/about/team/ ===
+
+# Add your info here: https://github.com/neicnordic/neicweb/blob/master/_data/people.yml
+# Upload a (small) photo to https://github.com/neicnordic/neicweb/tree/master/about/team
+# Add your bio to https://github.com/neicnordic/neicweb/blob/master/about/team/index.wiki - for {% include person.wiki id="host" %} use the id that you have entered in people.yml
+
+
 === How to make a news article ===
 Howto:
 # Prepare your pictures, pdfs and other media files. Please try to make your pictures "widescreen", or roughly 3:2, or 16:9. Consider making miniatures for very large pictures. Name the files so they match exactly what you want them to be on the server. 
