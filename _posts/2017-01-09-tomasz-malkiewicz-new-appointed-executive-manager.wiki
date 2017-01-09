@@ -1,9 +1,9 @@
 ---
-title: "Tomasz Malkiewicz new member of the Executive Management team at NeIC"
+title: "Tomasz Malkiewicz new member of the NeIC Executive Management team"
 summary: "Tomasz will be part of the NeIC Executive Team, where he will help implement strategy, contribute to future strategy development, coordinate NeIC’s activities on resource sharing and sensitive data collaboration, and initiate new technical projects."
 image: "/media/Tomasz.jpg"
 ---
-= Tomasz Malkiewicz new member of the Executive Management team at NeIC =
+= Tomasz Malkiewicz new member of the NeIC Executive Management team =
 
 <img class="smallpic" src="/media/Tomasz_small.jpg">
 
