@@ -888,3 +888,14 @@ birgisson:
         - staff
         - bdi
 
+wikfeldt:
+    name: Thor Wikfeldt
+    home: PDC Center for High-Performance Computing, KTH
+    country: "SE"
+    email: kthw@kth.se
+    role: Coderefinery Project Member
+    image: /media/thor_wikfeldt.jpg
+    phone: "M: +46 73 242 1159"
+    groups:
+        - staff
+        - coderefinery
