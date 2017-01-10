@@ -9,3 +9,5 @@ menu: 300
 ; [[/media/150904-Open-position-announcement-NeIC_PM_Collaborative_Infrastructure_for_Scientific_Software.pdf|NeIC is looking for a project manager]]
 : Apply before 31 October 2015.
 
+[https://neic.nordforsk.org/2016/11/29/Resource-sharing-PM.html NeIC is looking for a Resource Sharing Manager]
+: Apply before 31 January 2017
