@@ -7,7 +7,7 @@ menu: 300
 = Open positions =
 
 ; [https://neic.nordforsk.org/2016/11/29/Trainingcoordinator.html NeIC is looking for a Training Programme Manager]
-: Apply before 31 January 2017
+: Apply within 31 January 2017
 
 ; [https://neic.nordforsk.org/2016/11/29/Resource-sharing-PM.html NeIC is looking for a Resource Sharing Project Manager]
-: Apply before 31 January 2017
+: Apply within 31 January 2017
