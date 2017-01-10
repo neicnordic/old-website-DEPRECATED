@@ -894,7 +894,7 @@ wikfeldt:
     country: "SE"
     email: kthw@kth.se
     role: Coderefinery Project Member
-    image: /media/thor_wikfeldt.jpg
+    image: /media/thor_wikfeldt_small.jpg
     phone: "M: +46 73 242 1159"
     groups:
         - staff

@@ -174,3 +174,9 @@ Frédéric received his PhD in Computer Science from Uppsala University in the f
 Prior to joining NBIS, Frédéric worked for UPPMAX, where he was involved in setting up Smog, the first cloud service at UPPMAX, as well as bioimg.org, a catalogue of life science virtual machine images.
 
 At NBIS, Frédéric is working with OpenStack deployments, µ-Mosler, as well as front-end developments and a new Python course.
+
+{% include person.wiki id="wikfeldt" %}
+
+Thor Wikfeldt is located at the [https://www.pdc.kth.se/ PDC center for high-performance computing] at KTH, Stockholm, where he works as an application expert in molecular dynamics, 
+and holds a 50% position at NeIC where he works in the CodeRefinery project. 
+Thor obtained his PhD in physics from Stockholm University in 2011. 
