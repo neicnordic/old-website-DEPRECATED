@@ -899,3 +899,124 @@ wikfeldt:
     groups:
         - staff
         - coderefinery
+
+gupta:
+    name: Alok Kumar Gupta
+    home: Uni Research Climate
+    country: "NO"
+    role: Earth System Modeling staff
+    email: alok.gupta@uni.no
+    phone: "+47 555 89 802"
+    groups:
+        - staff
+        - esm
+
+bethke:
+    name: Ingo Bethke
+    home: Uni Research Climate
+    country: "NO"
+    role: Earth System Modeling staff
+    email: ingo.bethke@uni.no
+    phone: "+47 555 83 823"
+    groups:
+        - staff
+        - esm
+
+muri:
+    name: Helene Muri
+    home: University of Oslo
+    country: "NO"
+    role: Earth System Modeling staff
+    email: helene.muri@geo.uio.no
+    phone: "+47 228 44582"
+    groups:
+        - staff
+        - esm
+
+fouilloux:
+    name: Anne Claire Fouilloux
+    home: University of Oslo
+    country: "NO"
+    role: Earth System Modeling staff
+    email: a.c.fouilloux@geo.uio.no
+    phone: "+47 228 44779"
+    groups:
+        - staff
+        - esm
+
+kolax:
+    name: Michael Kolax
+    home: Swedish Meteorological and Hydrological Institute
+    country: "SE"
+    role: Earth System Modeling staff
+    email: michael.kolax@smhi.se
+    phone: "+46 11 495 86 85"
+    groups:
+        - staff
+        - esm
+
+wyser:
+    name: Klaus Wyser
+    home: Swedish Meteorological and Hydrological Institute
+    country: "SE"
+    role: Earth System Modeling staff
+    email: klaus.wyser@smhi.se
+    phone: "+46 11 495 84 64"
+    groups:
+        - staff
+        - esm
+
+lu:
+    name: Kai Lu
+    home: NSC
+    country: "SE"
+    role: Earth System Modeling staff
+    email: kai.lu@liu.se
+    phone: "+46 13 282 285"
+    groups:
+        - staff
+        - esm
+
+dwarakanath:
+    name: Prashanth Dwarakanath
+    home: NSC
+    country: "SE"
+    role: Earth System Modeling staff
+    email: prashanth.dwarakanath@liu.se
+    phone: "+46 13 281 068"
+    groups:
+        - staff
+        - esm
+
+yang:
+    name: Shuting Yang
+    home: Danish Meteorological Institute
+    country: "DK"
+    role: Earth System Modeling staff
+    email: shuting@dmi.dk
+    phone: "+45 3915 7463"
+    groups:
+        - staff
+        - esm
+
+keskinen:
+    name: Jukka-Pekka Keskinen
+    home: University of Helsinki
+    country: "FI"
+    role: Earth System Modeling staff
+    email: jukka-pekka.keskinen@helsinki.fi
+    phone: "M: +358 50 314 9428"
+    groups:
+        - staff
+        - esm
+
+odonnell:
+    name: Declan O'Donnell
+    home: Finnish Meteorological Institute
+    country: "FI"
+    role: Earth System Modeling staff
+    email: declan.odonnell@fmi.fi
+    groups:
+        - staff
+        - esm
+
