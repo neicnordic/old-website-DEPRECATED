@@ -35,10 +35,6 @@ Thomas has extensive experience in researching, designing, developing and operat
 
 Mattias Wadenstein has a background in systems administration from the High Performance Computing Center North [http://www.hpc2n.umu.se/ HPC2N], Umeå University, and has been working for the NDGF Tier-1 as systems integrator for most of the project’s lifetime. He is now Area Coordinator and is responsible for delivering the WLCG Tier-1 services to the LHC experiments.
 
-{% include person.wiki id="vitlacil" %}
-
-Dejan Vitlacil is employed at the [http://www.pdc.kth.se/ PDC Center for High Performance Computing], KTH Royal Institute of Technology, Stockholm and holds a 50% position at the NeIC as Generic Area Coordinator.
-
 {% include person.wiki id="hedlund" %}
 
 Joel Hedlund is located at the [http://www.nsc.liu.se National Supercomputer Centre (NSC)], Linköping University, and holds a 80% position at the NeIC. He was educated at Linköping University and has a Ph.D. in Bioinformatics, focusing on automated protein family definition and distributed computing. He has experience in coordination of distributed projects, community building and managing development projects for secure science gateways and persistent and accessible storage.
