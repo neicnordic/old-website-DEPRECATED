@@ -54,6 +54,20 @@ host:
         - xt
         - neic2017-prg
     
+barth:
+    name: Michaela Barth
+    role: Executive Manager
+    home: PDC
+    country: "SE"
+    image: /about/team/caela.jpg
+    email: caela@kth.se
+    phone: "P: +46 87 90 78 91"
+    groups:
+        - staff
+        - xt
+        - glenna-sg
+        - coderefinery-sg
+
 roblitz:
     name: Thomas Röblitz
     home: USIT
@@ -82,20 +96,6 @@ wadenstein:
         - staff
         - nt1
         - xt
-
-barth:
-    name: Michaela Barth
-    role: GEN Coordinator
-    home: PDC
-    country: "SE"
-    image: /about/team/caela.jpg
-    email: caela@kth.se
-    phone: "P: +46 87 90 78 91"
-    groups:
-        - staff
-        - xt
-        - glenna-sg
-        - coderefinery-sg
 
 hedlund:
     name: Joel Hedlund
