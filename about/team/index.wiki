@@ -106,6 +106,10 @@ Oxana Smirnova is employed at the [http://www.hep.lu.se/ Particle Physics divisi
 
 Smirnova is also one of the initiators and early users of the NorduGrid ARC middleware. She serves as the CERN Liaison at the NeIC, representing the NDGF Tier-1 vis-à-vis the Worldwide LHC Computing Grid.
 
+{% include person.wiki id="soettrup" %}
+
+Christian Ulrik Søttrup is located at the Niels Bohr Institute, University of Copenhagen. He has been involved with the NDGF Tier-1 since 2010. He is also a developer on the ARC grid software since 2006 and a systems administrator. He holds a Masters in Computing Science from the University of Copenhagen in 2005, and has been working with software development since 1996.
+
 {% include person.wiki id="li" %}
 
 Xiaxi Li is located at the Computational Biology Unit (CBU), University of Bergen, Norway. He is working in the NeIC's Tryggve project on sensitive data for the bio- and medical sciences. He has a background as a software engineer, and got the master degree in Software Engineering of Distributed Systems at KTH Royal Institute of Technology, Stockholm.

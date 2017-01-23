@@ -1020,3 +1020,12 @@ odonnell:
         - staff
         - esm
 
+soettrup:
+   name: Christian Ulrik Søttrup
+   role: Tier-1 Operations
+   home: NBI
+   country: "DK"
+   email: soettrup@nbi.dk
+   groups: 
+       - staff
+       - nt1
