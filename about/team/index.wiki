@@ -19,6 +19,12 @@ Prior to this he has held positions at the Research Council of Norway and the De
 
 He has served as Chair of the Steering Board of Nordic Data Grid Facility, and has played a key role in the planning of the Nordic eScience Initiative. He has participated in expert committees on e-Infrastructures under the auspices of the US National Science Foundation and the European Commission, and in The Netherlands, Sweden and South Africa. He served as Chair of the e-Infrastructures Reflection Group (e-IRG) from 2011 to 2012. Høst holds a Master’s degree in Fluid Mechanics and a Ph.D. in Science and Mathematical Statistics, both from the University of Oslo.
 
+{% include person.wiki id="barth" %}
+
+Michaela Barth is employed at the [http://www.pdc.kth.se/ PDC Center for High Performance Computing], KTH Royal Institute of Technology, Stockholm and holds a 50% position at the the NeIC. She was educated at the University of Innsbruck and has a Ph.D. in Natural Sciences, focusing on astrophysics and grid computing.
+
+Barth has extensive experience in project management and systems administration for distributed computing infrastructures at both the national and the European level, including her current role as national coordinator for the Partnership for Advanced Computing in Europe (PRACE) node in Sweden or her engagement within EUDAT.
+
 {% include person.wiki id="roblitz" %}
 
 Thomas Röblitz is located at the University of Oslo, University Center for Information Technology (USIT), and holds a 80% position at NeIC. He was educated at Humboldt University in Berlin, and holds a PhD in Computer Science focusing on Grid Resource management.
@@ -28,12 +34,6 @@ Thomas has extensive experience in researching, designing, developing and operat
 {% include person.wiki id="wadenstein" %}
 
 Mattias Wadenstein has a background in systems administration from the High Performance Computing Center North [http://www.hpc2n.umu.se/ HPC2N], Umeå University, and has been working for the NDGF Tier-1 as systems integrator for most of the project’s lifetime. He is now Area Coordinator and is responsible for delivering the WLCG Tier-1 services to the LHC experiments.
-
-{% include person.wiki id="barth" %}
-
-Michaela Barth is employed at the [http://www.pdc.kth.se/ PDC Center for High Performance Computing], KTH Royal Institute of Technology, Stockholm and holds a 80% position at the the NeIC. She was educated at the University of Innsbruck and has a Ph.D. in Natural Sciences, focusing on astrophysics and grid computing.
-
-Barth has extensive experience in project management and systems administration for distributed computing infrastructures at both the national and the European levels, including her current role as national coordinator for the Partnership for Advanced Computing in Europe (PRACE) node in Sweden.
 
 {% include person.wiki id="vitlacil" %}
 
