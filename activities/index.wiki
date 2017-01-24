@@ -22,7 +22,7 @@ Most NeIC activities are within collaborative projects with Nordic partners. NeI
 ; [[nt1|Nordic Tier 1]]
 : The Nordic distributed WLCG Tier-1 facility.
 ; [[tryggve|Tryggve]]
-: A Nordic platform for sensitive BMS research data.
+: Nordic project on secure services for sensitive data.
 
 == Links ==
 * [http://wiki.neic.no/wiki/Projects Past, present and potential projects] on the NeIC wiki.
