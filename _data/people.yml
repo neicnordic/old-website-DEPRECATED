@@ -682,13 +682,6 @@ sundstrom:
     groups:
         - tryggve-rg
         
-bzhalava:
-    name: Davit Bzhalava
-    home: KI
-    country: "SE"
-    email: davit.bzhalava@ki.se
-    role: NIASC IT working group lead
-        
 wilkowski:
     name: Bartlomiej Wilkowski
     home: SSI
