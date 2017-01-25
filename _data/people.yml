@@ -688,8 +688,6 @@ bzhalava:
     country: "SE"
     email: davit.bzhalava@ki.se
     role: NIASC IT working group lead
-    groups:
-        - tryggve-rg
         
 wilkowski:
     name: Bartlomiej Wilkowski
