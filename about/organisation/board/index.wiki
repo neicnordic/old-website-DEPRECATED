@@ -21,7 +21,7 @@ Gunnar Bøe, Managing Director, Sigma2 AS, Norway, [mailto:gunnar.boe@uninett.no
 
 Steen Pedersen, Director, DeIC, Denmark, [mailto:sp@adm.dtu.dk sp@adm.dtu.dk]. Board Member since 01.01.2012
 
-Jon Ingi Einarsson, Director, RHnet, Iceland, [mailto:jie@rhnet.is]. Board member since 01.02.2017
+Jon Ingi Einarsson, Director, RHnet, Iceland, [mailto:jie@rhnet.is jie@rhnet.is]. Board member since 01.02.2017
 
 == Documents ==
 * [https://wiki.neic.no/wiki/Category:Board_meeting_minutes Board meeting minutes]
