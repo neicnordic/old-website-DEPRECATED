@@ -266,18 +266,6 @@ pedersen:
         - staff
         - nt1
         
-nilsen:
-    name: Jon Kerr Nilsen
-    role: ARC Release Manager
-    home: USIT
-    country: "NO"
-    image: /about/team/jon.jpg
-    email: j.k.nilsen@usit.uio.no
-    phone: "M: +47 40203659"
-    groups:
-        - staff
-        - nt1
-
 white:
     name: John White
     role: E3DS Project Manager
