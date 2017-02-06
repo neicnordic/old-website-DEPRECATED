@@ -190,7 +190,7 @@ bast:
     home: UiT
     country: "NO"
     email: radovan.bast@uit.no
-    role: Coderefinery Project Manager
+    role: CodeRefinery Project Manager
     image: /media/radovan-bast-mini.jpg
     phone: "M: +47 776 44 117"
     groups:
@@ -872,7 +872,7 @@ wikfeldt:
     home: PDC Center for High-Performance Computing, KTH
     country: "SE"
     email: kthw@kth.se
-    role: Coderefinery Project Member
+    role: CodeRefinery Project Member
     image: /media/thor_wikfeldt_small.jpg
     phone: "M: +46 73 242 1159"
     groups:
@@ -1014,7 +1014,7 @@ vathsavayi:
     home: CSC
     country: "FI"
     email: sriharsha.vathsavayi@csc.fi
-    role: Coderefinery Project Member
+    role: CodeRefinery Project Member
     image: /media/harsha_profile_pic.jpg
     phone: "M: +358 50 381 2785"
     groups:
