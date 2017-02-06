@@ -1008,3 +1008,15 @@ soettrup:
    groups: 
        - staff
        - nt1
+
+vathsavayi:
+    name: Sri Harsha Vathsavayi
+    home: CSC
+    country: "FI"
+    email: sriharsha.vathsavayi@csc.fi
+    role: Coderefinery Project Member
+    image: /media/harsha_profile_pic.jpg
+    phone: "M: +358 50 381 2785"
+    groups:
+        - staff
+        - coderefinery

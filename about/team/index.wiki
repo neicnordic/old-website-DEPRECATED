@@ -179,3 +179,7 @@ At NBIS, Frédéric is working with OpenStack deployments, µ-Mosler, as well as
 Thor Wikfeldt is located at the [https://www.pdc.kth.se/ PDC center for high-performance computing] at KTH, Stockholm, where he works as an application expert in molecular dynamics, 
 and holds a 50% position at NeIC where he works in the CodeRefinery project. 
 Thor obtained his PhD in physics from Stockholm University in 2011. 
+
+{% include person.wiki id="vathsavayi" %}
+
+Sri Harsha Vathsavayi is part of the CodeRefinery project. He received his PhD in software engineering from Tampere University of Technology in 2016. He is currently working as software specialist at CSC-IT Center for Science, Finland. 
