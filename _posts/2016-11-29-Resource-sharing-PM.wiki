@@ -8,7 +8,7 @@ image: /media/Resource sharing img.png
 
 '''NeIC is looking for a Project Manager to implement a main component of the NeIC strategy. The envisioned outcome of the resource sharing project is a set of e-infrastructure policies, common processes and associated framework that forms a Nordic platform for providing services to share resources in an effective and consistent manner.'''
 
-<a href="/media/Resource sharing img.png/">
+<a href="/media/Resource sharing img.png">
 <img class="smallpic" src="/media/Resource sharing img.png">
 </a>
 

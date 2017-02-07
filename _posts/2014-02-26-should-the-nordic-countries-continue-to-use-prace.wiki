@@ -60,7 +60,7 @@ Dr Høst continues:
 
 - I’m also glad to learn that the committee concludes that the NeIC is a well-suited instrument for coordinating and cooperating on high-performance computing. Furthermore, the committee recommends that a future strategy for Nordic collaboration on high-performance computing is based on future research challenges. An important next step would be to build a scientific case through translation of researcher needs into technical requirements.
 
-== [http://neic.nordforsk.org/publications/evaluation-of-the-nordic-participation-in-prace Evaluation of the Nordic Participation in PRACE] ==
+== [https://neic.nordforsk.org/media/2014-prace-report-final.pdf Evaluation of the Nordic Participation in PRACE] ==
 
 === Members of the evaluation committee: ===
 
