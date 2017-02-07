@@ -8,7 +8,7 @@ module Jekyll
     end
     
     def add_item(baseurl, page)
-      return "<li><a href=\"#{baseurl}#{page.dir}\">#{page.data['title']||page.dir}</a></li>"
+      return "<li><a href=\"#{baseurl}#{page.dir}/\">#{page.data['title']||page.dir}</a></li>"
     end
     
     def render(context)
