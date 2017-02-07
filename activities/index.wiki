@@ -8,17 +8,17 @@ Most NeIC activities are within collaborative projects with Nordic partners. NeI
 
 == Current projects ==
 ; [https://wiki.neic.no/wiki/Biodiversity Biodiversity]
-: A Nordic-Baltic Collaboration on e-Infrastructures for Biodiversity Informatics.
+: Nordic-Baltic Collaboration on e-Infrastructures for Biodiversity Informatics.
 ; [http://coderefinery.org/ CodeRefinery]
 : Providing researchers with infrastructure and training in the necessary tools and techniques to create sustainable, modular, reusable, and reproducible software.
-; [https://wiki.neic.no/wiki/Nordic_ESGF/ESM Earth System Modelling]
+; [https://wiki.neic.no/wiki/Earth_System_Modeling Earth System Modeling]
 : A project focusing on competence sharing and building in the field of Earth System Modelling.
 ; [https://wiki.neic.no/wiki/EISCAT_3D_Support EISCAT 3D Support]
 : A project supporting the EISCAT_3D project in aspects related to e-infrastructure. EISCAT_3D will be an international research infrastructure using a radar system to study the upper atmosphere above the Arctic in order to investigate how the Earth's atmosphere is coupled to space.
 ; [[glenna|Glenna]]
 : Creating a Nordic federated cloud service and enabling knowledge exchange on managing cloud services.
-; [https://wiki.neic.no/wiki/Natural_Language_Processing Natural Language Processing]
-: A project focusing on the study of language and implementing new supporting tools.
+; [https://wiki.neic.no/wiki/Nordic_Language_Processing_Laboratory Nordic Language Processing Laboratory]
+: Our vision is to implement a Nordic virtual laboratory for Natural Language Processing by piloting innovative ways to share HPC and data resources across country borders, by pooling competency in expert support teams and within the user community, and by enabling internationally competitive, data-intensive research and experimentation.
 ; [[nt1|Nordic Tier 1]]
 : The Nordic distributed WLCG Tier-1 facility.
 ; [[tryggve|Tryggve]]
