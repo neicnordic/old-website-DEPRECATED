@@ -1020,3 +1020,17 @@ vathsavayi:
     groups:
         - staff
         - coderefinery
+
+malkiewicz:
+    name: Tomasz Malkiewicz
+    role: Executive Manager
+    home: CSC
+    country: "FI"
+    email: tomasz.malkiewicz@csc.fi
+    groups:
+        - staff
+        - xt
+        - dellingr
+        - dellingr-sg
+        - nlpl-sg
+
