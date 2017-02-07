@@ -10,7 +10,7 @@ module Jekyll
     end
     
     def add_item(page,page_url,section,is_current)
-      return "<li id='portaltab-#{section}' class='#{is_current ? 'selected' : 'plain'}'><a href='#{page_url}'>#{page.data['title']||page.dir}</a></li>"
+      return "<li id='portaltab-#{section}' class='#{is_current ? 'selected' : 'plain'}'><a href='#{page_url}/'>#{page.data['title']||page.dir}</a></li>"
     end
     
     def render(context)
