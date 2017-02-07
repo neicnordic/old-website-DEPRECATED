@@ -32,6 +32,13 @@ nlpl-sg:
     title: Nordic Language Processing Laboratory SG
     heading: Nordic Language Processing Laboratory steering group
 
+dellingr:
+    title: Nordic Collaboration on Resource Sharing
+
+dellingr-sg:
+    title: Dellingr SG
+    heading: Dellingr steering group
+
 tryggve:
     title: Tryggve
 
