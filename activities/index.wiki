@@ -25,5 +25,5 @@ Most NeIC activities are within collaborative projects with Nordic partners. NeI
 : Nordic project on secure services for sensitive data.
 
 == Links ==
-* [http://wiki.neic.no/wiki/Projects Past, present and potential projects] on the NeIC wiki.
-* The [http://wiki.neic.no/wiki/Collaboration NeIC collaboration package] on the NeIC wiki. Your comprehensive resource for setting up and running Nordic collaborations.
+* [https://wiki.neic.no/wiki/Projects Past, present and potential projects] on the NeIC wiki.
+* The [https://wiki.neic.no/wiki/Collaboration NeIC collaboration package] on the NeIC wiki. Your comprehensive resource for setting up and running Nordic collaborations.
