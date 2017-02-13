@@ -183,3 +183,8 @@ Thor obtained his PhD in physics from Stockholm University in 2011.
 {% include person.wiki id="vathsavayi" %}
 
 Sri Harsha Vathsavayi is part of the CodeRefinery project. He received his PhD in software engineering from Tampere University of Technology in 2016. He is currently working as software specialist at CSC-IT Center for Science, Finland. 
+
+{% include person.wiki id="sabryr" %}
+
+Sabry Razick is member of the CodeRefinery project. He is working at the University of Oslo
+
