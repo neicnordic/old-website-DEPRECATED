@@ -1034,3 +1034,13 @@ malkiewicz:
         - dellingr-sg
         - nlpl-sg
 
+sabryr:
+    name: Sabry Razick
+    home: UiO
+    country: "NO"
+    email: sabry.razick@usit.uio.no
+    role: CodeRefinery Project Member
+    image: /media/sabryr.jpg
+    phone: "M: +4793870788"
+    groups:
+        - coderefinery
