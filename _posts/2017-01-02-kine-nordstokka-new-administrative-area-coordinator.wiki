@@ -1,9 +1,9 @@
 ---
-title: "Kine Nordstokkå new NeIC administrative area coordinator"
+title: "Kine Nordstokkå new NeIC coordinator"
 summary: "Kine will work at the NeIC secretariat in Oslo to coordinate and support the growing portfolio of projects and NeIC team across the Nordic region."
 image: "/media/kine.jpg"
 ---
-= Kine Nordstokkå new administrative area coordinator for NeIC =
+= Kine Nordstokkå new coordinator for NeIC =
 
 <img class="smallpic" src="/media/kine.jpg">
 
