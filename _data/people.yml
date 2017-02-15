@@ -1044,3 +1044,15 @@ sabryr:
     phone: "M: +4793870788"
     groups:
         - coderefinery
+
+denissov:
+    name: Nikolai Denissov
+    home: CSC
+    country: "FI"
+    email: nikolai.denissov@csc.fi
+    role: CodeRefinery Project Member
+    image: /media/nikolai.jpg
+    phone: "M: +358 40 159 0188"
+    groups:
+        - staff
+        - coderefinery

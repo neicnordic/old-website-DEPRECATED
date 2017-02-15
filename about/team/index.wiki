@@ -188,3 +188,7 @@ Sri Harsha Vathsavayi is part of the CodeRefinery project. He received his PhD i
 
 Sabry Razick is member of the CodeRefinery project. He is working at the University of Oslo
 
+
+{% include person.wiki id="denissov" %}
+
+Nikolai Denissov is doing Web Software Development for various projects at [https://www.csc.fi/ CSC-IT Center for Science] in Greater Helsinki area, Finland. CodeRefinery project member since 2016.
