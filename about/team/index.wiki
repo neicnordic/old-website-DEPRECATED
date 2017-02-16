@@ -192,3 +192,6 @@ Sabry Razick is member of the CodeRefinery project. He is working at the Univers
 {% include person.wiki id="denissov" %}
 
 Nikolai Denissov is doing Web Software Development for various projects at [https://www.csc.fi/ CSC-IT Center for Science] in Greater Helsinki area, Finland. CodeRefinery project member since 2016.
+
+{% include persoin.wiki id="lindi" %}
+Bjørn Lindi is working as a Research Software Engineer at the HPC-group at NTNU. He is participating in the CodeRefinery- and the Dellingr-project.

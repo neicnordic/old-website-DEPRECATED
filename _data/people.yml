@@ -1056,3 +1056,15 @@ denissov:
     groups:
         - staff
         - coderefinery
+        
+lindi:
+    name: Bjørn Lindi
+    home: NTNU
+    country: "NO"
+    email: bjorn.lindi@ntnu.no
+    role: Project Member
+    image: /media/lindi.jpg
+    phome: "M: +47 918 418 71"
+    groups:
+        - dellingr
+        - coderefinery
