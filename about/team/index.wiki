@@ -8,6 +8,8 @@ menu: 50
 
 == How to find us ==
 
+image: "/media/stensberggata_25.JPG"
+
 The NeIC is located at NordForsk in central Oslo, Stensberggata 25, 0170 Oslo. When you arrive at Stensberggata 25 please find the entrance with NordForsk signage. Once inside you will find door 25A on your right hand side. Take the lift up to floor 8 and you will arrive at NordForsk offices where we are based. 
 
 [http://maps.google.no/maps?f=q&source=s_q&hl=no&geocode=+&q=stensberggata+25,+oslo&aq=+&sll=61.143235,9.09668&sspn=18.368471,53.569336&ie=UTF8&hq=+&hnear=Stensberggata+25,+Sankt+Hanshaugen,+0170+Oslo&z=16 Click here for map]
