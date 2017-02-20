@@ -6,8 +6,4 @@ menu: 300
 
 = Open positions =
 
-; [https://neic.nordforsk.org/2016/11/29/Trainingcoordinator.html NeIC is looking for a Training Programme Manager]
-: Apply within 31 January 2017
-
-; [https://neic.nordforsk.org/2016/11/29/Resource-sharing-PM.html NeIC is looking for a Resource Sharing Project Manager]
-: Apply within 31 January 2017
+There are currently no open positions at NeIC
