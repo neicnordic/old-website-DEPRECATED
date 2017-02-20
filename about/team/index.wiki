@@ -6,10 +6,13 @@ menu: 50
 = NeIC Team and Contact =
 '''We are a distributed organisation consisting of administration and technical experts working at NordForsk, university IT-centres, and national e-infrastructure centers in the Nordics.'''
 
-The NeIC is located at NordForsk in central Oslo, Stensberggata 25, 0170 Oslo, Norway, together with the Nordic organisations Nordic Innovation Centre and Nordic Energy Research.
+== How to find us ==
+
+The NeIC is located at NordForsk in central Oslo, Stensberggata 25, 0170 Oslo. When you arrive at Stensberggata 25 please find the entrance with NordForsk signage. Once inside you will find door 25A on your right hand side. Take the lift up to floor 8 and you will arrive at NordForsk offices where we are based. 
 
 [http://maps.google.no/maps?f=q&source=s_q&hl=no&geocode=+&q=stensberggata+25,+oslo&aq=+&sll=61.143235,9.09668&sspn=18.368471,53.569336&ie=UTF8&hq=+&hnear=Stensberggata+25,+Sankt+Hanshaugen,+0170+Oslo&z=16 Click here for map]
 
+== Team ==
 
 {% include person.wiki id="host" %}
 
