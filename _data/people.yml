@@ -1040,7 +1040,7 @@ sabryr:
     country: "NO"
     email: sabry.razick@usit.uio.no
     role: CodeRefinery Project Member
-    image: /media/sabryr.jpg
+    image: /about/team/sabryr.jpg
     phone: "M: +4793870788"
     groups:
         - coderefinery
