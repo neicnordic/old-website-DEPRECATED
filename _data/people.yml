@@ -1068,3 +1068,13 @@ lindi:
     groups:
         - dellingr
         - coderefinery
+
+suvilehto:
+    name: Jyry Suvilehto
+    home: CSC
+    country: "FI"
+    email: jyry.suvilehto@iki.fi
+    role: CodeRefinery Project Member
+    phome:
+    groups:
+        - coderefinery
