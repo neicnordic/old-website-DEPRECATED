@@ -42,9 +42,7 @@ Mattias Wadenstein has a background in systems administration from the High Perf
 
 {% include person.wiki id="hedlund" %}
 
-Joel Hedlund is located at the [http://www.nsc.liu.se National Supercomputer Centre (NSC)], Linköping University, and holds a 80% position at the NeIC. He was educated at Linköping University and has a Ph.D. in Bioinformatics, focusing on automated protein family definition and distributed computing. He has experience in coordination of distributed projects, community building and managing development projects for secure science gateways and persistent and accessible storage.
-
-Hedlund is currently engaged as an Application Expert in Bioinformatics at the Swedish e-Science Research Centre.
+Joel Hedlund is located at the  [National Supercomputer Centre (NSC)](http://www.nsc.liu.se), Linköping University, and holds a 80% position as NeIC senior advisor in the executive team. He was educated at Linköping University and has a Ph.D. in Bioinformatics, focusing on developing machine learning methods for automated protein family definition using distributed computing. During the last few years in NeIC Joel has developed the framework for NeIC's engagements in infrastructure for research on sensitive data, as well as the NeIC model for stakeholder engagement and developed NeIC's collaboration infrastructure. 
 
 {% include person.wiki id="pettersen" %}
 
