@@ -1,7 +1,7 @@
 # List of people associated with NeIC
 # ===================================
 #
-# This is used automatically generate web pages and apis to show staff 
+# This is used automatically generate web pages and apis to show staff
 # listings, contact info tables, etc... This info is shown on the official
 # website, internal and external wikis, etc...
 #
@@ -9,7 +9,7 @@
 # ===================
 #
 # For geeks: This is a YAML hashmap of hashmaps.
-# 
+#
 # Each person has a block of key:value informaton. Example:
 #
 # host: # <personid> must be unique, recommended is anglified lowercase last name.
@@ -20,25 +20,25 @@
 #     role: "Director" # Short and snappy, suitable for tables.
 #     image: "/about/team/gudmund.jpg"
 #     phone: "+4795816846" # Some people like to prefix this with M: (for mobile).
-#     groups: # list IDs for groups the person is part of (see _data/groups.yml). 
+#     groups: # list IDs for groups the person is part of (see _data/groups.yml).
 #         - staff # Only if currently on service contract with NeIC.
-#         - xt 
+#         - xt
 #         - and
 #         - possibly
-#         - others 
+#         - others
 #
 # Be meticulous about indentation or jekyll will yell at you (recommended: exactly four spaces).
 #
-# It is a good idea to put "quotes" around all values, although "it should work anyway". 
+# It is a good idea to put "quotes" around all values, although "it should work anyway".
 # Except when it doesn't. For example if left unquoted, Gudmund's phone number above would
 # be read as a large positive integer number and would be displayed without the leading plus
-# character. Also his country would be shown as being FALSE, which could be interpreted as 
+# character. Also his country would be shown as being FALSE, which could be interpreted as
 # extremely funny for example to Swedish persons.
-# 
+#
 # If you mess up
 # ==============
 #
-# After any changes, check: https://neic.nordforsk.org/int/status/neicweb.txt 
+# After any changes, check: https://neic.nordforsk.org/int/status/neicweb.txt
 # It will tell you if you did good or if you messed up, and if you did, what (hopefully).
 
 host:
@@ -53,7 +53,7 @@ host:
         - staff
         - xt
         - neic2017-prg
-    
+
 barth:
     name: Michaela Barth
     role: Executive Manager
@@ -92,7 +92,7 @@ wadenstein:
     image: /about/team/maswan.jpg
     email: maswan@ndgf.org
     phone: "M: +46 70 79 69 46 2"
-    groups: 
+    groups:
         - staff
         - nt1
         - xt
@@ -206,7 +206,7 @@ jonsson:
     image: /about/team/magnus.jpg
     email: magnus@hpc2n.umu.se
     phone: "M: +46 767 660 735"
-    
+
 karpenko:
     name: Dmytro Karpenko
     role: Tier-1 Operations
@@ -215,7 +215,7 @@ karpenko:
     image: /about/team/dmytro.jpeg
     email: dmytro.karpenko@usit.uio.no
     phone: "M: +47 9577 6417"
-    groups: 
+    groups:
         - staff
         - nt1
 
@@ -227,7 +227,7 @@ urkedal:
     image: /about/team/petter.jpg
     email: urkedal@nbi.dk
     phone: "M: +45 35 32 53 61"
-    groups: 
+    groups:
         - staff
         - nt1
 
@@ -265,7 +265,7 @@ pedersen:
     groups:
         - staff
         - nt1
-        
+
 white:
     name: John White
     role: E3DS Project Manager
@@ -275,7 +275,7 @@ white:
     email: john.white@cern.ch
     groups:
         - staff
-        
+
 edelmann:
     name: Erik Edelmann
     role: Tier-1 Operations
@@ -291,7 +291,7 @@ edelmann:
 
 smirnova:
     name: Oxana Smirnova
-    role: CERN Liaison 
+    role: CERN Liaison
     home: LU
     country: "SE"
     image: /about/team/oxana.jpg
@@ -362,7 +362,7 @@ haziza:
     country: "SE"
     image: /about/team/frederic.jpg
     email: frederic.haziza@bils.se
-    phone: 
+    phone:
     groups:
         - staff
         - tryggve
@@ -373,7 +373,7 @@ alarsson:
     home: NBIS
     country: "SE"
     email: anders.larsson@bils.se
-    phone: 
+    phone:
     groups:
         - staff
         - tryggve
@@ -499,7 +499,7 @@ persson:
     groups:
         - tryggve-sg
         - neic2017-prg
-        
+
 gsingh:
     name: Gurvinder Singh
     home: UNINETT
@@ -519,7 +519,7 @@ huluka:
         - glenna
 
 dragseth:
-    name: Roy Dragseth 
+    name: Roy Dragseth
     home: UiT
     country: "NO"
     email: Roy.Dragseth@uit.no
@@ -528,55 +528,55 @@ dragseth:
         - glenna
 
 grawert:
-    name: Uwe Grawert 
+    name: Uwe Grawert
     home: CSC
     country: "FI"
-    email: uwe.grawert@csc.fi 
+    email: uwe.grawert@csc.fi
     role: Glenna Staff
     groups:
         - staff
         - glenna
 
 laurikainen:
-    name: Risto Laurikainen  
+    name: Risto Laurikainen
     home: CSC
     country: "FI"
-    email: risto.laurikainen@csc.fi 
+    email: risto.laurikainen@csc.fi
     role: Glenna Staff
     groups:
         - staff
         - glenna
-        
+
 tourunen:
-    name: Olli Tourunen  
+    name: Olli Tourunen
     home: CSC
     country: "FI"
-    email: olli.tourunen@csc.fi 
+    email: olli.tourunen@csc.fi
     role: Glenna Staff
     groups:
         - staff
-        - glenna 
-        
+        - glenna
+
 sveinbjornsson:
-    name: Hjörleifur Sveinbjörnsson 
-    home: University of Iceland 
+    name: Hjörleifur Sveinbjörnsson
+    home: University of Iceland
     country: "IS"
     email: hs@hi.is
     role: Glenna Staff
     groups:
         - staff
-        - glenna 
+        - glenna
 
 gislason:
     name: Magnús Gíslason
-    home: University of Iceland 
+    home: University of Iceland
     country: "IS"
     email: magnus@hi.is
     role: Glenna Staff
     groups:
         - staff
-        - glenna 
-        
+        - glenna
+
 markus:
     name: Diba Markus
     home: DeIC
@@ -585,7 +585,7 @@ markus:
     role: Glenna Staff
     groups:
         - staff
-        - glenna 
+        - glenna
 
 hellander:
     name: Andreas Hellander
@@ -595,7 +595,7 @@ hellander:
     role: Associate professor
     groups:
         - glenna-sg
-        
+
 toor:
     name: Salman Toor
     home: Uppsala University
@@ -604,19 +604,19 @@ toor:
     role: Glenna Staff
     groups:
         - glenna
-        
+
 fallman:
     name: Ingemar Fällman
     home: Umeå University
     country: "SE"
-    email: ingemar.fallman@umu.se 
+    email: ingemar.fallman@umu.se
     role: Glenna Staff
     groups:
         - glenna
-        
+
 eide:
     name: Hans Eide
-    home: UiO 
+    home: UiO
     country: "NO"
     email: h.a.eide@usit.uio.no
     role: Dep.head USIT
@@ -633,7 +633,7 @@ bech:
     role: Head of NREN DeIC
     groups:
         - glenna-sg
-        
+
 jonsson:
     name: Sæþór L. Jónsson
     home: University of Iceland
@@ -642,7 +642,7 @@ jonsson:
     role: Director, Computing Services
     groups:
         - glenna-sg
-        
+
 tarus:
     name: Jura Tarus
     home: CSC
@@ -651,7 +651,7 @@ tarus:
     role: Development manager
     groups:
         - glenna-sg
-        
+
 thomassen:
     name: Gard Thomassen
     home: USIT
@@ -660,7 +660,7 @@ thomassen:
     role: Director at USIT, UiO (represents Sigma2)
     groups:
         - tryggve-rg
-        
+
 sundstrom:
     name: Karin Sundström
     home: KI
@@ -669,7 +669,7 @@ sundstrom:
     role: NIASC Research coordinator
     groups:
         - tryggve-rg
-        
+
 wilkowski:
     name: Bartlomiej Wilkowski
     home: SSI
@@ -678,7 +678,7 @@ wilkowski:
     role: Head of Danish biobank register
     groups:
         - tryggve-rg
-        
+
 bjerner:
     name: Tomas Bjerner
     home: UU
@@ -735,7 +735,7 @@ nilsson:
 
 salokannel:
     name: Marjut Salokannel
-    home: 
+    home:
     country: "FI"
     email: marjut.salokannel@sareco.fi
     role: Independent legal counsel
@@ -744,7 +744,7 @@ salokannel:
 
 apostolov:
     name: Rossen Apostolov
-    home: PDC 
+    home: PDC
     country: "SE"
     email: rossen@kth.se
     role: Project manager of BioExcel CoE
@@ -753,7 +753,7 @@ apostolov:
 
 andersen:
     name: "Lene Krøl Andersen"
-    home: DeIC 
+    home: DeIC
     country: "DK"
     email: "lene.krol.andersen@deic.dk"
     role: Head of DeIC eScience Center
@@ -763,7 +763,7 @@ andersen:
 
 louhivuori:
     name: Martti Louhivuori
-    home: CSC 
+    home: CSC
     country: "FI"
     email: "martti.louhivuori@csc.fi"
     role: "HPC specialist at CSC"
@@ -1005,7 +1005,7 @@ soettrup:
    home: NBI
    country: "DK"
    email: soettrup@nbi.dk
-   groups: 
+   groups:
        - staff
        - nt1
 
@@ -1056,7 +1056,7 @@ denissov:
     groups:
         - staff
         - coderefinery
-        
+
 lindi:
     name: Bjørn Lindi
     home: NTNU
