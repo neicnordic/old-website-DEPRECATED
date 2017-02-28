@@ -198,3 +198,8 @@ Nikolai Denissov is doing Web Software Development for various projects at [http
 
 {% include person.wiki id="lindi" %}
 Bjørn Lindi is working as a Research Software Engineer at the HPC-group at NTNU. He is participating in the CodeRefinery- and the Dellingr-project.
+
+
+{% include person.wiki id="suvilehto" %}
+Jyry Suvilehto is a Software Specialist at [https://www.csc.fi/ CSC-IT Center
+for Science]. He is a member of the CodeRefinery project.
