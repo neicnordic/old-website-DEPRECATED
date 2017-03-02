@@ -125,7 +125,7 @@ His current focus is working with solutions for large scale storage to provide s
 
 {% include person.wiki id="hagberg" %}
 
-Jonas Hagberg is located ad Scilifelab Dalarna, where he isy the manager of the system development team a the National Bioinformatics Infrastructure Sweden - NBIS. A member of the Tryggve team and was the project manager and system architect of the Mosler secure computing system. Jonas has a MSc in bioinformatics at Uppsala University, and have worked both in research and in goverment agencies in Sweden. 
+Jonas Hagberg is located at Scilifelab Dalarna, where he is the manager of the system development team at the National Bioinformatics Infrastructure Sweden - NBIS. A member of the Tryggve team and was the project manager and system architect of the Mosler secure computing system. Jonas has a MSc in bioinformatics at Uppsala University, and have worked both in research and in goverment agencies in Sweden. 
 
 {% include person.wiki id="jareborg" %}
 
