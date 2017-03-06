@@ -328,7 +328,7 @@ hagberg:
     role: Manager of system Development team
     home: NBIS
     country: "SE"
-    email: jonas.hagberg@scilifelab.se
+    email: jonas.hagberg@nbis.se
     phone: "M: +46 706683869"
     groups:
         - staff
@@ -361,7 +361,7 @@ haziza:
     home: NBIS
     country: "SE"
     image: /about/team/frederic.jpg
-    email: frederic.haziza@bils.se
+    email: frederic.haziza@nbis.se
     phone:
     groups:
         - staff
@@ -372,7 +372,7 @@ alarsson:
     role: Tryggve staff
     home: NBIS
     country: "SE"
-    email: anders.larsson@bils.se
+    email: anders.larsson@nbis.se
     phone:
     groups:
         - staff
@@ -495,7 +495,7 @@ persson:
     role: Head of ELIXIR SE
     home: NBIS
     country: "SE"
-    email: bengt.persson@bils.se
+    email: bengt.persson@nbis.se
     groups:
         - tryggve-sg
         - neic2017-prg
