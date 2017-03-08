@@ -3,7 +3,7 @@ title: "New report: Ethical review, data protection and biomedical research in t
 summary: "The latest NordForsk Policy Paper gives an overview of the existing legislation in the Nordic countries regarding the collection and re-use of health-related personal data in medical research."
 image: "/media/NF policy paper_small.jpg"
 ---
-= Join us in Umeå for #NeIC2017 =
+= New report from NordForsk: Ethical review, data protection and biomedical research in the Nordic countries – a legal perspective =
 
 <a href="/media/NF policy paper"><img class="smallpic" src="/media/NF policy paper_small.jpg"></a>
 
