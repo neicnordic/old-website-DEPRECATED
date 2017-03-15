@@ -55,7 +55,7 @@ Verena Kutschera is a postdoc at the Department of Ecology and Genetics at Uppsa
 Kutschera describes herself as a scientist who is a research software user rather than a developer, so the workshop provided a quite intense introduction into software development.
 “However, several sessions turned out to be of direct use for my own daily work, we learned for example how to set up automated testing of code and how to make complex code easier to understand. This knowledge will probably make it easier for other members of my research group or projects to know exactly how the data was processed, and for anyone else who would like to reproduce my research results once they are published”, she adds.
 
-==Sessions of direct use for the daily work==
+==Facts about the project==
 
 *	CodeRefinery is a project within the Nordic e-Infrastructure Collaboration (NeIC). The kickoff was in September 2016
 *	The project is aimed at teaching scientists to use better tools and become more productive when developing and using software
