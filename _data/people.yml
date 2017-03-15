@@ -99,7 +99,7 @@ wadenstein:
 
 hedlund:
     name: Joel Hedlund
-    role: XO
+    role: XO/Senior advisor
     home: NSC
     country: "SE"
     image: /about/team/joel.jpg
@@ -829,6 +829,16 @@ koljalg:
     groups:
         - bdi-sg
 
+klahti:
+    name: Kari Lahti
+    home: FMNH
+    country: "FI"
+    role: Biodiversity SG
+    email: kari.lahti@tut.fi
+    phone:
+    groups:
+        - bdi-sg
+
 hanssen:
     name: Frank Hanssen
     home: NINA
@@ -905,7 +915,6 @@ lahti:
     phone: "M: +358 05044 86218"
     groups:
         - staff
-        - bdi-sg
         - bdi
 
 birgisson:
