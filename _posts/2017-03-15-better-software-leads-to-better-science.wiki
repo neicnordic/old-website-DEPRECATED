@@ -16,6 +16,10 @@ image: "/media/NeIC_ Radovan_Bast _WEB_DSC05762.jpg"
 
 “This project is not only about educating the people who come to the workshops, in order to learn how to develop and use better software. We also hope that they can go back to their institutions and share what they have learnt and contribute to developing a better culture. In addition, we are planning to set up a platform for version control of public and private code, to simplify collaboration and enable code review in order to improve quality and knowledge transfer”, adds Thor Wikfeldt. He is an application expert at the Center for High Performance Computing (PDC) at KTH Royal Institute of Technology in Stockholm.
 
+<a href="/media/thor_wikfeldt_KTH.jpg">
+<img class="smallpic" src="/media/thor_wikfeldt_KTH_small.jpg">
+</a>
+
 ==Reinventing the wheel is a bad idea==
 
 Software lies at the heart of research projects across a wide range of disciplines, but many common practices in the development and maintenance of scientific software are inefficient and/or outdated. Radovan Bast and Thor Wikfeldt have experienced that many researchers struggle reusing and adapting software modules written by others for their own projects. Researchers are also struggling when trying to make their modules and solutions available for others to reuse. Ideally, research software should build on existing solutions in the same way research papers build on published articles.
