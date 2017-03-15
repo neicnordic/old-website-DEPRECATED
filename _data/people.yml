@@ -146,6 +146,8 @@ pennington:
     groups:
         - staff
         - xt
+        - dellingr
+        - dellingr-sg
         - neic2017-prg
 
 behrmann:
@@ -1178,3 +1180,63 @@ nielsen:
     email: kgn@sdu.dk
     groups:
         - dellingr-sg
+
+kohrt:
+    name: Jens Svalgaard Kohrt
+    role: Dellingr team
+    home: DeIC
+    country: "DK"
+    image:
+    email: svalle@imada.sdu.dk
+    groups:
+        - dellingr
+
+fagerholm:
+    name: Juha Fagerholm
+    role: Dellingr team
+    home: CSC
+    country: "FI"
+    image:
+    email: juha.fagerholm@csc.fi
+    groups:
+        - dellingr
+
+nikunen:
+    name: Petri Nikunen
+    role: Dellingr team
+    home: CSC
+    country: "FI"
+    image:
+    email: petri.nikunen@csc.fi
+    groups:
+        - dellingr
+
+sveinbjornsson:
+    name: Hjörleifur Sveinbjörnsson
+    role: Dellingr team
+    home: RHnet
+    country: "IS"
+    image:
+    email: hs@hi.is
+    groups:
+        - dellingr
+
+vidarsson:
+    name: Máni Maríus Viðarsson
+    role: Dellingr team
+    home: RHnet
+    country: "IS"
+    image:
+    email: mani@hi.is
+    groups:
+        - dellingr
+
+vidarsson:
+    name: Máni Maríus Viðarsson
+    role: Dellingr team
+    home: RHnet
+    country: "IS"
+    image:
+    email: mani@hi.is
+    groups:
+        - dellingr
