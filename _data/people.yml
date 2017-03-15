@@ -1138,3 +1138,33 @@ suvilehto:
     phome:
     groups:
         - coderefinery
+
+amundsen:
+    name: Jørn Aslak Amundsen
+    role: Dellingr SG
+    home: Sigma2
+    country: "NO"
+    image:
+    email: jorn.amundsen@uninett.no
+    groups:
+        - dellingr-sg
+
+hansper:
+    name: Vera Hansper
+    role: Dellingr SG
+    home: CSC
+    country: "FI"
+    image:
+    email: Vera.Hansper@csc.fi
+    groups:
+        - dellingr-sg
+
+hvannberg:
+    name: Ebba Þóra Hvannberg
+    role: Dellingr SG
+    home: HI
+    country: "IS"
+    image:
+    email: ebba@hi.is
+    groups:
+        - dellingr-sg
