@@ -1162,9 +1162,19 @@ hansper:
 hvannberg:
     name: Ebba Þóra Hvannberg
     role: Dellingr SG
-    home: HI
+    home: RHnet
     country: "IS"
     image:
     email: ebba@hi.is
+    groups:
+        - dellingr-sg
+
+nielsen:
+    name: Kurt Gammelgaard Nielsen
+    role: Dellingr SG
+    home: DeIC
+    country: "DK"
+    image:
+    email: kgn@sdu.dk
     groups:
         - dellingr-sg
