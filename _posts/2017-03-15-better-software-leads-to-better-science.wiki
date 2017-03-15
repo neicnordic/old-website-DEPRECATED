@@ -14,11 +14,11 @@ image: "/media/NeIC_ Radovan_Bast _WEB_DSC05762.jpg"
 
 “The quality of scientific software is increasingly becoming critical for the advancement of knowledge. We firmly believe that developing better software leads to better science”, says Radovan Bast. He leads the CodeRefinery project and is a Senior Engineer in the High Performance Computing Group at the University of Tromsø – The Arctic University of Norway. 
 
-“This project is not only about educating the people who come to the workshops, in order to learn how to develop and use better software. We also hope that they can go back to their institutions and share what they have learnt and contribute to developing a better culture. In addition, we are planning to set up a platform for version control of public and private code, to simplify collaboration and enable code review in order to improve quality and knowledge transfer”, adds Thor Wikfeldt. He is an application expert at the Center for High Performance Computing (PDC) at KTH Royal Institute of Technology in Stockholm.
-
 <a href="/media/thor_wikfeldt_KTH.jpg">
 <img class="smallpic" src="/media/thor_wikfeldt_KTH_small.jpg">
 </a>
+
+“This project is not only about educating the people who come to the workshops, in order to learn how to develop and use better software. We also hope that they can go back to their institutions and share what they have learnt and contribute to developing a better culture. In addition, we are planning to set up a platform for version control of public and private code, to simplify collaboration and enable code review in order to improve quality and knowledge transfer”, adds Thor Wikfeldt. He is an application expert at the Center for High Performance Computing (PDC) at KTH Royal Institute of Technology in Stockholm.
 
 ==Reinventing the wheel is a bad idea==
 
