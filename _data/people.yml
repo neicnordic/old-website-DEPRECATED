@@ -779,6 +779,56 @@ lehtovuori:
     groups:
         - neic2017-prg
 
+vang:
+    name: Roald Vang
+    home: NINA
+    country: "NO"
+    role: Biodiversity SG
+    email: roald.vang@nina.no
+    phone:
+    groups:
+        - bdi-sg
+
+heidmarsson:
+    name: Starri Heiðmarsson
+    home: IINH
+    country: "IS"
+    role: Biodiversity SG
+    email: starri@ni.is
+    phone:
+    groups:
+        - bdi-sg
+
+skov:
+    name: Flemming Skov
+    home: AU
+    country: "DK"
+    role: Biodiversity SG
+    email: fs@bios.au.dk
+    phone:
+    groups:
+        - bdi-sg
+
+gardenfors:
+    name: Ulf Gärdenfors
+    home: SLU
+    country: "SE"
+    role: Biodiversity SG
+    email: ulf.gardenfors@slu.se
+    phone:
+    groups:
+        - bdi-sg
+
+koljalg:
+    name: Urmas Kõljalg
+    home: TU
+    country: "EE"
+    role: Biodiversity SG
+    email: urmas.koljalg@ut.ee
+    phone:
+    groups:
+        - bdi-sg
+
 hanssen:
     name: Frank Hanssen
     home: NINA
@@ -855,6 +905,7 @@ lahti:
     phone: "M: +358 05044 86218"
     groups:
         - staff
+        - bdi-sg
         - bdi
 
 birgisson:
