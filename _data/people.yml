@@ -66,6 +66,7 @@ barth:
         - staff
         - xt
         - glenna-sg
+        - glenna2-sg
         - coderefinery-sg
 
 roblitz:
@@ -181,12 +182,13 @@ still:
     home: CSC
     country: "FI"
     email: dan.still@csc.fi
-    role: Glenna Project Manager
+    role: Glenna2 Project Manager
     image: /media/dan-street-mini.jpeg
     phone: "M: +358 50 3819037"
     groups:
         - staff
         - glenna
+        - glenna2
 
 bast:
     name: Radovan Bast
@@ -579,6 +581,7 @@ gislason:
     groups:
         - staff
         - glenna
+        - glenna2-sg
 
 markus:
     name: Diba Markus
@@ -598,6 +601,7 @@ hellander:
     role: Associate professor
     groups:
         - glenna-sg
+        - glenna2-sg
 
 toor:
     name: Salman Toor
@@ -636,6 +640,7 @@ bech:
     role: Head of NREN DeIC
     groups:
         - glenna-sg
+        - glenna2-sg
 
 jonsson:
     name: Sæþór L. Jónsson
@@ -1303,7 +1308,7 @@ makkonen:
         - esm-sg
 
 gao:
-    name: Yongqi Gao, NERSC
+    name: Yongqi Gao
     role: ESM SG
     home: NERSC
     country: "NO"
@@ -1311,3 +1316,23 @@ gao:
     email: yongqi.gao@nersc.no
     groups:
         - esm-sg
+
+heikonen:
+    name: Jussi Heikonen
+    role: Glenna2 SG
+    home: CSC
+    country: "NO"
+    image:
+    email: jussi.heikonen@csc.fi
+    groups:
+        - glenna2-sg
+
+kvittem:
+    name: Olav Kvittem
+    role: Glenna2 SG
+    home: Sigma2
+    country: "NO"
+    image:
+    email: olav.kvittem@uninett.no
+    groups:
+        - glenna2-sg

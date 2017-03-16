@@ -1,16 +1,13 @@
 staff:
     title: Staff
     menu: 10
-    
+
 e3ds:
     title: E3DS
 
-glenna:
-    title: Glenna
-
 nt1:
     title: NT1
-    
+
 bdi:
     title: Biodiversity
 
@@ -19,18 +16,18 @@ bdi-sg:
     heading: Biodiversity steering group
 
 esm:
-    title: Earth System Modeling
+    title: Earth system modeling
 
 esm-sg:
-    title: Earth System Modeling SG
-    heading: Earth System Modeling steering group
+    title: Earth system modeling SG
+    heading: Earth system modeling steering group
 
 nlpl:
-    title: Nordic Language Processing Laboratory
+    title: Nordic language processing laboratory
 
 nlpl-sg:
-    title: Nordic Language Processing Laboratory SG
-    heading: Nordic Language Processing Laboratory steering group
+    title: Nordic language processing laboratory SG
+    heading: Nordic language processing laboratory steering group
 
 dellingr:
     title: Dellingr
@@ -61,6 +58,17 @@ glenna-sg:
     title: Glenna SG
     heading: Glenna steering group
 
+glenna2:
+    title: Glenna2
+
+glenna2-rg:
+    title: Glenna2 RG
+    heading: Glenna2 reference group
+
+glenna2-sg:
+    title: Glenna2 SG
+    heading: Glenna2 steering group
+
 coderefinery:
     title: CodeRefinery
 
@@ -88,7 +96,7 @@ gen:
 xt:
     title: XT
     heading: NeIC executive team
-    
+
 neic2017-pc:
     title: NeIC 2017 PC
     heading: NeIC 2017 conference program committee
@@ -96,4 +104,3 @@ neic2017-pc:
 neic2017-prg:
     title: NeIC 2017 PRG
     heading: NeIC 2017 conference program reference group
-    
