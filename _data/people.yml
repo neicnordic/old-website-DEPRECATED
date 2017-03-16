@@ -174,6 +174,7 @@ pursula:
         - staff
         - tryggve
         - tryggve-rg
+        - esm-sg
 
 still:
     name: Dan Still
@@ -1231,12 +1232,82 @@ vidarsson:
     groups:
         - dellingr
 
-vidarsson:
-    name: Máni Maríus Viðarsson
-    role: Dellingr team
-    home: RHnet
-    country: "IS"
+korsholm:
+    name: Ulrik Smith Korsholm
+    role: ESM SG
+    home: DMI
+    country: "DK"
     image:
-    email: mani@hi.is
+    email: usn@dmi.dk
     groups:
-        - dellingr
+        - esm-sg
+
+struthers:
+    name: Hamish Struthers
+    role: ESM SG
+    home: NSC
+    country: "SE"
+    image:
+    email: struthers@nsc.liu.se
+    groups:
+        - esm-sg
+
+doscher:
+    name: Ralf Döscher
+    role: ESM SG
+    home: SMHI
+    country: "SE"
+    image:
+    email: Ralf.Döscher@smhi.se
+    groups:
+        - esm-sg
+
+bentsen:
+    name: Mats Bentsen
+    role: ESM SG
+    home: URK
+    country: "SE"
+    image:
+    email: Mats.Bentsen@uni.no
+    groups:
+        - esm-sg
+
+seland:
+    name: Øyvind Seland
+    role: ESM SG
+    home: met.no/UiO
+    country: "NO"
+    image:
+    email: oyvind.seland@met.no
+    groups:
+        - esm-sg
+
+uotila:
+    name: Petteri Uotila
+    role: ESM SG
+    home: FMI
+    country: "FI"
+    image:
+    email: petteri.uotila@fmi.fi
+    groups:
+        - esm-sg
+
+makkonen:
+    name: Risto Makkonen
+    role: ESM SG
+    home: UHEL
+    country: "FI"
+    image:
+    email: risto.makkonen@helsinki.fi
+    groups:
+        - esm-sg
+
+Yongqi Gao, NERSC:
+    name: Yongqi Gao, NERSC
+    role: ESM SG
+    home: NERSC
+    country: "NO"
+    image:
+    email: yongqi.gao@nersc.no
+    groups:
+        - esm-sg
