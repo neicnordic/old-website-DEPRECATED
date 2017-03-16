@@ -513,6 +513,7 @@ gsingh:
     role: Glenna Staff
     groups:
         - glenna
+        - glenna2
 
 huluka:
     name: Daniel Huluka
@@ -561,6 +562,7 @@ tourunen:
     groups:
         - staff
         - glenna
+        - glenna2
 
 sveinbjornsson:
     name: Hjörleifur Sveinbjörnsson
@@ -611,6 +613,7 @@ toor:
     role: Glenna Staff
     groups:
         - glenna
+        - glenna2
 
 fallman:
     name: Ingemar Fällman
