@@ -68,6 +68,7 @@ barth:
         - glenna-sg
         - glenna2-sg
         - coderefinery-sg
+        - nlcg
 
 roblitz:
     name: Thomas Röblitz
@@ -97,6 +98,7 @@ wadenstein:
         - staff
         - nt1
         - xt
+        - nlcg
 
 hedlund:
     name: Joel Hedlund
@@ -305,6 +307,7 @@ smirnova:
     groups:
         - staff
         - nt1
+        - nlcg
 
 li:
     name: Xiaxi Li
@@ -1329,6 +1332,7 @@ heikonen:
     email: jussi.heikonen@csc.fi
     groups:
         - glenna2-sg
+        - nlcg
 
 kvittem:
     name: Olav Kvittem
@@ -1339,3 +1343,76 @@ kvittem:
     email: olav.kvittem@uninett.no
     groups:
         - glenna2-sg
+
+hansen:
+    name: Jørgen Beck Hansen
+    role: NLCG
+    home: KU
+    country: "DK"
+    image:
+    email: beck@nbi.ku.dk
+    groups:
+        - nlcg
+
+kleist:
+    name: Josva Kleist
+    role: NLCG
+    home: AAU
+    country: "DK"
+    image:
+    email: kleist@cs.aau.dk
+    groups:
+        - nlcg
+
+ould-saada:
+    name: Farid Ould-Saada
+    role: NLCG
+    home: UiO
+    country: "NO"
+    image:
+    email: Farid.Ould-Saada@fys.uio.no
+    groups:
+        - nlcg
+
+helstrup:
+    name: Håvard Helstrup
+    role: NLCG
+    home: UiB
+    country: "NO"
+    image:
+    email: Haavard.Helstrup@ift.uib.no
+    groups:
+        - nlcg
+
+brenner:
+    name: Richard Brenner
+    role: NLCG
+    home: UU
+    country: "SE"
+    image:
+    email: richard.brenner@physics.uu.se
+    groups:
+        - nlcg
+
+rannar:
+    name: Mikael Rännar
+    role: NLCG
+    home: UmU
+    country: "SE"
+    image:
+    email: mikael.rannar@umu.se
+    groups:
+        - nlcg
+
+linden:
+    name: Tomas Lindén
+    role: NLCG
+    home: UmU
+    country: "SE"
+    image:
+    email: Tomas.Linden@Helsinki.fi
+    groups:
+        - nlcg
+
+
+then me, Oxana, caela as ex.offico members

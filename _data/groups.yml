@@ -104,3 +104,7 @@ neic2017-pc:
 neic2017-prg:
     title: NeIC 2017 PRG
     heading: NeIC 2017 conference program reference group
+
+nlcg:
+    title: NLCG committee
+    heading: Nordic LHC computating grid committee 
