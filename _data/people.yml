@@ -139,6 +139,7 @@ nordstokka:
     groups:
         - staff
         - xt
+        - neic2017-pc
 
 pennington:
     name: Rob Pennington
