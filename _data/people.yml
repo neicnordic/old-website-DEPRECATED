@@ -167,13 +167,9 @@ malkiewicz:
         - xt
         - dellingr
         - dellingr-sg
-        - e3ds
         - e3ds-sg
-        - tryggve
-        - tryggve-rg
         - tryggve-sg
-        - coderefinery-sg
-        - nlpl
+        - nlpl-sg
 
 behrmann:
     name: Gerd Behrmann
@@ -1117,19 +1113,6 @@ vathsavayi:
     groups:
         - staff
         - coderefinery
-
-malkiewicz:
-    name: Tomasz Malkiewicz
-    role: Executive Manager
-    home: CSC
-    country: "FI"
-    email: tomasz.malkiewicz@csc.fi
-    groups:
-        - staff
-        - xt
-        - dellingr
-        - dellingr-sg
-        - nlpl-sg
 
 sabryr:
     name: Sabry Razick
