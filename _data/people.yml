@@ -167,6 +167,8 @@ malkiewicz:
         - xt
         - dellingr
         - dellingr-sg
+        - e3ds
+        - e3ds-sg
         - tryggve
         - tryggve-rg
         - tryggve-sg
@@ -302,6 +304,7 @@ white:
     email: john.white@cern.ch
     groups:
         - staff
+        - e3ds
 
 edelmann:
     name: Erik Edelmann
