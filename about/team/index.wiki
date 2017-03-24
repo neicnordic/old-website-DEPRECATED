@@ -71,6 +71,10 @@ Radovan Bast is employed in Tromsø (Norway) as a senior engineer in the High Pe
 Kine works for NordForsk as an Advisor for the NeIC programme. She previously worked as Manager of Programmes and Partnerships at the Social Innovation Exchange, a global network for social innovation based in London. In this role she oversaw project management of European Commission projects, worked on network building and designed and implemented projects. Prior to this Kine held various positions at the Young Foundation, a think tank based in London. Her educational background is in development studies and political science. 
 
 
+{% include person.wiki id="malkiewicz" %}
+
+Tomasz Malkiewicz is a part of the NeIC Executive Team, chaired by the NeIC Director, and among his many responsibilities, he helps to implement NeIC’s strategy, contribute to future strategy development, coordinate NeIC’s activities on resource sharing and on sensitive data collaboration, and initiate new technical projects in partnership with national e-Infrastructure providers.
+
 {% include person.wiki id="jonsson" %}
 
 {% include person.wiki id="karpenko" %}
