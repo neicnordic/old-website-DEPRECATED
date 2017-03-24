@@ -155,6 +155,24 @@ pennington:
         - dellingr-sg
         - neic2017-prg
 
+malkiewicz:
+    name: Tomasz Malkiewicz
+    role: Executive Manager
+    home: CSC
+    country: "FI"
+    email: tomasz.malkiewicz@csc.fi
+    phone: "M: +358 50 381 20 81"
+    groups:
+        - staff
+        - xt
+        - dellingr
+        - dellingr-sg
+        - tryggve
+        - tryggve-rg
+        - tryggve-sg
+        - coderefinery-sg
+        - nlpl
+
 behrmann:
     name: Gerd Behrmann
     role: Systems Software Specialist
