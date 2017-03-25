@@ -2,9 +2,6 @@ staff:
     title: Staff
     menu: 10
 
-e3ds:
-    title: E3DS
-
 nt1:
     title: NT1
 
@@ -14,6 +11,14 @@ bdi:
 bdi-sg:
     title: Biodiversity SG
     heading: Biodiversity steering group
+
+e3ds:
+    title: E3DS
+    heading: EISCAT 3D Support
+
+e3ds-sg:
+    title: E3DS
+    heading: EISCAT 3D Support steering group
 
 esm:
     title: Earth system modeling
