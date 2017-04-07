@@ -4,7 +4,7 @@ summary: "“The Nordic Data Grid Facility works so well that it has become one 
 image: "/media/Farid Ould Saada.jpg"
 ---
 
-= The smartest storage for the world’s largest data volumes =
+= Studying dark matter =
 
 '''“The Nordic Data Grid Facility works so well that it has become one of the most efficient of all the Tier 1 facilities,” says Professor Farid Ould-Sadaa at the University of Oslo. He analyses data from CERN and the Large Hadron Collider  in a quest to solve one of the largest remaining mysteries in science: the nature of dark matter.'''
 
