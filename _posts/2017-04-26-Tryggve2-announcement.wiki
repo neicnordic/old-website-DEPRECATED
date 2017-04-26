@@ -34,13 +34,13 @@ Professor Jonassen points out that the whole purpose of making the samples and d
 
 “I am very happy about this decision, because it shows that our national partners and stakeholders have been satisfied with the results from this Nordic collaboration. It is a vote of confidence that they found Tryggve so useful that they wanted to continue the project into Tryggve2 and invest more in it,” says Tryggve2 Project Manager Antti Pursula. 
 
- “In the continued project, we are going to develop the services from Tryggve even further and make them more available for researchers. We will also try to support several high-level use cases, which fall naturally in two groups: Some of the use cases are about developing new or better infrastructure solutions, and the others are more in the line of research use cases,” explains Pursula.
+“In the continued project, we are going to develop the services from Tryggve even further and make them more available for researchers. We will also try to support several high-level use cases, which fall naturally in two groups: Some of the use cases are about developing new or better infrastructure solutions, and the others are more in the line of research use cases,” explains Pursula.
 
 ==Data archives and safe systems==
 
 One of the large use cases in Tryggve 2 is about developing ways for researchers to safely use Nordic secure cloud capacities across the borders. In another use case, Tryggve2 is co-developing a new data archive for Danish biobanks and a more specific Nordic data archive for colorectal cancer.
 
- “Biobanks in general hold both biological samples and a lot of digital data that have been extracted from the samples. What would be needed, and what Tryggve2 will start to work on, is a service that allows researchers to search through a common Nordic archive of biobank data to find out what kinds of data are available, where the data is stored, and how they can gain access to the data. This should save researchers a lot of time and money while also saving precious biobank materials, as unnecessary repeats of sequencing analyses can be avoided. Instead the researchers can start their research immediately.” 
+“Biobanks in general hold both biological samples and a lot of digital data that have been extracted from the samples. What would be needed, and what Tryggve2 will start to work on, is a service that allows researchers to search through a common Nordic archive of biobank data to find out what kinds of data are available, where the data is stored, and how they can gain access to the data. This should save researchers a lot of time and money while also saving precious biobank materials, as unnecessary repeats of sequencing analyses can be avoided. Instead the researchers can start their research immediately.” 
  
 Tryggve2 is also aiming to develop a safe system for transnational transfer of sensitive data from biological samples.
 
