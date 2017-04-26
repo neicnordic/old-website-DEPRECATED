@@ -1,7 +1,7 @@
 ---
 title: "Tryggve2 increases Nordic efforts within e-Infrastructure for sensitive data"
 summary: "At its meeting on 16 March, the NeIC Board agreed to extend the Tryggve collaboration into a new three-year project – Tryggve2. The plan is to launch Tryggve2 on 21 October 2017, directly following the current project period."
-image: "/media/Joel_Antti_NeIC2015.jpg.jpg"
+image: "/media/Joel_Antti_NeIC2015.jpg"
 ---
 
 = Tryggve2 increases Nordic efforts within e-Infrastructure for sensitive data =
@@ -29,7 +29,6 @@ Tryggve has focused on biomedical research, which is all about finding the cause
 Professor Jonassen points out that the whole purpose of making the samples and data from biobanks and health registries more accessible is to improve public health.
 
 “The right to privacy and the protection of personal genomic data is of course very important, but these considerations must be balanced against the health benefits that may result from this research. Maybe the balance today is leaning too much towards the privacy issues,” he concludes.
-
 
 ==A vote of confidence==
 
