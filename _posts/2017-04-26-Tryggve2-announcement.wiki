@@ -8,6 +8,10 @@ image: "/media/Joel_Antti_NeIC2015.jpg"
 
 '''At its meeting on 16 March, the NeIC Board agreed to extend the Tryggve collaboration into a new three-year project – Tryggve2. The plan is to launch Tryggve2 on 21 October 2017, directly following the current project period.'''
 
+<a href="/media/Joel_Antti_NeIC2015.jpg">
+<img class="smallpic" src="/media/Joel_Antti_NeIC2015_small.jpg">
+</a>
+
 The governing partners of Tryggve2 are NeIC and the ELIXIR Nodes in Denmark, Finland, Norway and Sweden. Tryggve2 will incorporate a staff of 16 full-time equivalents, and will thus comprise a major increase in Nordic efforts within the e-infrastructure for sensitive data. In agreement with the partners, NeIC has appointed Antti Pursula (CSC) as the Project Manager for Tryggve2.
 
 The project management team will be strengthened with Joel Hedlund (NSC) as Scientific Manager and two currently unassigned sub-project leads.
