@@ -1,0 +1,51 @@
+---
+title: "Det mest vellykkede distribuerte fellesskapet jeg har opplevd!"
+summary: "NeIC har utviklet det mest vellykkede distribuerte fellesskapet jeg noen sinne har jobbet i, sier gruppeleder Jon Kerr Nilsen ved USIT i Oslo. Han var så fornøyd med NeICs system at han i stor grad vil kopiere det når han utformer et distribuert driftsmiljø for High Performance Computing mellom fire norske universiteter."
+image: "/media/Jon Kerr Nilsen.jpg"
+---
+
+= Det mest vellykkede distribuerte fellesskapet jeg har opplevd! =
+
+'''NeIC har utviklet det mest vellykkede distribuerte fellesskapet jeg noen sinne har jobbet i, sier gruppeleder Jon Kerr Nilsen ved USIT i Oslo. Han var så fornøyd med NeICs system at han i stor grad vil kopiere det når han utformer et distribuert driftsmiljø for High Performance Computing mellom fire norske universiteter.'''
+
+<a href="/media/Jon Kerr Nilsen.jpg">
+<img class="smallpic" src="/media/Jon Kerr Nilsen_small.jpg">
+</a>
+
+Jon Kerr Nilsen leder forskningsinfrastrukturgruppen ved Universitetet i Oslos senter for informasjonsteknologi (USIT) og vet hva han snakker om når han skal vurdere distribuerte arbeidsfellesskap. Dette har han nemlig jobbet med i minst ti år, etter at han i 2007 begynte på en doktorgrad i partikkelfysikk ved Universitetet i Oslo.
+
+Doktorgraden handlet mye om datanettverk, med utgangspunkt i at forskningsinstituttet CERN allerede da produserte så store datamengder at de ikke kunne lagres lokalt. Jeg har sett et regnestykke som går ut på at en stabel med gammeldagse cd-er som inneholder ett års produksjon av data fra CERN, ville rekke herfra til månen eller deromkring. Derfor bestemte CERN at dataene skulle lagres på flere forskjellige steder rundt om i verden, og min doktorgrad handlet om hvordan man kan spre data og lagre dem sikkert i et distribuert nettverk, forteller Kerr Nilsen.
+
+==Distribuert og meta-distribuert==
+
+Etter doktorgraden fortsatte Kerr Nilsen som postdoktor i et EU-finansiert prosjekt som handlet om å utvikle mellomvare til CERNs distribuerte datalagringssystem, Worldwide LHC Computing Grid (WLCG). I 2013 kom han til NeIC for å bidra til utviklingen av den nordiske delen av systemet, og der ble han til 2016 – mens han stortrivdes.
+
+I NeIC jobbet Kerr Nilsen med å utvikle beregningsmetoder til bruk ved Nordic Data Grid Facility (NDGF), som er et av de 13 såkalte Tier1-datasentrene som tar imot og lagrer data fra CERN. CERN har nå distribuert datalagringen mellom 13 sentre rundt om i verden, og det nordiske senteret er attpåtil «meta-distribuert» i den forstand at datalagringen er spredd mellom sentre i Norge, Sverige, Danmark og Finland.
+
+World Wide Web ble oppfunnet og utviklet ved CERN, delvis på grunn av at det ville bli altfor dyrt å samle flere tusen forskere til konferanser rett som det er. CERN trengte isteden et globalt informasjonsrom, og derfor hadde Jon Kerr Nilsen allerede mye erfaring med distribuert jobbing og informasjonsdeling da han kom til NeIC. Men et så velfungerende system som i NeIC, hadde han ikke opplevd før.
+
+==Velfungerende på grunn av eierskap==
+
+NeICs hovedkontor ligger i sentrum av Oslo, men der var jeg nokså sjelden. Isteden fortsatte jeg å jobbe fra kontoret mitt i Kristen Nygaards hus ved Universitetet i Oslo, to-tre kilometer unna, og der samarbeidet jeg tett med kolleger i de andre nordiske landene. Jeg har faktisk aldri tidligere opplevd å jobbe i et så velfungerende distribuert fellesskap, og det var ordentlig artig å jobbe på den måten. Den daglige kommunikasjonen gikk mest på chat, men i tillegg hadde vi et årlig stormøte og fysiske møter med alle samarbeidspartnerne tre-fire ganger i året. Dessuten møtte vi hverandre ganske ofte på konferanser, forteller Kerr Nilsen.
+
+Jon Kerr Nilsen mener at nøkkelen til et vellykket distribuert fellesskap ligger i at alle medarbeiderne føler et eierskap.
+
+Ledelsen i NeIC har lagt mye vekt på at alle som sitter rundt omkring i de nordiske landene har lokale kolleger de kan støtte seg til, og i tillegg er det lagt mye vekt på at alle har oppgaver som gjør at man føler et eierskap til hele prosessen og systemet. Arbeidsoppgavene har også en natur som gjør det nødvendig å kommunisere med hverandre, forteller Kerr Nilsen.
+
+==Tar lærdom fra NeIC==
+
+I tillegg til å være gruppeleder ved USIT, er Kerr Nilsen nå driftskoordinator for alle High Performance Computing-anleggene i den norske universitets- og høyskolesektoren. Han har nettopp vært med på å kjøpe inn et nytt HPC-anlegg som er plassert ved Universitetet i Tromsø, og som skal driftes i fellesskap av universitetene i Tromsø, Trondheim, Bergen og Oslo.
+
+Da trenger vi et distribuert driftsmiljø, som jeg nå forsøker å sette opp etter modell av det jeg lærte mens jeg jobbet i NeIC. Så da skjønner du at jeg var fornøyd med hvordan det virket, forteller han.
+
+Jon brukte litt tid på å venne seg til at NeIC brukte en chat med sosiale funksjoner som den viktigste daglige kommunikasjonskanalen, og så ble det arrangert videokonferanser eller fysiske møter når det var nødvendig. 
+
+Teknologien og komponentene som brukes til distribuert samarbeid har i grunnen vært der ganske lenge, men det har tatt litt tid for organisasjonene å ta skrittet ut av det fysiske kontoret. Du kan kanskje si at det er ikke bare teknologien som har forandret seg, men også menneskene: Vi har vent oss til å jobbe på denne måten. Det var for øvrig morsomt å se at det går helt fint å bli kjent med folk også på denne måten! Etter en stund føltes det nesten mer effektivt å ta en prat på chatten enn å rusle bort til en kollega som sitter tre dører bortenfor i samme korridor, sier Nilsen.
+
+==Flytter på seg uten å flytte på seg==
+
+Prosjektmedarbeiderne i NeIC beholder som regel sin tilknytning til universitetet de kommer fra, og det er en av fordelene med organisasjonen.
+
+Alt NeIC gjør, handler jo om å skape merverdi for nordiske forskere. Derfor er det lagt opp til at vi kan trekke veksler på de som sitter fysisk nært og trekke dem inn i det distribuerte samarbeidsmiljøet. Dermed får NeIC tilført større ressurser enn om alle i organisasjonen skulle vært samlet på et hovedkontor, og i tillegg blir prosjektene mer verdifulle for de nordiske forskningsmiljøene, oppsummer Kerr Nilsen – som konstaterer at de gamle frasene fra år tilbake om «det virtuelle kontoret» og «det nye arbeidslivet» endelig er blitt virkelighet. Det er gode nyheter for mennesker som har bodd på mange nok hoteller og sett tilstrekkelig med flyplasser. 
+
+Jeg har altså sittet på det samme kontoret og jobbet for ulike oppdragsgivere, mens jeg har samarbeidet med forskere i andre land like godt som om vi skulle sittet på samme kontor. Det fine med velfungerende distribuerte arbeidsfellesskap er at nå kan du flytte på deg, uten å flytte på deg!
