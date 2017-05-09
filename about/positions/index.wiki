@@ -6,4 +6,10 @@ menu: 300
 
 = Open positions =
 
-There are currently no open positions at NeIC
+NeIC is seeking one or two Project Managers within e-infrastructures for biodiversity informatics and earth system modelling. We encourage both current NeIC staff and new candidates to apply. 
+
+[https://wiki.neic.no/w/ext/img_auth.php/3/38/170509-Open-position-announcement-Project-Managers.pdf Biodiversity Informatics Project Manager]
+
+[https://wiki.neic.no/w/ext/img_auth.php/3/38/170509-Open-position-announcement-Project-Managers.pdf Eart System Modelling Project Manager]
+
+All new positions will be available from August 1st. Questions may be directed to Gudmund Høst, Director of NeIC, tel. +47 9581684. Applications including CV should be submitted to gudmund.host@nordforsk.org within June 1st , 2017. Applications should include a support letter from a national e-infrastructure organisation in one of the Nordic countries.
