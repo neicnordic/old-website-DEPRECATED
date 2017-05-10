@@ -482,6 +482,17 @@ hochheim:
         - staff
         - tryggve
 
+shu:
+    name: Nanjiang Shu
+    role: Tryggve staff
+    home: NBIS
+    country: "SE"
+    image: /about/team/nanjiang.jpg
+    email: nanjiang.shu@scilifelab.se
+    groups:
+        - staff
+        - tryggve
+
 longreen:
     name: Peter Løngreen
     role: Assisting head of ELIXIR DK
