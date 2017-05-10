@@ -170,9 +170,10 @@ Currently at Technical University of Denmark, Department of Systems Biology, Cen
 
 Piotr works mainly for software provisioning tasks in Tryggve project, developing especially the Tools and Resource Registry at ELIXIR.DK. He is located at Center for Protein Research at University of Copenhagen.
 
-{% include person.wiki id="alarsson" %}
+{% include person.wiki id="shu" %}
 
-Anders is part of the Tryggve project team. Systems developer at NBIS in Uppsala, Sweden. PhD in Systematic Biology from Evolutionary Biology Center at Uppsala University. Also involved in Elixir Local EGA project and European PhenoMeNal project.
+Nanjiang Shu is a bioinformatician and systems developer at National Bioinformatics Infrastructure Sweden (NBIS), located at ScLifeLab, Stockholm. Nanjiang is a graduate of Peking University, where he got two BAs in Mechanical Engineering and Software Engineering, respectively. After that, Nanjiang received his PhD in Structural Chemistry from Stockholm University at 2010, majoring in protein structure prediction. 
+As a researcher, Nanjiang is interested in method development of multiple sequence alignment, membrane topology prediction and study of membrane protein topology evolution. As a systems developer, he is interested in the development of scalable web-servers powered by cloud computing. At NeIC Nanjiang is involved in the Tryggve project in the Local EGA task.
 
 {% include person.wiki id="haziza" %}
 
