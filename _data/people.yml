@@ -395,15 +395,6 @@ haziza:
         - staff
         - tryggve
 
-alarsson:
-    name: Anders Larsson
-    role: Developer
-    home: NBIS
-    country: "SE"
-    email: anders.larsson@nbis.se
-    phone:
-    groups:
-
 syed:
     name: Ali Syed
     role: Senior Cloud Architect
