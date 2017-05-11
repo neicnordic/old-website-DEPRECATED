@@ -397,14 +397,12 @@ haziza:
 
 alarsson:
     name: Anders Larsson
-    role: Tryggve staff
+    role: Developer
     home: NBIS
     country: "SE"
     email: anders.larsson@nbis.se
     phone:
     groups:
-        - staff
-        - tryggve
 
 syed:
     name: Ali Syed
