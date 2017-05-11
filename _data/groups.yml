@@ -5,6 +5,9 @@ staff:
 nt1:
     title: NT1
 
+nt1-sg:
+    title: NT1 SG
+
 bdi:
     title: Biodiversity
 
@@ -112,4 +115,4 @@ neic2017-prg:
 
 nlcg:
     title: NLCG committee
-    heading: Nordic LHC computating grid committee 
+    heading: Nordic LHC computating grid committee (NT1 reference group)
