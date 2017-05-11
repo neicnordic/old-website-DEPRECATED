@@ -57,7 +57,7 @@ host:
 barth:
     name: Michaela Barth
     role: Executive Manager
-    home: PDC
+    home: PDC-HPC
     country: "SE"
     image: /about/team/caela.jpg
     email: caela@kth.se
@@ -69,6 +69,7 @@ barth:
         - glenna2-sg
         - coderefinery-sg
         - nlcg
+        - nt1-sg
 
 roblitz:
     name: Thomas Röblitz
@@ -97,6 +98,7 @@ wadenstein:
     groups:
         - staff
         - nt1
+        - nt1-sg
         - xt
         - nlcg
 
@@ -327,6 +329,7 @@ smirnova:
         - staff
         - nt1
         - nlcg
+        - nt1-sg
 
 li:
     name: Xiaxi Li
