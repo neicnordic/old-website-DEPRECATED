@@ -1253,13 +1253,13 @@ vidarsson:
     groups:
         - dellingr
 
-korsholm:
-    name: Ulrik Smith Korsholm
+langen:
+    name: Peter Lang Langen
     role: ESM SG
     home: DMI
     country: "DK"
     image:
-    email: usn@dmi.dk
+    email: pla@dmi.dk
     groups:
         - esm-sg
 
