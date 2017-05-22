@@ -230,11 +230,12 @@ ambach:
     home: AU
     country: "DK"
     email: ambach@au.dk
-    role: Ratatosk Training Programme Project Manager
-    image: /media/ambach.png
+    role: Ratatosk Project Manager
+    image: /about/team/ambach.png
     phone: "M: +45 21 33 5475"
     groups:
         - staff
+        - ratatosk
 
 jonsson:
     name: Magnus Jonsson
