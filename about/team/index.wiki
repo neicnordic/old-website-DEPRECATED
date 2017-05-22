@@ -44,10 +44,6 @@ Mattias Wadenstein has a background in systems administration from the High Perf
 
 Joel Hedlund is located at the  [National Supercomputer Centre (NSC)](http://www.nsc.liu.se), Linköping University, and holds a 80% position as NeIC senior advisor in the executive team. He was educated at Linköping University and has a Ph.D. in Bioinformatics, focusing on developing machine learning methods for automated protein family definition using distributed computing. During the last few years in NeIC Joel has developed the framework for NeIC's engagements in infrastructure for research on sensitive data, as well as the NeIC model for stakeholder engagement and developed NeIC's collaboration infrastructure. 
 
-{% include person.wiki id="pettersen" %}
-
-Pål Pettersen is employed at NordForsk, Oslo. He works as the NeIC Administrative Coordinator.
-
 {% include person.wiki id="behrmann" %}
 
 Gerd Behrmann is the NeIC Systems Software Specialist, located in Copenhagen, Denmark. He has been involved with the NDGF Tier-1 since 2007, both as a storage architect and administrator of central services, and as lead developer of storage software for the Tier-1.
@@ -78,8 +74,6 @@ Kine works for NordForsk as an Advisor for the NeIC programme. She previously wo
 {% include person.wiki id="malkiewicz" %}
 
 Tomasz Malkiewicz is a part of the NeIC Executive Team, chaired by the NeIC Director, and among his many responsibilities, he helps to implement NeIC’s strategy, contribute to future strategy development, coordinate NeIC’s activities on resource sharing and on sensitive data collaboration, and initiate new technical projects in partnership with national e-Infrastructure providers.
-
-{% include person.wiki id="jonsson" %}
 
 {% include person.wiki id="karpenko" %}
 
