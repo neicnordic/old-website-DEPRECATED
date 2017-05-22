@@ -26,9 +26,9 @@ He has served as Chair of the Steering Board of Nordic Data Grid Facility, and h
 
 {% include person.wiki id="barth" %}
 
-Michaela Barth is employed at the [http://www.pdc.kth.se/ PDC Center for High Performance Computing], KTH Royal Institute of Technology, Stockholm and holds a 50% position at the the NeIC. She was educated at the University of Innsbruck and has a Ph.D. in Natural Sciences, focusing on astrophysics and grid computing.
+Michaela Barth is employed at the [http://www.pdc.kth.se/ PDC Center for High Performance Computing], KTH Royal Institute of Technology, Stockholm and holds a 60% position at the the NeIC. She was educated at the University of Innsbruck and has a Ph.D. in Natural Sciences, focusing on astrophysics and grid computing.
 
-Barth has extensive experience in project management and systems administration for distributed computing infrastructures at both the national and the European level, including her current role as national coordinator for the Partnership for Advanced Computing in Europe (PRACE) node in Sweden or her engagement within EUDAT.
+Barth has extensive experience in project management and systems administration for distributed computing infrastructures at both the national and the European level, including her past role as national coordinator for the Partnership for Advanced Computing in Europe (PRACE) node in Sweden or her current engagement within EUDAT.
 
 {% include person.wiki id="roblitz" %}
 
@@ -65,6 +65,10 @@ Dan Still is located at CSC - IT Center for Science Ltd in Finland and holds a 8
 {% include person.wiki id="bast" %}
 
 Radovan Bast is employed in Tromsø (Norway) as a senior engineer in the High Performance Computing Group at UiT The Arctic University of Norway and contributes to advanced user and application support, code optimization and parallelization, and holds a 50 % position at NeIC. He has a PhD in theoretical chemistry and as code developer is contributing to a number of quantum chemistry programs. He enjoys learning new programming languages and approaches, and to teach programming to scientists.
+
+{% include person.wiki id="ambach" %}
+
+Anne-Marie is the Project Manager of the Ratatosk Training Programme, helping implementing efficient training courses by supporting the national providers communicating a wide range of courses in order to share knowledge to attract potential students, she will also contribute to future training development, as well as to NeIC's activities on Pool Competences. Anne-Marie Bach is employed at the Aarhus University - AU Research Support & External Relations, Corporate Relations and Technology Transfer, and holds an office in Copenhagen, Denmark.
 
 {% include person.wiki id="nordstokka" %}
 
