@@ -127,8 +127,8 @@ pettersen:
     email: paal.pettersen@nordforsk.org
     phone: "M: +47 415 10 974"
     groups:
-        - staff
-        - xt
+#        - staff
+#        - xt
         - neic2017-pc
 
 nordstokka:
@@ -224,6 +224,18 @@ bast:
         - staff
         - coderefinery
         - neic2017-pc
+
+ambach:
+    name: Anne-Marie Bach
+    home: UiT
+    country: "DK"
+    email: ambach@au.dk
+    role: Ratatosk Training Programme Project Manager
+    image: /media/ambach.png
+    phone: "M: +45 21 33 5475"
+    groups:
+        - staff
+        - training
 
 jonsson:
     name: Magnus Jonsson
