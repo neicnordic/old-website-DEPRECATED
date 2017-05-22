@@ -235,7 +235,6 @@ ambach:
     phone: "M: +45 21 33 5475"
     groups:
         - staff
-        - training
 
 jonsson:
     name: Magnus Jonsson
