@@ -34,3 +34,5 @@ Nilsen holds a PhD in High Energy Physics and was acting as deputy leader of the
 Dejan Vitlacil is employed at the [http://www.pdc.kth.se/ PDC Center for High Performance Computing], KTH Royal Institute of Technology, Stockholm and stepped in during 2015 as the NeIC as Generic Area Coordinator and stayed a little longer in an advisory role to amongst other things coordinate a Nordic data services workshop.
 Vitlacil is the SNIC Storage Coordinator at the Swedish National Infrastructure for Computing and is still linked with NeIC since he is the nominated Swedish member for the Nordic data management working group within NeIC's Pooling Competencies Focus Area.
 
+=== Pål Pettersen ===
+Pål Pettersen was employed at NordForsk, Oslo as the NeIC Administrative Coordinator until February 2017. He was also regularly active in event organisation, e.g. as part of the Programme Committee for the NeIC 2017 conference.
