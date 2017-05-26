@@ -7,6 +7,7 @@ image: "/media/AnneMarie Bach.jpg"
 
 <a href="/media/AnneMarie Bach.jpg">
 <img class="smallpic" src="/media/AnneMarie Bach_small.jpg">
+</a>
 
 Anne-Marie is a part of the NeIC Training Programme Team as the Nordic Training Programme Manager. She will keep the NeIC training calendar updated, along with a group of national provider representatives that works to pool competences across the Nordic countries, aiming to implement efficient training courses and sharing knowledge to attract potential students. Anne-Marie will implement The NeIC Nordic Mobility Enhancement Programme providing or supplementing travel funding for researchers who can greatly benefit from access to training programs offered in other Nordic countries. Also, she will contribute to future training development, and play an active role in the NeIC's activities on Pool Competences. 
 
