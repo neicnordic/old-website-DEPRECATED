@@ -588,7 +588,7 @@ laurikainen:
     role: Glenna Staff
     groups:
         - staff
-        - glenna
+        - glenna2
 
 tourunen:
     name: Olli Tourunen
@@ -599,6 +599,16 @@ tourunen:
     groups:
         - staff
         - glenna
+        - glenna2
+        
+robertsen:
+    name: Fredrik Robertsén
+    home: CSC
+    country: "FI"
+    email: Fredrik.Robertsen@csc.fi
+    role: Glenna Staff
+    groups:
+        - staff
         - glenna2
 
 sveinbjornsson:
