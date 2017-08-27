@@ -691,15 +691,6 @@ jonsson:
     groups:
         - glenna-sg
 
-tarus:
-    name: Jura Tarus
-    home: CSC
-    country: "FI"
-    email: jura.tarus@csc.fi
-    role: Development manager
-    groups:
-        - glenna-sg
-
 thomassen:
     name: Gard Thomassen
     home: USIT
