@@ -14,8 +14,7 @@ National e-infrastructure provider training:
 * Sigma2, NO: https://www.sigma2.no/content/training
 * SNIC, SE: http://docs.snic.se/wiki/Training
 
-Biobanking:
-* BBMRI SE: http://booc.biobanks.se
+
 
 == Training calendar ==
 NeIC uses a shared calendar to collect and disseminate information on upcoming training events that are either arranged by NeIC or partners, or are of interest to NeIC and its stakeholders. The information in this calendar does not supersede or overrule any official information by the training organizers, so interested parties should take care to refer to the official website for each training for accurate and up-to-date information on for example admittance, costs, etc. The training calendar can for example be viewed here:
