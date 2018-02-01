@@ -933,6 +933,28 @@ djos:
         - staff
         - bdi
         
+zirk:
+    name: Allan Zirk
+    home: Estonian Museum of Natural History
+    country: "EE"
+    role: Biodiversity staff
+    email: allan.zirk@ut.ee
+    phone: 
+    groups:
+        - staff
+        - bdi
+        
+Riihikoski:
+    name: Ville-Matti Riihikoski
+    home: Finnish Museum of Natural History
+    country: "FI"
+    role: Biodiversity staff
+    email: ville-matti.riihikoski@helsinki.fi
+    phone: 
+    groups:
+        - staff
+        - bdi
+        
 bladt:
     name: Jesper Bladt
     home: Aarhus University
