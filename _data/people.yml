@@ -866,7 +866,7 @@ gardenfors:
     email: ulf.gardenfors@slu.se
     phone:
     groups:
-        - bdi-sg
+        
 
 koljalg:
     name: Urmas Kõljalg
@@ -876,6 +876,7 @@ koljalg:
     email: urmas.koljalg@ut.ee
     phone:
     groups:
+        - bdi
         - bdi-sg
 
 klahti:
@@ -919,9 +920,19 @@ dettki:
     email: holger.dettki@slu.se
     phone: "M: +46 73 048 7872"
     groups:
+        - bdi-sg
+
+djos:
+    name: Matts Djos
+    home: Swedish University of Agricultural Sciences
+    country: "SE"
+    role: Biodiversity staff
+    email: matts.djos@slu.se
+    phone: "M: +46 70 728 7027"
+    groups:
         - staff
         - bdi
-
+        
 bladt:
     name: Jesper Bladt
     home: Aarhus University
