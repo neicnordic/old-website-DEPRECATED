@@ -1141,18 +1141,6 @@ sabryr:
     groups:
         - coderefinery
 
-denissov:
-    name: Nikolai Denissov
-    home: CSC
-    country: "FI"
-    email: nikolai.denissov@csc.fi
-    role: CodeRefinery Project Member
-    image: /media/nikolai.png
-    phone: "M: +358 40 159 0188"
-    groups:
-        - staff
-        - coderefinery
-
 lindi:
     name: Bjørn Lindi
     home: NTNU
